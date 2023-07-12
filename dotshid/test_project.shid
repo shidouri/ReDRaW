@@ -6,8 +6,8 @@
 #using scripts\zm\shid_gsc_3;
 
 ><gscheaders><
-#insert scripts\zm\shid_gsh1.gsh
-#insert scripts\zm\shid_gsh2.gsh
+#insert scripts\zm\shid_gsh1.gsh;
+#insert scripts\zm\shid_gsh2.gsh;
 
 ><gscprecaching><
 #precache("model", "gsc_model");
@@ -42,9 +42,9 @@ function boat_think()
 #using scripts\zm\shid_csc3;
 
 ><cscheaders><
-#insert scripts\zm\shid_gsh1.gsh
-#insert scripts\zm\shid_gsh1.gsh
-#insert scripts\zm\shid_gsh1.gsh
+#insert scripts\zm\shid_gsh1.gsh;
+#insert scripts\zm\shid_gsh1.gsh;
+#insert scripts\zm\shid_gsh1.gsh;
 
 ><cscprecaching><
 #precache("model", "csc_model");
