@@ -1,64 +1,66 @@
 ><gscusings><
-#using scripts\zm\_shid_test;
-#using scripts\zm\_shid_test2;
-#using scripts\zm\_shid_test3;
-#using scripts\zm\_shid_test4;
+#using scripts\zm\_zm_shid_test;
+#using scripts\zm\_zm_shid_test2;
 
 ><gscusingspostusermap><
-#using scripts\zm\_shid_test_post_usermap;
-#using scripts\zm\_shid_test_post_usermap2;
-#using scripts\zm\_shid_test_post_usermap3;
+#using scripts\zm\_zm_shid_test3;
 
 ><gscheaders><
-#insert scripts\zm\_shid_test.gsh;
-#insert scripts\zm\_shid_test2.gsh;
-#insert scripts\zm\_shid_test3.gsh;
-#insert scripts\zm\_shid_test4.gsh;
+#insert scripts\zm\_zm_shid_test.gsh
+#insert scripts\zm\_zm_shid_test2.gsh
 
 ><gscprecaching><
-#precache("fx", "some_cool_fx");
-#precache("fx", "some_cool_fx2");
-#precache("fx", "some_cool_fx3");
-#precache("fx", "some_cool_fx4");
+#precache("model", "my_awesome_model_in_ape");
+#precache("fx", "shid/my_awesome_fx_in_ape");
 
 ><gscpremain><
-    level.shid_test_var1 = 0;
-    level.shid_test_var2 = 0;
-    level.shid_test_var3 = 0;
+level.is_boat_intro_done = undefined;
 
 ><gscpostmain><
-    boat = GetEnt("boat_ent", "targetname");
-    boat thread boat_think();
-    level thread watch_game_over();
+level.is_boat_intro_done = true;
+level thread boat_think();
 
 ><gscfuncs><
 function boat_think()
 {
-    self MoveTo(self.origin + (50, 0, 0));
-    self waittill("movedone");
-    level.shid_test_var1 = 1;
-}
+    level flag::wait_till("all_players_connected");
 
-function watch_game_over()
-{
-    iPrintLnBold("Game Over Oh No!");
+    wait 10;
+
+    self MoveTo(self.origin + (0, 300, 0));
+
+    self waittill("movedone");
+
+    self Delete();
 }
 
 ><cscusings><
+#using scripts\zm\_zm_shid_test2;
 
 ><cscusingspostusermap><
-
+#using scripts\zm\_zm_shid_test3;
+#using scripts\zm\_zm_shid_test5;
 
 ><cscheaders><
+#insert scripts\zm\_zm_shid_test2.gsh
+#insert scripts\zm\_zm_shid_test3.gsh
+#insert scripts\zm\_zm_shid_test5.gsh
 
 ><cscprecaching><
+#precache("model", "my_awesome_model_in_ape");
+#precache("client_fx", "shid/my_awesome_csc_fx_in_ape");
 
 ><cscpremain><
+    LuiLoad( "ui.uieditor.menus.hud.hud_zm_mapname" );
     
 ><cscpostmain><
+    thread test_thread_func();
 
 ><cscfuncs><
-
+function test_thread_func()
+{
+    return;
+}
 ><zoneincludes><
 
 ><zoneadditions><
@@ -68,3 +70,12 @@ function watch_game_over()
 ><luiadditions><
 
 ><szcadditions><
+
+
+
+
+
+
+
+
+
