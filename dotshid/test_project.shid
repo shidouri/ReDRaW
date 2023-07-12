@@ -1,17 +1,17 @@
 ><gscusings><
-#using scripts\zm\_zm_shid_test;
-#using scripts\zm\_zm_shid_test2;
+#using scripts\zm\shid_gsc_1;
+#using scripts\zm\shid_gsc_2;
 
 ><gscusingspostusermap><
-#using scripts\zm\_zm_shid_test3;
+#using scripts\zm\shid_gsc_3;
 
 ><gscheaders><
-#insert scripts\zm\_zm_shid_test.gsh
-#insert scripts\zm\_zm_shid_test2.gsh
+#insert scripts\zm\shid_gsh1.gsh
+#insert scripts\zm\shid_gsh2.gsh
 
 ><gscprecaching><
-#precache("model", "my_awesome_model_in_ape");
-#precache("fx", "shid/my_awesome_fx_in_ape");
+#precache("model", "gsc_model");
+#precache("fx", "gsc_fx");
 
 ><gscpremain><
 level.is_boat_intro_done = undefined;
@@ -35,20 +35,20 @@ function boat_think()
 }
 
 ><cscusings><
-#using scripts\zm\_zm_shid_test2;
+#using scripts\zm\shid_csc1;
 
 ><cscusingspostusermap><
-#using scripts\zm\_zm_shid_test3;
-#using scripts\zm\_zm_shid_test5;
+#using scripts\zm\shid_csc2;
+#using scripts\zm\shid_csc3;
 
 ><cscheaders><
-#insert scripts\zm\_zm_shid_test2.gsh
-#insert scripts\zm\_zm_shid_test3.gsh
-#insert scripts\zm\_zm_shid_test5.gsh
+#insert scripts\zm\shid_gsh1.gsh
+#insert scripts\zm\shid_gsh1.gsh
+#insert scripts\zm\shid_gsh1.gsh
 
 ><cscprecaching><
-#precache("model", "my_awesome_model_in_ape");
-#precache("client_fx", "shid/my_awesome_csc_fx_in_ape");
+#precache("model", "csc_model");
+#precache("client_fx", "csc_fx");
 
 ><cscpremain><
     LuiLoad( "ui.uieditor.menus.hud.hud_zm_mapname" );
