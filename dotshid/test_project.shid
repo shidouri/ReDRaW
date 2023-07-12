@@ -1,0 +1,61 @@
+><gscusings><
+#using scripts\zm\_zm_shid_test;
+#using scripts\zm\_zm_shid_test2;
+
+><gscusingspostusermap><
+#using scripts\zm\_zm_shid_test3;
+#using scripts\zm\_zm_shid_test4;
+#using scripts\zm\_zm_shid_test5;
+
+><gscheaders><
+#insert scripts\zm\_zm_shid_test.gsh
+
+><gscprecaching><
+#precache("model", "my_awesome_model_in_ape");
+#precache("fx", "shid/my_awesome_fx_in_ape");
+
+><gscpremain><
+level.is_boat_intro_done = true;
+
+><gscpostmain><
+level.is_boat_intro_done = false;
+level thread boat_think();
+
+><gscfuncs><
+function boat_think()
+{
+    level flag::wait_till("all_players_connected");
+
+    wait 10;
+
+    self MoveTo(self.origin + (0, 300, 0));
+
+    self waittill("movedone");
+
+    self Delete();
+}
+
+><cscusings><
+
+><cscusingspostusermap><
+
+
+><cscheaders><
+
+><cscprecaching><
+
+><cscpremain><
+    
+><cscpostmain><
+
+><cscfuncs><
+
+><zoneincludes><
+
+><zoneadditions><
+
+><luirequires><
+
+><luiadditions><
+
+><szcadditions><
