@@ -1,34 +1,18 @@
 ><gscusings><
-#using test_line_using_1;
-#using test_line_using_2;
-#using test_line_using_3;
+
 ><gscusingspostusermap><
-#using post_usermap_using_1;
-#using post_usermap_using_2;
-#using post_usermap_using_3;
+
 ><gscheaders><
-#insert test_header_1;
-#insert test_header_2;
-#insert test_header_3;
+
 ><gscprecaching><
 #precache("fx", "some_cool_fx");
+
 ><gscpremain><
 
 ><gscpostmain><
 level thread boat_think();
+
 ><gscfuncs><
-function boat_think()
-{
-    level flag::wait_till("all_players_connected");
-
-    wait 10;
-
-    self MoveTo(self.origin + (0, 300, 0));
-
-    self waittill("movedone");
-
-    self Delete();
-}
 
 ><cscusings><
 
