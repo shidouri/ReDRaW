@@ -11,9 +11,9 @@
 #precache("fx", "some_cool_fx");
 
 ><gscpremain><
-level.shid_test_var1 = 0;
-level.shid_test_var2 = 0;
-level.shid_test_var3 = 0;
+    level.shid_test_var1 = 0;
+    level.shid_test_var2 = 0;
+    level.shid_test_var3 = 0;
 
 ><gscpostmain><
     level thread boat_think();
