@@ -1,14 +1,25 @@
 ><gscusings><
 #using scripts\zm\_shid_test;
+#using scripts\zm\_shid_test2;
+#using scripts\zm\_shid_test3;
+#using scripts\zm\_shid_test4;
 
 ><gscusingspostusermap><
 #using scripts\zm\_shid_test_post_usermap;
+#using scripts\zm\_shid_test_post_usermap2;
+#using scripts\zm\_shid_test_post_usermap3;
 
 ><gscheaders><
 #insert scripts\zm\_shid_test.gsh
+#insert scripts\zm\_shid_test2.gsh
+#insert scripts\zm\_shid_test3.gsh
+#insert scripts\zm\_shid_test4.gsh
 
 ><gscprecaching><
 #precache("fx", "some_cool_fx");
+#precache("fx", "some_cool_fx2");
+#precache("fx", "some_cool_fx3");
+#precache("fx", "some_cool_fx4");
 
 ><gscpremain><
     level.shid_test_var1 = 0;
@@ -16,7 +27,9 @@
     level.shid_test_var3 = 0;
 
 ><gscpostmain><
-    level thread boat_think();
+    boat = GetEnt("boat_ent", "targetname");
+    boat thread boat_think();
+    level thread watch_game_over();
 
 ><gscfuncs><
 function boat_think()
@@ -24,6 +37,11 @@ function boat_think()
     self MoveTo(self.origin + (50, 0, 0));
     self waittill("movedone");
     level.shid_test_var1 = 1;
+}
+
+function watch_game_over()
+{
+    iPrintLnBold("Game Over Oh No!");
 }
 
 ><cscusings><
