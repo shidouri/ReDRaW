@@ -10,10 +10,10 @@
 #using scripts\zm\_shid_test_post_usermap3;
 
 ><gscheaders><
-#insert scripts\zm\_shid_test.gsh
-#insert scripts\zm\_shid_test2.gsh
-#insert scripts\zm\_shid_test3.gsh
-#insert scripts\zm\_shid_test4.gsh
+#insert scripts\zm\_shid_test.gsh;
+#insert scripts\zm\_shid_test2.gsh;
+#insert scripts\zm\_shid_test3.gsh;
+#insert scripts\zm\_shid_test4.gsh;
 
 ><gscprecaching><
 #precache("fx", "some_cool_fx");
