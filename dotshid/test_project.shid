@@ -1,6 +1,7 @@
 ><gscusings><
 #using test_line_using_1;
 #using test_line_using_2;
+#using test_line_using_3;
 ><gscusingspostusermap><
 
 ><gscheaders><
