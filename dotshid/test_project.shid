@@ -14,11 +14,11 @@
 #precache("fx", "gsc_fx");
 
 ><gscpremain><
-level.is_boat_intro_done = undefined;
+    level.is_boat_intro_done = undefined;
 
 ><gscpostmain><
-level.is_boat_intro_done = true;
-level thread boat_think();
+    level.is_boat_intro_done = true;
+    level thread boat_think();
 
 ><gscfuncs><
 function boat_think()
