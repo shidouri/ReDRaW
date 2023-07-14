@@ -1,0 +1,31 @@
+><gscusings><
+><gscusingspostusermap><
+><gscheaders><
+><gscprecaching><
+><gscpremain><
+><gscpostmain><
+	level thread zm_theater_vox();
+><gscfuncs><
+function zm_theater_vox()
+{
+	zm_audio::loadPlayerVoiceCategories("gamedata/audio/zm/zm_theater_vox.csv");
+}
+><cscusings><
+><cscusingspostusermap><
+><cscheaders><
+><cscprecaching><
+><cscpremain><
+><cscpostmain><
+><cscfuncs><
+><zoneincludes><
+><zoneadditions><
+stringtable,gamedata/audio/zm/zm_theater_vox.csv
+><luirequires><
+><luiadditions><
+><szcadditions><
+{
+	"Type" : "ALIAS",
+	"Name" : "zm_theater_vox",
+	"Filename" : "zm_theater_vox.csv",
+	"Specs" : [ ] 
+}
