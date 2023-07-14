@@ -4,7 +4,7 @@
 ><gscprecaching><
 ><gscpremain><
 ><gscpostmain><
-  level thread zm_factory_vox();
+	level thread zm_factory_vox();
 ><gscfuncs><
 function zm_factory_vox()
 {
