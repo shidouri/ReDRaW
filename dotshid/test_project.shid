@@ -1,79 +1,28 @@
 ><gscusings><
-#using scripts\zm\shid_gsc_1;
-#using scripts\zm\shid_gsc_2;
-
 ><gscusingspostusermap><
-#using scripts\zm\shid_gsc_3;
-
 ><gscheaders><
-#insert scripts\zm\shid_gsh1.gsh;
-#insert scripts\zm\shid_gsh2.gsh;
-
 ><gscprecaching><
-#precache("model", "gsc_model");
-#precache("fx", "gsc_fx");
-
 ><gscpremain><
-    level.is_boat_intro_done = undefined;
-
 ><gscpostmain><
-    level.is_boat_intro_done = true;
-    level thread boat_think();
-
 ><gscfuncs><
-function boat_think()
-{
-    level flag::wait_till("all_players_connected");
-
-    wait 10;
-
-    self MoveTo(self.origin + (0, 300, 0));
-
-    self waittill("movedone");
-
-    self Delete();
-}
-
 ><cscusings><
-#using scripts\zm\shid_csc1;
-
 ><cscusingspostusermap><
-#using scripts\zm\shid_csc2;
-#using scripts\zm\shid_csc3;
-
 ><cscheaders><
-#insert scripts\zm\shid_gsh1.gsh;
-#insert scripts\zm\shid_gsh1.gsh;
-#insert scripts\zm\shid_gsh1.gsh;
-
 ><cscprecaching><
-#precache("model", "csc_model");
-#precache("client_fx", "csc_fx");
-
 ><cscpremain><
-    LuiLoad( "ui.uieditor.menus.hud.hud_zm_mapname" );
-    
 ><cscpostmain><
-    thread test_thread_func();
-
 ><cscfuncs><
-function test_thread_func()
-{
-    return;
-}
-
 ><zoneincludes><
-include,test_zpkg
-include,test2_zpkg
-
 ><zoneadditions><
-scriptparsetree,scripts/zm/test_thing.gsc
-
 ><luirequires><
-
 ><luiadditions><
-
 ><szcadditions><
+{
+    "Type": "ALIAS",
+    "Name": "zm_shadows",
+    "Filename": "zm_shadows.csv",
+    "Specs": "[ ]"
+},
 
 
 
