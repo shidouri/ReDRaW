@@ -61,9 +61,13 @@ function test_thread_func()
 {
     return;
 }
+
 ><zoneincludes><
+include,test_zpkg
+include,test2_zpkg
 
 ><zoneadditions><
+scriptparsetree,scripts/zm/test_thing.gsc
 
 ><luirequires><
 
