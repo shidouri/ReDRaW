@@ -1,0 +1,25 @@
+><gscusings><
+><gscusingspostusermap><
+><gscheaders><
+><gscprecaching><
+><gscpremain><
+><gscpostmain><
+><gscfuncs><
+><cscusings><
+><cscusingspostusermap><
+><cscheaders><
+><cscprecaching><
+><cscpremain><
+><cscpostmain><
+><cscfuncs><
+><zoneincludes><
+><zoneadditions><
+><luirequires><
+><luiadditions><
+><szcadditions><
+{
+    "Type": "ALIAS",
+    "Name": "moon_round_jingle",
+    "Filename": "moon_round_jingle.csv",
+    "Specs": [ ]
+}
