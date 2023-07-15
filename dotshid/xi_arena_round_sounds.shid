@@ -1,0 +1,25 @@
+><gscusings><
+><gscusingspostusermap><
+><gscheaders><
+><gscprecaching><
+><gscpremain><
+><gscpostmain><
+><gscfuncs><
+><cscusings><
+><cscusingspostusermap><
+><cscheaders><
+><cscprecaching><
+><cscpremain><
+><cscpostmain><
+><cscfuncs><
+><zoneincludes><
+><zoneadditions><
+><luirequires><
+><luiadditions><
+><szcadditions><
+{
+ "Type" : "ALIAS",
+ "Name" : "ix_arena_round",
+ "Filename" : "chaos_ix_arena_round.csv",
+ "Specs" : [ ] 
+}
