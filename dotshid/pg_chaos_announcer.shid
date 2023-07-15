@@ -19,7 +19,7 @@
 ><szcadditions><
 {
 	"Type" : "ALIAS",
-	"Name" : "aether_ancr",
-	"Filename" : "aether_ancr.csv",
+	"Name" : "chaos_ancr",
+	"Filename" : "chaos_ancr.csv",
  	"Specs" : [ ] 
 }
