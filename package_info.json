@@ -134,6 +134,15 @@
         "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/prissy_kino_round_sounds.shid",
         "authors" : "Prissy / Treyarch"
     },
+
+    "prissy_ascension_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Ascension (Chronicles)",
+        "id" : "16oiMCE1duZ6H0HCuGL0hF1N4MWTVCC7G",
+        "md5hash": "7c0bcc8c132aa23948e425ed24949855",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/ascension_round_sounds.shid",
+        "authors" : "Prissy / Treyarch"
+    },
     
     "leafspwn_shang_sounds":
     {
