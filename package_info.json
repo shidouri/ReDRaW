@@ -1,0 +1,370 @@
+{
+    "essentials_l3akmod":
+    {
+        "package_title": "ESSENTIALS : L3AKMOD",
+        "id" : "1Xbrl7xVD0EeeubpXlzbsjJEZkXUPl0bA",
+        "md5hash" : "f49785887cad28b394d41e57b74a5eea",
+        "shidurl" : "NO_SHID_URL",
+        "authors" : "The D3V Team / Treyarch"
+    },
+
+    "essentials_fx":
+    {
+        "package_title": "ESSENTIALS : FX",
+        "id" : "1BT7nCuWGOezY03guNxN3KTXalyDAJ9oF",
+        "md5hash" : "3a163702e32b615a24732db0db49613b",
+        "shidurl" : "NO_SHID_URL",
+        "authors" : "Treyarch / DEVRAW / HarryBO21"
+    },
+
+    "essentials_ssd":
+    {
+        "package_title": "ESSENTIALS : SURFACE SOUND DEFINITIONS",
+        "id" : "14in2UwdXfdcFRNufvjCF1THcqH1vFRCP",
+        "md5hash" : "9120c804b6755b695fde852aa15fb248",
+        "shidurl" : "NO_SHID_URL",
+        "authors" : "Treyarch / DEVRAW / HarryBO21"
+    },
+
+    "essentials_beams":
+    {
+        "package_title": "ESSENTIALS : BEAMS",
+        "id" : "19nViKu0B3CzCq1up_GE5no-35AwEHARA",
+        "md5hash" : "11e11e0092616d17ad1644155d4ac87d",
+        "shidurl" : "NO_SHID_URL",
+        "authors" : "Treyarch / DEVRAW / HarryBO21"
+    },
+
+    "essentials_physics":
+    {
+        "package_title": "ESSENTIALS : PHYSICS",
+        "id" : "1pulVnBzhFsTXeIiifwFXoUOHTl4VhJ3h",
+        "md5hash" : "39a825b9d2364356af0ff48875553e18",
+        "shidurl" : "NO_SHID_URL",
+        "authors" : "Treyarch / DEVRAW / HarryBO21"
+    },
+
+    "essentials_rumble":
+    {
+        "package_title": "ESSENTIALS : RUMBLES",
+        "id" : "1qoQa9AhJJNRBGi9wKO5zefwKwvZ_6HVx",
+        "md5hash" : "bca93bc93b1b87251200f62589748ca4",
+        "shidurl" : "NO_SHID_URL",
+        "authors" : "Treyarch / DEVRAW / HarryBO21"
+    },
+
+    "essentials_vsd":
+    {
+        "package_title": "ESSENTIALS : VEHICLE SOUND DEFINITIONS",
+        "id" : "1okDYPBy42mitP8Un8SCUpjea9N_7pCVs",
+        "md5hash" : "d40ba45be4ac42161a007b359dfd5a98",
+        "shidurl" : "NO_SHID_URL",
+        "authors" : "Treyarch / DEVRAW / HarryBO21"
+    },
+
+    "essentials_bt":
+    {
+        "package_title": "ESSENTIALS : BT STUFF",
+        "id" : "1sLKNTJkYJaEKMDHAwecBYKKdWThVPMZ-",
+        "md5hash" : "18cb573acccebc8c47db7acd6c4aa55f",
+        "shidurl" : "NO_SHID_URL",
+        "authors" : "Treyarch / DEVRAW / HarryBO21"
+    },
+
+
+    "leafspwn_soe_round_sounds":
+    {
+        "package_title": "ROUND SOUNDS : Shadows of Evil",
+        "id" : "1h6qTAiw1fw4YnqPNqbfx9CbtaPlr7mn-",
+        "md5hash" : "49eb980ecc564702c2726aad79ba45dc",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/soe_round_sounds.shid",
+        "authors" : "LEAFSPWN88 / Treyarch"
+    },
+
+    "prissy_de_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Der Eisendrache",
+        "id" : "15WxVIwklPITgRCgNxcGzft7e9gABbYj9",
+        "md5hash": "3afb910dedf3b0a422cb342a77d34f01",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/prissy_de_round_sounds.shid",
+        "authors" : "Prissy / Treyarch"
+    },
+
+    "leafspwn_zets_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Zetsubou No Shima",
+        "id" : "1JMgq1UITz43sHnknqBP7r0BuV-Q4i6tH",
+        "md5hash": "728886a1c85cd1e13ce0c3709e3891f3",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/zets_round_sounds.shid",
+        "authors" : "LEAFSPWN88 / Treyarch"
+    },
+
+    "prissy_gorod_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Gorod Krovi",
+        "id" : "1I1AHp18j0ODza1YEQHRPdzOye9MHLxM-",
+        "md5hash": "cf1c966da241eb7db1516b76322eb76e",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/prissy_gorod_round_sounds.shid",
+        "authors" : "Prissy / Treyarch"
+    },
+
+    "leafspwn_rev_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Revelations",
+        "id" : "1003BTOnu5TaZlzdQOWV4taHYQneL1dvC",
+        "md5hash": "3d4afeb486747c8c2ecd078d7c6443b0",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/leafspwn_rev_round_sounds.shid",
+        "authors" : "LEAFSPWN88 / Treyarch"
+    },
+
+    "classic_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Classic WAW - BO1",
+        "id" : "1Lbt9VRK2_o_527eVWbepWl9iVnbn8G7w",
+        "md5hash": "57a66ad36ef269b42fde44f318ed4350",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/classic_round_sounds.shid",
+        "authors" : "Shidouri / Treyarch"
+    },
+
+
+    "el3d3st_moon_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Moon",
+        "id" : "1maWNp9RJzjYnfIdxMiPutlCLyDZ3KZNp",
+        "md5hash": "ce348e6c95ffa6a21b89415063c643b5",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/moon_round_sounds.shid",
+        "authors" : "El3d3st / Treyarch"
+    },
+
+    "xi_arena_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : XI Arena",
+        "id" : "1UFjuzmh3HGdHq87P8QdbUPYrvmnvKmtR",
+        "md5hash": "5369c62f91f7f7a7f5736dfe740ca8ed",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/xi_arena_round_sounds.shid",
+        "authors" : "Pepergogo / Treyarch"
+    },
+
+    "xi_temple_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : XI Temple",
+        "id" : "1LLTAE_o_gmcqz07GQ_XCEctCpnwLK4mf",
+        "md5hash": "0e8baf344366cd2d6429bd9fb985c0ce",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/xi_temple_round_sounds.shid",
+        "authors" : "Pepergogo / Treyarch"
+    },
+
+    "dotn_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Dead of the Night",
+        "id" : "14VePgT-HV1a2A8yCwpsvAwn1Kp6fKKfV",
+        "md5hash": "3f0cb4781286e8658e8ed4ed6e69b051",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/dotn_round_sounds.shid",
+        "authors" : "Pepergogo / Treyarch"
+    },
+
+    "ae_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Ancient Evil",
+        "id" : "1SVmZ4l7zTVTHbW72wLW4d2LqlPXE967O",
+        "md5hash": "70171a20ef76fa6ce49f35645142b272",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/ae_round_sounds.shid",
+        "authors" : "Pepergogo / Treyarch"
+    },
+
+    "voyage_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Voyage of Despair",
+        "id" : "1Pxk47ZoU9jsXtyfpltJt94g42C5cw1Vn",
+        "md5hash": "b3c1968556321eafe1966435337a392a",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/vod_round_sounds.shid",
+        "authors" : "Pepergogo / Treyarch"
+    },
+
+    "die_maschine_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Die Maschine",
+        "id" : "1mGn1cscLo_nl9BJhFdiqFj5j3amgO5Nb",
+        "md5hash": "63630851ede548b1746c5a6c56c7dfd4",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/garrett_diemaschine_sounds.shid",
+        "authors" : "Garrett / Treyarch"
+    },
+
+    "xmas_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Jingle Hells",
+        "id" : "1nM21NOtfugGn8nQxjSB9vTaIXjCnwTXt",
+        "md5hash": "b4f976f0a04a4cf5489ec0e09694f61f",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/garrett_jingle_hells.shid",
+        "authors" : "Garrett / Treyarch"
+    },
+
+    "giant_vox_sounds":
+    {
+        "package_title" : "VOX : The Giant Character Voicelines",
+        "id" : "1VGOQzUCZK1SAz-4c4Bi8ENgY9uNl3qqG",
+        "md5hash": "62b5e58aee58d67c862e6e487d9cfcc2",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/giant_char_vox_sounds.shid",
+        "authors" : "LEAFSPWN88 / Treyarch"
+    },
+
+    "kino_vox_sounds":
+    {
+        "package_title" : "VOX : Kino Der Toten Character Voicelines",
+        "id" : "12O6VFlUgGBJv6_FqI44GoCi04J81y8zT",
+        "md5hash": "42eca82f902ae5f2a0402d0ed5cc2d04",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kino_char_vox_sounds.shid",
+        "authors" : "LEAFSPWN88 / Treyarch"
+    },
+
+    "kyle_hud_iw":
+    {
+        "package_title" : "HUD : Infinite Warfare",
+        "id" : "1iajyO-g7SNdvCJDgWpPAUYD0uqgOWSyB",
+        "md5hash": "094b9a93070097637ccab151b6ba1075",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_iw_hud.shid",
+        "authors" : "Kingslayer Kyle / Infinity Ward"
+    },
+
+    "kyle_hud_ww2":
+    {
+        "package_title" : "HUD : World War II",
+        "id" : "1qCU8Xeeycr7gEJWiR8CFfajJz-jnan9g",
+        "md5hash": "b6ef4a273f227283a31e352f893c1f68",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_ww2_hud.shid",
+        "authors" : "Kingslayer Kyle / Sledgehammer Games"
+    },
+
+    "kyle_hud_bo4":
+    {
+        "package_title" : "HUD : Black Ops 4",
+        "id" : "1SZX1WJK7QYNptSU2JdEJy_mkVq1uXrQu",
+        "md5hash": "9aa4ebfd00a4040acedf83de21d2c69c",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_bo4_hud.shid",
+        "authors" : "Kingslayer Kyle / Treyarch"
+    },
+
+    "aether_announcer":
+    {
+        "package_title" : "ANNOUNCER : Aether Storyline",
+        "id" : "1TtVJm9Ls7ouvxSwkZSrjJ7oO5X5DmRyZ",
+        "md5hash": "89596bb3bf52a6be4d24c2f7fc58ae0b",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/pg_aether_announcer.shid",
+        "authors" : "Pepergogo / Treyarch"
+    },
+
+    "avogadro_announcer":
+    {
+        "package_title" : "ANNOUNCER : Avogadro",
+        "id" : "1IYPIrdZYYzQvIid9g_Dv5Co9Nx35YqLK",
+        "md5hash": "da7d44f430cc3de7f3e49a9bc37ab966",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/garrett_avogadro_ancr.shid",
+        "authors" : "Garrett / Treyarch"
+    },
+
+    "cw_announcer":
+    {
+        "package_title" : "ANNOUNCER : Black Ops Cold War",
+        "id" : "1oxRJQhMoRXJ-4NZHAy--fEnNenaxy66w",
+        "md5hash": "92616fc1f94f81fab243e919004f4e63",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/j_ancr_cw.shid",
+        "authors" : "JG / Treyarch"
+    },
+
+    "chaos_announcer":
+    {
+        "package_title" : "ANNOUNCER : Chaos Storyline",
+        "id" : "1eLMmYU3i-TWghmy1CNaBAedaTvos5zaa",
+        "md5hash": "2c946f77b40acfe9224398cf8392cb6d",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/pg_chaos_announcer.shid",
+        "authors" : "Pepergogo / Treyarch"
+    },
+
+    "der_anfang_announcer":
+    {
+        "package_title" : "ANNOUNCER : Der Anfang",
+        "id" : "1OHQiQAP4XwWLU_hVf_aYwk-3UqTiWxUE",
+        "md5hash": "eb6383ae3333668a95d4e4bf2903f871",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/j_der_anfang_ancr.shid",
+        "authors" : "JG / Treyarch / Sledgehammer Games"
+    },
+    
+    "monty_announcer":
+    {
+        "package_title" : "ANNOUNCER : Dr. Monty",
+        "id" : "1V4VsPHPRSVVDXW7kgkAv60A_DkUyaVa_",
+        "md5hash": "6806f9cba0080a8f9524ffe4cab8760a",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/booris_ancr_monty.shid",
+        "authors" : "Booris / Treyarch"
+    },
+
+    "richtofen_announcer":
+    {
+        "package_title" : "ANNOUNCER : Richtofen",
+        "id" : "1BjLsq4tT_k94Evj4lrTWWM-iBRgCCuVf",
+        "md5hash": "83b86f56b9c7ad4c6650874346980fc9",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/voj_richtofen_ancr.shid",
+        "authors" : "VOICEOFJARAED / Treyarch"
+    },
+
+    "rush_announcer":
+    {
+        "package_title" : "ANNOUNCER : Rush Storyline",
+        "id" : "1-5JkGTl_FzNnloOtQIsJ0BUmQDWOSBBo",
+        "md5hash": "45cd7c90ff1611a51222936bcf5c0745",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/pg_rush_announcer.shid",
+        "authors" : "Pepergogo / Treyarch"
+    },
+
+    "samantha_announcer":
+    {
+        "package_title" : "ANNOUNCER : Samantha [Origins]",
+        "id" : "1w6LAfEOgTFLImBCVC6UDZdr9g9I4Nsh4",
+        "md5hash": "e5b2c7697776a40023ef3408214f21b2",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/ancr_samantha.shid",
+        "authors" : "JG / Treyarch"
+    },
+
+    "shadowman_announcer":
+    {
+        "package_title" : "ANNOUNCER : Shadow Man",
+        "id" : "1Sy_b0xh7M6DN8HnxcAYDAxaEJiTfprRm",
+        "md5hash": "02500b05e5006b5ccceff0a2c70870b9",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/booris_shadowman_ancr.shid",
+        "authors" : "Booris / Treyarch"
+    },
+
+    "willard_wyler_announcer":
+    {
+        "package_title" : "ANNOUNCER : Willard Wyler",
+        "id" : "1C8_6Bwr2ttUy-Fuk6PE1DvecklkhUD2c",
+        "md5hash": "f03d7c1c98583085515c4e0de92f2ecb",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/satan_ww_announcer.shid",
+        "authors" : "SATAN / Infinity Ward"
+    },
+
+    "owen_stranded":
+    {
+        "package_title": "MODEL PACK : Stranded Deep",
+        "id" : "1rbN1OOcs9qY7EsuGpZdkdhpxAcas0aOX",
+        "md5hash" : "19905a512e17ba54c93d3cf260dd79f2",
+        "shidurl" : "NO_SHID_URL",
+        "authors" : "Owen / Beam Team Games"
+    },
+
+    "spx_micro":
+    {
+        "package_title": "MODEL PACK : Micro",
+        "id" : "1Oc0PgAXVj9tNBNtS0ATyiDgOOV66tF82",
+        "md5hash" : "4bf97f01b47fbe20b5b36ecd1c9f9109",
+        "shidurl" : "NO_SHID_URL",
+        "authors" : "Sphynx / Treyarch"
+    }
+
+
+
+
+    
+
+    
+}
