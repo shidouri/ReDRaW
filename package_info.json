@@ -126,6 +126,14 @@
         "authors" : "Shidouri / Treyarch"
     },
 
+    "leafspwn_shang_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Shangri La",
+        "id" : "1LB0itpOA0BX_IQEh4Bv-OuuBJ3FDSUIJ",
+        "md5hash": "60d4c34b9e30fd94fe4c92c765b21254",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/leafspwn_shang_round_sounds.shid",
+        "authors" : "LEAFSPWN88 / Treyarch"
+    },
 
     "el3d3st_moon_round_sounds":
     {
