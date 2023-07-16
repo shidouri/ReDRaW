@@ -126,6 +126,15 @@
         "authors" : "Shidouri / Treyarch"
     },
 
+    "prissy_kino_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Kino Der Toten (Chronicles)",
+        "id" : "1aCy1EN-4AJGdTgfue7uVKMfcv6vDsV0R",
+        "md5hash": "f1465f5f0b44cf96df7056b2669ec621",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/prissy_kino_round_sounds.shid",
+        "authors" : "Prissy / Treyarch"
+    },
+    
     "leafspwn_shang_sounds":
     {
         "package_title" : "ROUND SOUNDS : Shangri La",
