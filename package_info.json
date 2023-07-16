@@ -153,6 +153,15 @@
         "authors" : "El3d3st / Treyarch"
     },
 
+    "prissy_origins_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Origins",
+        "id" : "1IhKKPchgacKezVECiG0JpTYA3_T1ucR0",
+        "md5hash": "c4ab04b540f7d8783643668b55cbb0ac",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/origins_round_sounds.shid",
+        "authors" : "Prissy / Treyarch"
+    },
+
     "xi_arena_round_sounds":
     {
         "package_title" : "ROUND SOUNDS : XI Arena",
