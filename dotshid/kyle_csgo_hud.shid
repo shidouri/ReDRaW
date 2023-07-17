@@ -1,0 +1,22 @@
+><gscusings><
+#using scripts\zm\_zm_csgo_hud;
+><gscusingspostusermap><
+><gscheaders><
+><gscprecaching><
+><gscpremain><
+><gscpostmain><
+><gscfuncs><
+><cscusings><
+#using scripts\zm\_zm_csgo_hud;
+><cscusingspostusermap><
+><cscheaders><
+><cscprecaching><
+><cscpremain><
+><cscpostmain><
+><cscfuncs><
+><zoneincludes><
+include,csgo_hud
+><zoneadditions><
+><luirequires><
+><luiadditions><
+><szcadditions><
