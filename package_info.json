@@ -279,6 +279,15 @@
         "authors" : "Kingslayer Kyle / Treyarch"
     },
 
+    "mg_hud":
+    {
+        "package_title" : "HUD : Madgaz V2",
+        "id" : "1Eq9b8W5PnksRMNM51n9xt-I_s-fI1W68",
+        "md5hash": "7053ba24d3530882b12d607e97637a5b",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/mg_hud.shid",
+        "authors" : "Madgaz"
+    },
+
     "aether_announcer":
     {
         "package_title" : "ANNOUNCER : Aether Storyline",
