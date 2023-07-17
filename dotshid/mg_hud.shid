@@ -1,0 +1,81 @@
+><gscusings><
+><gscusingspostusermap><
+><gscheaders><
+><gscprecaching><
+><gscpremain><
+    clientfield::register( "clientuimodel", "zmhud.playerHealth", VERSION_SHIP, 7, "float" ); //gsc hud stuff aboce usermap::main
+    callback::on_spawned( &playerSetupHud );
+><gscpostmain><
+><gscfuncs><
+function playerSetupHud()
+{
+    self.shield = 0;
+    level waittill("initial_blackscreen_passed");
+    self thread playerHealthUpdate();
+}
+
+function playerHealthUpdate()
+{
+    self endon("disconnect");
+    level endon( "game_ended" );
+
+    self notify("healthWatchStart");
+    self endon("healthWatchStart");
+
+    self clientfield::set_player_uimodel( "zmhud.playerHealth", 1 );
+
+    lastHealth = self.health;
+  
+    while(1)
+    {
+        if(self laststand::player_is_in_laststand())
+        {
+            lastHealth = 0;
+            self clientfield::set_player_uimodel( "zmhud.playerHealth", -1 );
+        }
+        else if(lastHealth != self.health)
+        {
+            lastHealth = self.health;
+            scaledHealth = scalePlayerHealth(0, self.maxhealth, self.health, 0, 100);
+            self clientfield::set_player_uimodel( "zmhud.playerHealth", scaledHealth/100 );
+        }
+
+        wait 0.05;
+    }
+}
+
+function scalePlayerHealth(min, max, current, newMin, newMax)
+{
+    if(min > max || newmin > newMin) return;
+
+    temp = (current - min) / (max - min);
+    scaledResult = temp * (newMax - newMin) + newMin ;
+    return scaledResult;
+}
+><cscusings><
+><cscusingspostusermap><
+><cscheaders><
+><cscprecaching><
+><cscpremain><
+	  // inside function main BEFORE zm_usermap::main():
+	  clientfield::register( "clientuimodel", "zmhud.playerHealth", VERSION_SHIP, 7, "float", undefined, !CF_HOST_ONLY, !CF_CALLBACK_ZERO_ON_NEW_ENT );
+    
+    //lui load for hud
+	  LuiLoad( "ui.uieditor.menus.hud.t7hud_zm_madgaz" );
+	  LuiLoad( "ui.uieditor.widgets._mg_hud._mg_powerup_icons" );
+><cscpostmain><
+
+	    //aat stuff for hud
+    	level.aat["zm_aat_blast_furnace"].icon = "_mg_blastfurance_aat";
+    	level.aat["zm_aat_dead_wire"].icon = "_mg_deadwire_aat";
+    	level.aat["zm_aat_fire_works"].icon = "_mg_fireworks_aat";
+    	level.aat["zm_aat_thunder_wall"].icon = "_mg_thunderwall_aat";
+    	level.aat["zm_aat_turned"].icon = "_mg_turned_aat";
+><cscfuncs><
+><zoneincludes><
+include,zm_mg_hud
+><zoneadditions><
+scriptparsetree,scripts/zm/_zm_powerup_full_ammo.gsc
+><luirequires><
+><luiadditions><
+><szcadditions><
