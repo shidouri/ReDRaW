@@ -278,7 +278,16 @@
         "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_bo4_hud.shid",
         "authors" : "Kingslayer Kyle / Treyarch"
     },
-
+    
+    "kyle_csgo_hud":
+    {
+        "package_title" : "HUD : Counter Strike : Global Offensive [CS:GO],
+        "id" : "1IDR78YuYI_BT4FbS6mj5Y9M7fX5-FcXz",
+        "md5hash": "b2d305e5b7a83021a28d1eb9d2a47eaa",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_csgo_hud.shid",
+        "authors" : "Kingslayer Kyle / Valve"
+    },
+    
     "mg_hud":
     {
         "package_title" : "HUD : Madgaz V2",
