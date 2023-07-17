@@ -71,7 +71,15 @@
         "authors" : "Treyarch / DEVRAW / HarryBO21"
     },
 
-
+    "redraw_soe_template":
+    {
+        "package_title": "MAP TEMPLATE : Shadows of Evil",
+        "id" : "1rVTHRKa35nNZsJrhLmCMXVnJLA7tyjRI",
+        "md5hash" : "25549cbaf768239909d40cf2181fdf64",
+        "shidurl" : "NO_SHID_URL",
+        "authors" : "Kingslayer Kyle / LEAFSPWN88 / Treyarch"
+    },
+    
     "leafspwn_soe_round_sounds":
     {
         "package_title": "ROUND SOUNDS : Shadows of Evil",
