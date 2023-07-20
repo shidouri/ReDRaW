@@ -179,6 +179,51 @@
         "authors" : "Prissy / Treyarch"
     },
 
+    "spaceland_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Zombies In Spaceland",
+        "id" : "1ES7XcVD3zmc03jyrw-D3yLdIkAxsJnjC",
+        "md5hash": "9ea9ebc377063979a9ae1d88bdde3fa1",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/spaceland_rounds.shid",
+        "authors" : "LEAFSPWN88 / Infinity Ward"
+    },
+
+    "rave_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Rave In The Redwoods",
+        "id" : "1MHm8OG8mwhxyxRT3oftOo9BfFpLh31IY",
+        "md5hash": "64826eb2fc8386d59222217b4df8494e",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/redwoods_round_sounds.shid",
+        "authors" : "LEAFSPWN88 / Infinity Ward"
+    },
+
+    "shaolin_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Shaolin Shuffle",
+        "id" : "1pQjjRmAkV7B8PqRHnLNzWYUrE3zAIfpr",
+        "md5hash": "31300486ea303a69566eba13418fe848",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/shaolin_round_sounds.shid",
+        "authors" : "LEAFSPWN88 / Infinity Ward"
+    },
+
+    "radioactive_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Attack of the Radioactive Thing",
+        "id" : "18QvAp_6FCk3vTuQil-JWEkKehKTM6AuC",
+        "md5hash": "6ad43ce38ca4767af15c13b800975476",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/radioactive_round_sounds.shid",
+        "authors" : "LEAFSPWN88 / Infinity Ward"
+    },
+
+    "beast_beyond_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Beast From Beyond",
+        "id" : "1jZL3BeTal1pDrmS_l5blEYkNIjp4xHa2",
+        "md5hash": "2348ce3211577fc7d83c94cd0ac49311",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/beast_beyond_round_sounds.shid",
+        "authors" : "LEAFSPWN88 / Infinity Ward"
+    },
+    
     "xi_arena_round_sounds":
     {
         "package_title" : "ROUND SOUNDS : XI Arena",
