@@ -223,6 +223,15 @@
         "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/beast_beyond_round_sounds.shid",
         "authors" : "LEAFSPWN88 / Infinity Ward"
     },
+
+    "voyage_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Voyage of Despair",
+        "id" : "1Pxk47ZoU9jsXtyfpltJt94g42C5cw1Vn",
+        "md5hash": "b3c1968556321eafe1966435337a392a",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/vod_round_sounds.shid",
+        "authors" : "Pepergogo / Treyarch"
+    },
     
     "xi_arena_round_sounds":
     {
@@ -242,6 +251,24 @@
         "authors" : "Pepergogo / Treyarch"
     },
 
+    "botd_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Blood of the Dead",
+        "id" : "1GDobBtSujimvLF007ZO56RrI9XcH4cgs",
+        "md5hash": "dfdae0c48bd406e67295a271dce4baf8",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/botd_round_sounds.shid",
+        "authors" : "Booris / Treyarch"
+    },
+
+    "classified_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Classified",
+        "id" : "1I7ePbKf8IwS3ig0x-0nymI8NnpMFcECr",
+        "md5hash": "ff689ace8afafd282b1d7b5c2f9c01a7",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/classified_round_sounds.shid",
+        "authors" : "Booris / Treyarch"
+    },
+    
     "dotn_round_sounds":
     {
         "package_title" : "ROUND SOUNDS : Dead of the Night",
@@ -260,14 +287,24 @@
         "authors" : "Pepergogo / Treyarch"
     },
 
-    "voyage_round_sounds":
+    "ao_round_sounds":
     {
-        "package_title" : "ROUND SOUNDS : Voyage of Despair",
-        "id" : "1Pxk47ZoU9jsXtyfpltJt94g42C5cw1Vn",
-        "md5hash": "b3c1968556321eafe1966435337a392a",
-        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/vod_round_sounds.shid",
-        "authors" : "Pepergogo / Treyarch"
+        "package_title" : "ROUND SOUNDS : Alpha Omega",
+        "id" : "1Ddht9TbqKm7JiO1k0cQfqc8o9ysG88Q9",
+        "md5hash": "ca93eee8d4e1fbfb5e0fa5e08a9a2147",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/alpha_omega.shid",
+        "authors" : "Booris / Treyarch"
     },
+
+    "tag_round_sounds":
+    {
+        "package_title" : "ROUND SOUNDS : Tag Der Toten",
+        "id" : "1o0rNp5HuuDowk2H806E7K8w7u89_-NuV",
+        "md5hash": "587b8bbb9d97b010aa4d79dcf808344e",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/tag_round_sounds.shid",
+        "authors" : "Booris / Treyarch"
+    },
+
 
     "die_maschine_round_sounds":
     {
