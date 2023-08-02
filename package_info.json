@@ -502,12 +502,15 @@
         "md5hash" : "4bf97f01b47fbe20b5b36ecd1c9f9109",
         "shidurl" : "NO_SHID_URL",
         "authors" : "Sphynx / Treyarch"
+    },
+
+    "logical_ai_charred_zombies":
+    {
+        "package_title": "AI: Charred Zombies",
+        "id" : "1L4n2xgOdf89xgRiIsD4O3Z-2g-CgmS6Y",
+        "md5hash" : "181c15a50a91b34c9efa4535b2201612",
+        "shidurl" : "NO_SHID_URL",
+        "authors" : "Logical / Treyarch"
     }
 
-
-
-
-    
-
-    
 }
