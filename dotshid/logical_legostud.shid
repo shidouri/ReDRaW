@@ -1,0 +1,23 @@
+><gscusings><
+#using scripts\zm\lego_studs;
+><gscusingspostusermap><
+><gscheaders><
+><gscprecaching><
+><gscpremain><
+><gscpostmain><
+><gscfuncs><
+><cscusings><
+><cscusingspostusermap><
+><cscheaders><
+><cscprecaching><
+><cscpremain><
+><cscpostmain><
+><cscfuncs><
+><zoneincludes><
+include,logical_lego_studs
+><zoneadditions><
+weapon,cw_minigun
+><luirequires><
+><luiadditions><
+><szcadditions><
+><extrainstructs><
