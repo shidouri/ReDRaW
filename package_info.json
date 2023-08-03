@@ -529,7 +529,17 @@
         "md5hash" : "2a9ca28cd6cff9bc7f538bc8453324b9",
         "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/wegg_cw_minigun.shid",
         "authors" : "WetEgg / Treyarch"
+    },
+
+    "logical_legostud":
+    {
+        "package_title": "SCRIPT: Lego Stud Points",
+        "id" : "1LPro1okCYoOpjh83zbeCTkF8H9Q7XoP3",
+        "md5hash" : "9056e484b14d6ba2a4ad938863fb88dd",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/logical_legostud.shid",
+        "authors" : "Logical"
     }
+    
     
 
 }
