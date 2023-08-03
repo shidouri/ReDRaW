@@ -1,0 +1,43 @@
+><gscusings><
+><gscusingspostusermap><
+// LUNAR LANDERS
+#using scripts\zm\zm_cosmodrome_lander;
+><gscheaders><
+><gscprecaching><
+><gscpremain><
+><gscpostmain><
+level.lander_cost = 250; // You can edit the cost of the lander!
+><gscfuncs><
+><cscusings><
+><cscusingspostusermap><
+// LUNAR LANDERS
+#using scripts\zm\zm_cosmodrome_lander;
+><cscheaders><
+><cscprecaching><
+><cscpremain><
+><cscpostmain><
+><cscfuncs><
+><zoneincludes><
+include,koentje_lander
+><zoneadditions><
+><luirequires><
+><luiadditions><
+><szcadditions><
+{
+     "Type" : "ALIAS",
+     "Name" : "lander_sounds",
+     "Filename" : "lander_sounds.csv",
+     "Specs" : [ ] 
+},
+
+><extrainstructs><
+== RADIANT ==
+Place either 2, 3, or 4 lunar lander prefabs into your map.
+OBVIOUSLY LANDER_START.MAP SHOULD BE PLACED!!
+Prefabs located @ _prefabs/Koentje/Lander
+
+== GSC ==
+Open <YOURMAP>.gsc and find this line: 
+level.lander_cost = 250;
+
+Change 250 to your desired purchase cost.
