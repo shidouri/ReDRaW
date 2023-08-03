@@ -4,7 +4,7 @@
 ><gscprecaching><
 ><gscpremain><
 ><gscpostmain><
-level.zombie_powerup_weapon[ "minigun" ] = GetWeapon( "cw_minigun" );
+	level.zombie_powerup_weapon[ "minigun" ] = GetWeapon( "cw_minigun" );
 ><gscfuncs><
 ><cscusings><
 ><cscusingspostusermap><
