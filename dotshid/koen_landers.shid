@@ -1,7 +1,6 @@
 ><gscusings><
-><gscusingspostusermap><
-// LUNAR LANDERS
 #using scripts\zm\zm_cosmodrome_lander;
+><gscusingspostusermap><
 ><gscheaders><
 ><gscprecaching><
 ><gscpremain><
@@ -9,9 +8,8 @@
 level.lander_cost = 250; // You can edit the cost of the lander!
 ><gscfuncs><
 ><cscusings><
-><cscusingspostusermap><
-// LUNAR LANDERS
 #using scripts\zm\zm_cosmodrome_lander;
+><cscusingspostusermap><
 ><cscheaders><
 ><cscprecaching><
 ><cscpremain><
