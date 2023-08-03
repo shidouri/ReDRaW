@@ -28,8 +28,7 @@ include,koentje_lander
      "Name" : "lander_sounds",
      "Filename" : "lander_sounds.csv",
      "Specs" : [ ] 
-},
-
+}
 ><extrainstructs><
 == RADIANT ==
 Place either 2, 3, or 4 lunar lander prefabs into your map.
