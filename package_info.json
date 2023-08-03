@@ -520,6 +520,15 @@
         "md5hash" : "48dbf26eb63e44a3c8658a431126a4c4",
         "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/koen_landers.shid",
         "authors" : "Koentje / Harry BO21 / Treyarch"
+    },
+
+    "wegg_deathmachine":
+    {
+        "package_title": "SCRIPT: Cold War Death Machine",
+        "id" : "1JhhZ60JT0u0r943YNuvcTGcJjDnmHt60",
+        "md5hash" : "2a9ca28cd6cff9bc7f538bc8453324b9",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/wegg_cw_minigun.shid",
+        "authors" : "WetEgg / Treyarch"
     }
     
 
