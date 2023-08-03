@@ -5,7 +5,7 @@
 ><gscprecaching><
 ><gscpremain><
 ><gscpostmain><
-level.lander_cost = 250; // You can edit the cost of the lander!
+    level.lander_cost = 250; // You can edit the cost of the lander!
 ><gscfuncs><
 ><cscusings><
 #using scripts\zm\zm_cosmodrome_lander;
