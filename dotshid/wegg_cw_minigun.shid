@@ -1,0 +1,28 @@
+><gscusings><
+><gscusingspostusermap><
+><gscheaders><
+><gscprecaching><
+><gscpremain><
+><gscpostmain><
+level.zombie_powerup_weapon[ "minigun" ] = GetWeapon( "cw_minigun" );
+><gscfuncs><
+><cscusings><
+><cscusingspostusermap><
+><cscheaders><
+><cscprecaching><
+><cscpremain><
+><cscpostmain><
+><cscfuncs><
+><zoneincludes><
+><zoneadditions><
+weapon,cw_minigun
+><luirequires><
+><luiadditions><
+><szcadditions><
+{
+	"Type" : "ALIAS",
+	"Name" : "weteggcwminigun",
+	"Filename" : "weteggcwminigun.csv",
+	"Specs" : [ ] 
+}
+><extrainstructs><
