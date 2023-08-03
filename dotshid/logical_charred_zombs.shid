@@ -18,4 +18,5 @@
 ><luiadditions><
 ><szcadditions><
 ><extrainstructs><
+== RADIANT == 
 Duplicate your spawner zombie, then click "Remap Class" in your Entity Info Window and find "actor_spawner_charred_zombie".
