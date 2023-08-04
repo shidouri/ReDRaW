@@ -1,0 +1,49 @@
+><gscusings><
+><gscusingspostusermap><
+><gscheaders><
+><gscprecaching><
+><gscpremain><
+><gscpostmain><
+><gscfuncs><
+><cscusings><
+><cscusingspostusermap><
+><cscheaders><
+><cscprecaching><
+><cscpremain><
+><cscpostmain><
+><cscfuncs><
+><zoneincludes><
+><zoneadditions><
+><luirequires><
+><luiadditions><
+><szcadditions><
+><extrainstructs><
+== RADIANT ==
+
+To use the spawner, drag and drop in one of the ones that start with "spawner_zm_leningrad_zombie" from the entity browser and put in the KVPs as shown below,
+or remap the class of an existing spawner to one of these.
+I have also included prefabs of the spawners for you, located in map_source/_prefabs/zm/_ninjaman_zombie_spawners/
+
+NOTE: The spawners are labeled with what kind of zombie they spawn (rucksack, shirtless, satchel, soldier ) 
+If you want all 4 of these you need to have ATLEAST 1 SPAWNER OF EACH TYPE. 
+Otherwise you will only get the type of zombie listed in the spawner e.g. shirtless only spawns zombie types without shirts. 
+Prefabs of each type have been included as stated above and has 8 total spawners.
+
+
+If the spawner doesnt have these KVPs, be sure to add them to it.
+Key:                    Value:
+script_noteworthy       zombie_spawner
+script_forcespawn		    1
+script_disable_bleeder	1
+
+Also, change count to 9999 and make sure the SCRIPT_FORCESPAWN spawnflag is checked and SCRIPT_ALERTONSPAWN is unchecked.
+
+
+== CREDITS ==
+
+NINJAMAN829 - For porting the zombies
+DTZxPorter - for Kronos
+Treyarch - For the assets
+Scobalula - For Greyhound and Hydrax
+Raptroes - For absolutely nothing
+MikeyRay - For Testing
