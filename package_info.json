@@ -538,8 +538,25 @@
         "md5hash" : "9056e484b14d6ba2a4ad938863fb88dd",
         "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/logical_legostud.shid",
         "authors" : "Logical"
+    },
+
+    "alfathesus_floaties":
+    {
+        "package_title": "SCRIPT: Zombie Floaties",
+        "id" : "1sePzSq5mKFuTvJ88chJWMdqQf6Sw-bPd",
+        "md5hash" : "e3525fefc22f252f0a0fb0ede0b143fc",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/alfa_floaties.shid",
+        "authors" : "Alfathesus / Treyarch"
+    },
+
+    "shid_milestones":
+    {
+        "package_title": "SCRIPT: Perk Milestones",
+        "id" : "1cBVk_swtzTR7wvZiuL_81Y-OI_lNe4GB",
+        "md5hash" : "2fd57877ba5a4d68c876d2ecb13a6f1f",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/shid_milestones.shid",
+        "authors" : "Shidouri"
     }
-    
     
 
 }
