@@ -71,6 +71,15 @@
         "authors" : "Treyarch / DEVRAW / HarryBO21"
     },
 
+    "hb21_boxes":
+    {
+        "package_title": "MYSTERY BOXES: HB21 / DEVRAW Mystery Box Pack",
+        "id" : "1M0s8HhORsePrRVGgxE5pET6rAbHgEqug",
+        "md5hash" : "cb06b7af661acea9d2811cae76f262bf",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/hb21_boxes.shid",
+        "authors" : "Treyarch / DEVRAW / HarryBO21"
+    },
+
     "redraw_soe_template":
     {
         "package_title": "MAP TEMPLATE : Shadows of Evil",
