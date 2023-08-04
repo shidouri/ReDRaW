@@ -1,0 +1,34 @@
+><gscusings><
+#using scripts\zm\_hb21_zm_magicbox;
+><gscusingspostusermap><
+><gscheaders><
+><gscprecaching><
+><gscpremain><
+><gscpostmain><
+><gscfuncs><
+><cscusings><
+#using scripts\zm\_hb21_zm_magicbox;
+><cscusingspostusermap><
+><cscheaders><
+><cscprecaching><
+><cscpremain><
+><cscpostmain><
+><cscfuncs><
+><zoneincludes><
+include,hb21_mystery_boxes
+><zoneadditions><
+><luirequires><
+><luiadditions><
+><szcadditions><
+{
+	"Type" : "ALIAS",
+	"Name" : "mysterybox_sounds",
+	"Filename" : "mysterybox_sounds.csv",
+	"Specs" : [ ] 
+}
+><extrainstructs><
+== RADIANT ==
+Place which ever boxes you want to use. Do not use two of the same number box ( eg MOTD 0 and Origins 0 ) - This will break them completely until you correct it
+Remember how to count, you must use the prefabs in order, eg 0 1 2 3 4, you cannot place 0 and 4 for example
+Multiple different boxes in one map is possible
+The prefabs are located at - map_source/_prefabs/zm/harrybo21_prefabs/mysterybox
