@@ -1,0 +1,34 @@
+><gscusings><
+#using scripts\alfat\bo4_ducks_alfatheseus;
+><gscusingspostusermap><
+><gscheaders><
+><gscprecaching><
+><gscpremain><
+><gscpostmain><
+bo4_ducks_alfatheseus::init();
+><gscfuncs><
+><cscusings><
+><cscusingspostusermap><
+><cscheaders><
+><cscprecaching><
+><cscpremain><
+><cscpostmain><
+><cscfuncs><
+><zoneincludes><
+><zoneadditions><
+scriptparsetree,scripts/alfat/bo4_ducks_alfatheseus.gsc
+xmodel,p8_zmb_duck_float
+><luirequires><
+><luiadditions><
+><szcadditions><
+{
+    "Type": "ALIAS",
+    "Name": "bo4_ducks_alfatheseus",
+    "Filename": "bo4_ducks_alfatheseus.csv",
+    "Specs": []
+}
+><extrainstructs><
+The fun part - open up your map in Radiant and place the 5 Prefabs (found in the Prefab Browser by navigating to: zm > alfatheseus > quacknarok_ducks) around your map!
+Save and Exit Radiant
+Compile, Light, & Link your map - and then Run.
+Your Zombies should now be wearing Duck Floaties once all 5 Shootables are shot! (This will also work for any Miniboss with the AI type of Zombie, such as Brutus)
