@@ -565,6 +565,15 @@
         "md5hash" : "2fd57877ba5a4d68c876d2ecb13a6f1f",
         "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/shid_milestones.shid",
         "authors" : "Shidouri"
+    },
+
+    "koen_hacker":
+    {
+        "package_title": "SCRIPT: Hacker",
+        "id" : "1yXQnaPf3921n-Do_tISWjj9GVWjrYOae",
+        "md5hash" : "f08443b7c1036804f4807b1daa73319c",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/koen_hackers.shid",
+        "authors" : "Koentje / Treyarch"
     }
     
 
