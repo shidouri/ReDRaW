@@ -5,7 +5,7 @@
 ><gscprecaching><
 ><gscpremain><
 ><gscpostmain><
-bo4_ducks_alfatheseus::init();
+    bo4_ducks_alfatheseus::init();
 ><gscfuncs><
 ><cscusings><
 ><cscusingspostusermap><
