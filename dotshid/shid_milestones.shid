@@ -1,0 +1,60 @@
+><gscusings><
+#using scripts\zm\zm_milestones;
+><gscusingspostusermap><
+><gscheaders><
+><gscprecaching><
+><gscpremain><
+><gscpostmain><
+level thread zm_milestones::Random_Perk_On_Milestone();
+><gscfuncs><
+><cscusings><
+><cscusingspostusermap><
+><cscheaders><
+><cscprecaching><
+><cscpremain><
+><cscpostmain><
+><cscfuncs><
+><zoneincludes><
+><zoneadditions><
+scriptparsetree,scripts/zm/zm_milestones.gsc
+><luirequires><
+><luiadditions><
+><szcadditions><
+><extrainstructs><
+Open zm_milestones.gsc (scripts/zm/zm_milestones.gsc) and change
+settings to your preference. (instructions in file)
+
+IS_ROUND_BASED 		== Track kills or rounds.
+PKM_DEF 		== Perk Kill Milestones.
+PRM_DEF			== Perk Round Milestones.
+STATIC_TEXT_COLOR	== Color for static milestone text.
+VAR_TEXT_COLOR		== Color for variable milestone text.
+
+eg.
+PRM_DEF = array(7, 10, 14, 20);
+Player would get a perk on round 8, round 18, round 32, round 52, unless they down & milestones start over
+from current round.
+
+eg.
+PKM_DEF = array(200, 400, 600);
+Player would get a perk on 200 kills, 600 kills, 1200 kills, unless they down & milestones start over
+from current killcount.
+
+--------------------------------------------------------------------------------------------------------
+
+POSSIBLE COLOUR VARIABLE NAMES FOR HUD DISPLAY
+
+"red", "green", "blue", "yellow", "orange", "purple", "violet", "indigo", "pink", "cyan", "black", "white"
+
+To add your own RGB colours, underneath:
+case "white":
+	hudcolor = (1.0, 1.0, 1.0);
+	break;
+
+add your own values. ie gold:
+
+case "gold":
+	hudcolor = (1.0, 0.84, 1.0);
+	break;
+
+values are (red, green, blue). Hex RGB values can be used, just divide each number by 255.
