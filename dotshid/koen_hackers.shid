@@ -1,0 +1,45 @@
+><gscusings><
+#using scripts\zm\_zm_hacker_utility;
+#using scripts\zm\_zm_equip_hacker;
+#using scripts\zm\_zm_hackables_boards;
+#using scripts\zm\_zm_hackables_box;
+#using scripts\zm\_zm_hackables_doors;
+#using scripts\zm\_zm_hackables_packapunch;
+#using scripts\zm\_zm_hackables_perks;
+#using scripts\zm\_zm_hackables_powerups;
+#using scripts\zm\_zm_hackables_wallbuys;
+><gscusingspostusermap><
+><gscheaders><
+><gscprecaching><
+><gscpremain><
+  clientfield::register("clientuimodel", "hudItems.showDpadDown_HackTool", 21000, 1, "int");
+><gscpostmain><
+  level thread _zm_hacker_utility::__init__();
+><gscfuncs><
+><cscusings><
+#using scripts\zm\_zm_hacker_tool;
+><cscusingspostusermap><
+><cscheaders><
+><cscprecaching><
+><cscpremain><
+  clientfield::register("clientuimodel", "hudItems.showDpadDown_HackTool", 21000, 1, "int", undefined, 0, 0);
+><cscpostmain><
+><cscfuncs><
+><zoneincludes><
+include,koentje_hacker
+><zoneadditions><
+><luirequires><
+><luiadditions><
+><szcadditions><
+{
+     "Type" : "ALIAS",
+     "Name" : "hacker_sounds",
+     "Filename" : "hacker_sounds.csv",
+     "Specs" : [ ] 
+}
+><extrainstructs><
+== RADIANT ==
+
+Open your map in Radiant
+Add the spawn point(s) to your map (It will spawn on a random location if you add more than 1)
+The prefabs are located at - map_source/_prefabs/Koentje/Hacker
