@@ -522,6 +522,15 @@
         "authors" : "Logical / Treyarch"
     },
 
+    "ninja_gk_zombies":
+    {
+        "package_title": "AI: Gorod Krovi Zombies",
+        "id" : "1FmKhRXSe4BdWmkZcvste2-SaO1NZKMz2",
+        "md5hash" : "85f0404ed3a7a0d0761b9c2fb6650735",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/ninja_gk_zombies.shid",
+        "authors" : "Ninjaman / Treyarch"
+    },
+
     "koen_landers":
     {
         "package_title": "SCRIPT: Lunar Landers",
