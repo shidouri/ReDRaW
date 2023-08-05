@@ -1,0 +1,254 @@
+{
+    "ale":
+    {
+        "perk_name" : "Crusader Ale",
+        "image_name" : "i_ale",
+        "lua_name" : "crusaders_ale"
+    },
+
+    "banana":
+    {
+        "perk_name" : "Banana Colada",
+        "image_name" : "i_banana",
+        "lua_name" : "banana_colada"
+    },
+
+    "bandolier":
+    {
+        "perk_name" : "Bandolier Bandit",
+        "image_name" : "i_bandolier",
+        "lua_name" : "bandolier"
+    },
+
+    "blaze":
+    {
+        "perk_name" : "Blaze Phase",
+        "image_name" : "i_blaze",
+        "lua_name" : "blazephase"
+    },
+
+    "bullice":
+    {
+        "perk_name" : "Bull Ice Blast",
+        "image_name" : "i_bullice",
+        "lua_name" : "bull_ice_blast"
+    },
+
+    "cherry":
+    {
+        "perk_name" : "Electric Cherry",
+        "image_name" : "i_cherry",
+        "lua_name" : "electric_cherry"
+    },
+
+    "deadshot":
+    {
+        "perk_name" : "Deadshot Daquiri",
+        "image_name" : "i_deadshot",
+        "lua_name" : "dead_shot"
+    },
+
+    "doubletap":
+    {
+        "perk_name" : "Double Tap 2.0",
+        "image_name" : "i_doubletap",
+        "lua_name" : "doubletap2"
+    },
+
+    "dp":
+    {
+        "perk_name" : "Death Perception",
+        "image_name" : "i_dp",
+        "lua_name" : "perception"
+    },
+
+    "ffyl":
+    {
+        "perk_name" : "Fighters Fizz",
+        "image_name" : "i_ffyl",
+        "lua_name" : "ffyl"
+    },
+
+    "icu":
+    {
+        "perk_name" : "I.C.U.",
+        "image_name" : "i_icu",
+        "lua_name" : "icu"
+    },
+
+    "jugg":
+    {
+        "perk_name" : "Juggernog",
+        "image_name" : "i_jugg",
+        "lua_name" : "juggernaut"
+    },
+
+    "milk":
+    {
+        "perk_name" : "Muscle Milk",
+        "image_name" : "i_milk",
+        "lua_name" : "milk"
+    },
+
+    "moonshine":
+    {
+        "perk_name" : "Madgaz Moonshine",
+        "image_name" : "i_moonshine",
+        "lua_name" : "madgaz_moonshine"
+    },
+
+    "mule":
+    {
+        "perk_name" : "Mule Kick",
+        "image_name" : "i_mule",
+        "lua_name" : "additional_primary_weapon"
+    },
+
+    "phdf":
+    {
+        "perk_name" : "PHD Flopper",
+        "image_name" : "i_phdf",
+        "lua_name" : "phdflopper"
+    },
+
+    "phds":
+    {
+        "perk_name" : "PHD Slider",
+        "image_name" : "i_phds",
+        "lua_name" : "slider"
+    },
+
+    "pop":
+    {
+        "perk_name" : "Elemental Pop",
+        "image_name" : "i_pop",
+        "lua_name" : "elemental_pop"
+    },
+
+    "power":
+    {
+        "perk_name" : "Power Aid",
+        "image_name" : "i_power",
+        "lua_name" : "power_aid"
+    },
+
+    "razor":
+    {
+        "perk_name" : "Razors Edge",
+        "image_name" : "i_razor",
+        "lua_name" : "razor"
+    },
+
+    "revive":
+    {
+        "perk_name" : "Quick Revive",
+        "image_name" : "i_revive",
+        "lua_name" : "quick_revive"
+    },
+
+    "speedcola":
+    {
+        "perk_name" : "Speed Cola",
+        "image_name" : "i_speedcola",
+        "lua_name" : "sleight_of_hand"
+    },
+
+    "staminup":
+    {
+        "perk_name" : "Stamin-Up",
+        "image_name" : "i_staminup",
+        "lua_name" : "marathon"
+    },
+
+    "stronghold":
+    {
+        "perk_name" : "Stonecold Stronghold",
+        "image_name" : "i_stronghold",
+        "lua_name" : "stronghold"
+    },
+
+    "taq":
+    {
+        "perk_name" : "Tactiquilla Sangria",
+        "image_name" : "i_taq",
+        "lua_name" : "tactiquilla"
+    },
+
+    "timeslip":
+    {
+        "perk_name" : "Timeslip",
+        "image_name" : "i_timeslip",
+        "lua_name" : "timeslip"
+    },
+
+    "tomb":
+    {
+        "perk_name" : "Tombstone",
+        "image_name" : "i_tomb",
+        "lua_name" : "tombstone"
+    },
+
+    "tortoise":
+    {
+        "perk_name" : "Victorious Tortoise",
+        "image_name" : "i_tortoise",
+        "lua_name" : "victorious"
+    },
+
+    "vigor":
+    {
+        "perk_name" : "Vigor Rush",
+        "image_name" : "i_vigor",
+        "lua_name" : "directionalfire"
+    },
+
+    "vulture":
+    {
+        "perk_name" : "Vulture Aid",
+        "image_name" : "i_vulture",
+        "lua_name" : "vultureaid"
+    },
+
+    "wail":
+    {
+        "perk_name" : "Winters Wail",
+        "image_name" : "i_wail",
+        "lua_name" : "winterwail"
+    },
+
+    "who":
+    {
+        "perk_name" : "Whos Who?",
+        "image_name" : "i_who",
+        "lua_name" : "whoswho"
+    },
+
+    "widows":
+    {
+        "perk_name" : "Widows Wine",
+        "image_name" : "i_widows",
+        "lua_name" : "widows_wine"
+    },
+
+    "wish":
+    {
+        "perk_name" : "Dying Wish",
+        "image_name" : "i_wish",
+        "lua_name" : "dyingwish"
+    },
+
+    "wolf":
+    {
+        "perk_name" : "Bloodwolf Bite",
+        "image_name" : "i_wolf",
+        "lua_name" : "bloodwolf"
+    },
+
+    "zombshell":
+    {
+        "perk_name" : "Zombshell",
+        "image_name" : "i_zombshell",
+        "lua_name" : "zombshell"
+    }
+
+}
