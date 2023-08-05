@@ -1,0 +1,63 @@
+><gscusings><
+#using scripts\zm\_zm_weap_elemental_bow;
+#using scripts\zm\_zm_weap_elemental_bow_storm;
+#using scripts\zm\_zm_weap_elemental_bow_rune_prison;
+#using scripts\zm\_zm_weap_elemental_bow_wolf_howl;
+#using scripts\zm\_zm_weap_elemental_bow_demongate;
+><gscusingspostusermap><
+><gscheaders><
+><gscprecaching><
+><gscpremain><
+><gscpostmain><
+><gscfuncs><
+><cscusings><
+#using scripts\zm\_zm_weap_elemental_bow;
+#using scripts\zm\_zm_weap_elemental_bow_storm;
+#using scripts\zm\_zm_weap_elemental_bow_rune_prison;
+#using scripts\zm\_zm_weap_elemental_bow_wolf_howl;
+#using scripts\zm\_zm_weap_elemental_bow_demongate;
+><cscusingspostusermap><
+><cscheaders><
+><cscprecaching><
+><cscpremain><
+><cscpostmain><
+><cscfuncs><
+><zoneincludes><
+include,hb21_elemental_bows
+><zoneadditions><
+><luirequires><
+><luiadditions><
+><szcadditions><
+{
+	"Type" : "ALIAS",
+	"Name" : "elemental_bow_sounds",
+	"Filename" : "elemental_bow_sounds.csv",
+	"Specs" : [ ] 
+}
+><extrainstructs><
+== RADIANT ==
+
+Open your map in radiant
+
+Place the prefabs for :
+The pedestals to pick up the bows ( or - use the box or some other means )
+
+The prefabs are located at - map_source/_prefabs/zm/harrybo21_prefabs/elemental_bows
+
+
+== ZM LEVELCOMMON WEAPONS OR OTHER LOADED WEAPON CSV ==
+
+== FOR BOWS IN BOX ==
+elemental_bow,elemental_bow,,500,,,,,,TRUE,FALSE,FALSE,,,FALSE,TRUE,special,TRUE,TRUE,,
+elemental_bow_rune_prison,elemental_bow_rune_prison,,500,,,,,,TRUE,FALSE,FALSE,,,FALSE,TRUE,special,TRUE,TRUE,,
+elemental_bow_storm,elemental_bow_storm,,500,,,,,,TRUE,FALSE,FALSE,,,FALSE,TRUE,special,TRUE,TRUE,,
+elemental_bow_wolf_howl,elemental_bow_wolf_howl,,500,,,,,,TRUE,FALSE,FALSE,,,FALSE,TRUE,special,TRUE,TRUE,,
+elemental_bow_demongate,elemental_bow_demongate,,500,,,,,,TRUE,FALSE,FALSE,,,FALSE,TRUE,special,TRUE,TRUE,,
+
+
+== FOR BOWS NOT IN BOX ==
+elemental_bow,elemental_bow,,500,,,,,,FALSE,FALSE,FALSE,,,FALSE,TRUE,special,TRUE,TRUE,,
+elemental_bow_rune_prison,elemental_bow_rune_prison,,500,,,,,,FALSE,FALSE,FALSE,,,FALSE,TRUE,special,TRUE,TRUE,,
+elemental_bow_storm,elemental_bow_storm,,500,,,,,,FALSE,FALSE,FALSE,,,FALSE,TRUE,special,TRUE,TRUE,,
+elemental_bow_wolf_howl,elemental_bow_wolf_howl,,500,,,,,,FALSE,FALSE,FALSE,,,FALSE,TRUE,special,TRUE,TRUE,,
+elemental_bow_demongate,elemental_bow_demongate,,500,,,,,,FALSE,FALSE,FALSE,,,FALSE,TRUE,special,TRUE,TRUE,,
