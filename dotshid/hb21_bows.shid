@@ -47,7 +47,7 @@ The prefabs are located at - map_source/_prefabs/zm/harrybo21_prefabs/elemental_
 
 == ZM LEVELCOMMON WEAPONS OR OTHER LOADED WEAPON CSV ==
 
-== FOR BOWS IN BOX ==
+## FOR BOWS IN BOX ##
 elemental_bow,elemental_bow,,500,,,,,,TRUE,FALSE,FALSE,,,FALSE,TRUE,special,TRUE,TRUE,,
 elemental_bow_rune_prison,elemental_bow_rune_prison,,500,,,,,,TRUE,FALSE,FALSE,,,FALSE,TRUE,special,TRUE,TRUE,,
 elemental_bow_storm,elemental_bow_storm,,500,,,,,,TRUE,FALSE,FALSE,,,FALSE,TRUE,special,TRUE,TRUE,,
@@ -55,7 +55,7 @@ elemental_bow_wolf_howl,elemental_bow_wolf_howl,,500,,,,,,TRUE,FALSE,FALSE,,,FAL
 elemental_bow_demongate,elemental_bow_demongate,,500,,,,,,TRUE,FALSE,FALSE,,,FALSE,TRUE,special,TRUE,TRUE,,
 
 
-== FOR BOWS NOT IN BOX ==
+## FOR BOWS NOT IN BOX ##
 elemental_bow,elemental_bow,,500,,,,,,FALSE,FALSE,FALSE,,,FALSE,TRUE,special,TRUE,TRUE,,
 elemental_bow_rune_prison,elemental_bow_rune_prison,,500,,,,,,FALSE,FALSE,FALSE,,,FALSE,TRUE,special,TRUE,TRUE,,
 elemental_bow_storm,elemental_bow_storm,,500,,,,,,FALSE,FALSE,FALSE,,,FALSE,TRUE,special,TRUE,TRUE,,
