@@ -583,6 +583,15 @@
         "md5hash" : "f08443b7c1036804f4807b1daa73319c",
         "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/koen_hackers.shid",
         "authors" : "Koentje / Treyarch"
+    },
+
+    "hb21_bows":
+    {
+        "package_title": "WEAPON PACK: Elemental Bows",
+        "id" : "1YTbLQb5mdp1leYdmGQyA8rue149BmJ9-e",
+        "md5hash" : "fe750137f010c482992d3f0d56ce7f97",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/hb21_bows.shid",
+        "authors" : "Treyarch / DEVRAW / HarryBO21"
     }
     
 
