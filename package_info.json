@@ -516,9 +516,18 @@
     "logical_ai_charred_zombies":
     {
         "package_title": "AI: Charred Zombies",
-        "id" : "1L4n2xgOdf89xgRiIsD4O3Z-2g-CgmS6Y",
+        "id" : "1dBaDY3PEr1xMbZjvSdUImBEIoXnhgiZB",
         "md5hash" : "181c15a50a91b34c9efa4535b2201612",
         "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/logical_charred_zombs.shid",
+        "authors" : "Logical / Treyarch"
+    },
+
+    "kingslayer_ai_soe_zombies":
+    {
+        "package_title": "AI: Shadows of Evil Zombies",
+        "id" : "1L4n2xgOdf89xgRiIsD4O3Z-2g-CgmS6Y",
+        "md5hash" : "5820adcd9d84fbca4b94489cd91eb60c",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_soe_zombs.shid",
         "authors" : "Logical / Treyarch"
     },
 
