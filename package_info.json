@@ -528,9 +528,19 @@
         "id" : "1L4n2xgOdf89xgRiIsD4O3Z-2g-CgmS6Y",
         "md5hash" : "5820adcd9d84fbca4b94489cd91eb60c",
         "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_soe_zombs.shid",
-        "authors" : "Logical / Treyarch"
+        "authors" : "Kingslayer Kyle / Treyarch"
     },
 
+    "j4k0b13_ai_shang_zombies":
+    {
+        "package_title": "AI: Shangri-La Zombies",
+        "id" : "1cfwOFahpOwCCk9s_Xgl1Rm7xcIh_73VG",
+        "md5hash" : "868073dcf844c18441bf37471f1dcfdb",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/j4k0b_shang_zombs.shid",
+        "authors" : "J4k0b13 / Treyarch"
+    },
+
+    
     "ninja_gk_zombies":
     {
         "package_title": "AI: Gorod Krovi Zombies",

@@ -1,0 +1,33 @@
+><gscusings><
+><gscusingspostusermap><
+><gscheaders><
+><gscprecaching><
+><gscpremain><
+><gscpostmain><
+><gscfuncs><
+><cscusings><
+><cscusingspostusermap><
+><cscheaders><
+><cscprecaching><
+><cscpremain><
+><cscpostmain><
+><cscfuncs><
+><zoneincludes><
+><zoneadditions><
+><luirequires><
+><luiadditions><
+><szcadditions><
+><extrainstructs><
+== RADIANT ==
+Go into Radiant, go to your entity browser, go to Actor, spawner_zm_temple, 
+and drag the zombie option anywhere into your map.
+
+Once dragged into the map, go to it's entity info and in the spawnflags make sure FORCESPAWN and SPAWNER are both true.
+
+Now add the following KVPs
+
+Name: script_disable_bleeder Value: 1
+Name: script_forcespawn      Value: 1
+Name: script_noteworthy	     Value: zombie_spawner
+
+Setup some zones and spawners and they should be Shang zombies.
