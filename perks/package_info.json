@@ -2,43 +2,50 @@
     "perkicon_bo2":
     {
         "shader_name" : "BO2 Perk Icons",
-        "author" : "Ronan / Treyarch"
+        "author" : "Ronan / Treyarch",
+        "prefix" : ""
     },
 
     "perkicon_bo3":
     {
         "shader_name" : "BO3 Perk Icons",
-        "author" : "Humphrey / Treyarch"
+        "author" : "Humphrey / Treyarch",
+        "prefix" : ""
     },
 
     "perkicon_cw":
     {
         "shader_name" : "BOCW Perk Icons",
-        "author" : "Humphrey / Treyarch"
+        "author" : "Humphrey / Treyarch",
+        "prefix" : ""
     },
 
     "perkicon_hex":
     {
         "shader_name" : "Borderlands Hex Perk Icons",
-        "author" : "OwenC137"
+        "author" : "OwenC137",
+        "prefix" : ""
     },
 
     "perkicon_bottle":
     {
         "shader_name" : "Bottle Cap Perk Icons",
-        "author" : "Harvey / Treyarch"
+        "author" : "Harvey / Treyarch",
+        "prefix" : ""
     },
 
     "perkicon_source":
     {
         "shader_name" : "Source [TF2] Perk Icons",
-        "author" : "Gavin"
+        "author" : "Gavin",
+        "prefix" : ""
     },
 
     "perkicon_zod":
     {
         "shader_name" : "BO3 Shadows of Evil Perk Icons",
-        "author" : "Humphrey / Treyarch"
+        "author" : "Humphrey / Treyarch",
+        "prefix" : ""
     }
 
 
