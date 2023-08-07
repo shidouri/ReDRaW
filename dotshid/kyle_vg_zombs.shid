@@ -1,0 +1,29 @@
+><gscusings><
+><gscusingspostusermap><
+><gscheaders><
+><gscprecaching><
+><gscpremain><
+><gscpostmain><
+><gscfuncs><
+><cscusings><
+><cscusingspostusermap><
+><cscheaders><
+><cscprecaching><
+><cscpremain><
+><cscpostmain><
+><cscfuncs><
+><zoneincludes><
+><zoneadditions><
+><luirequires><
+><luiadditions><
+><szcadditions><
+><extrainstructs><
+== RADIANT ==
+
+Open your map in Radiant
+
+Drop the prefab that I included (_prefabs/kingslayer_kyle/c_s4_zmb_zombie_spawner.map)
+
+Stamp the prefab
+
+Done!

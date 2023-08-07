@@ -549,6 +549,15 @@
         "authors" : "Kingslayer Kyle / Treyarch"
     },
 
+    "kingslayer_ai_vg_zombies":
+    {
+        "package_title": "AI: Vanguard Zombies",
+        "id" : "1XyfNElF4KyT3-BH6FvQEy2lirSfh93wv",
+        "md5hash" : "10600cedec0d0e5c8be6d190576dc1c5",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_vg_zombs.shid",
+        "authors" : "Kingslayer Kyle / Treyarch"
+    },
+
     "j4k0b13_ai_shang_zombies":
     {
         "package_title": "AI: Shangri-La Zombies",
@@ -567,6 +576,25 @@
         "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/ninja_gk_zombies.shid",
         "authors" : "Ninjaman / Treyarch"
     },
+
+    "zeroy_nrc_zombies":
+    {
+        "package_title": "AI: NRC Zombies",
+        "id" : "19BaoKFMfjh8YWqu4WfFM5soV-hJzJ6O4",
+        "md5hash" : "bbcf32787bee4db4ef2727d6d397f7dc",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/zeroy_nrc_zombs.shid",
+        "authors" : "ZeRoY / Treyarch"
+    },
+
+    "zeroy_54i_zombies":
+    {
+        "package_title": "AI: 54 Immortals Zombies",
+        "id" : "1iG1m32fYDc01pcgHjv34kAIXih5B_bML",
+        "md5hash" : "f096837d0c9f57257c6e476b3974e90b",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/zeroy_54i_zombs.shid",
+        "authors" : "ZeRoY / Treyarch"
+    },
+
 
     "koen_landers":
     {
