@@ -43,3 +43,4 @@ include,koentje_hacker
 Open your map in Radiant
 Add the spawn point(s) to your map (It will spawn on a random location if you add more than 1)
 The prefabs are located at - map_source/_prefabs/Koentje/Hacker
+><core_patch_comment><

@@ -32,3 +32,4 @@ The fun part - open up your map in Radiant and place the 5 Prefabs (found in the
 Save and Exit Radiant
 Compile, Light, & Link your map - and then Run.
 Your Zombies should now be wearing Duck Floaties once all 5 Shootables are shot! (This will also work for any Miniboss with the AI type of Zombie, such as Brutus)
+><core_patch_comment><

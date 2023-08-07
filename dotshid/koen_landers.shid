@@ -37,4 +37,4 @@ Prefabs located @ _prefabs/Koentje/Lander
 Open <YOURMAP>.gsc and find this line: 
 level.lander_cost = 250;
 
-Change 250 to your desired purchase cost.
+Change 250 to your desired purchase cost.><core_patch_comment><

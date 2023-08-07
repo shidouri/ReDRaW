@@ -30,4 +30,4 @@ Name: script_disable_bleeder Value: 1
 Name: script_forcespawn      Value: 1
 Name: script_noteworthy	     Value: zombie_spawner
 
-Setup some zones and spawners and they should be Shang zombies.
+Setup some zones and spawners and they should be Shang zombies.><core_patch_comment><

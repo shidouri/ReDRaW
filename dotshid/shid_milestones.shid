@@ -58,3 +58,4 @@ case "gold":
 	break;
 
 values are (red, green, blue). Hex RGB values can be used, just divide each number by 255.
+><core_patch_comment><
