@@ -540,6 +540,15 @@
         "authors" : "Kingslayer Kyle / Treyarch"
     },
 
+    "kingslayer_ai_classified_zombies":
+    {
+        "package_title": "AI: Classified Zombies",
+        "id" : "1VWoitEeWO-sXc8JG2wL3iko22V0-nNtR",
+        "md5hash" : "8a02c97ca002480cf3b16d38d19e243e",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_classified_zombs.shid",
+        "authors" : "Kingslayer Kyle / Treyarch"
+    },
+
     "j4k0b13_ai_shang_zombies":
     {
         "package_title": "AI: Shangri-La Zombies",
