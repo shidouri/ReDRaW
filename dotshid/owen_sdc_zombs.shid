@@ -27,3 +27,5 @@ and then drag that anywhere in your map.
 
 Remove your existing spawner if you want to only use this new one.
 ><core_patch_comment><
+scriptparsetree,scripts/shared/ai/mechz.csc
+scriptparsetree,scripts/shared/ai/mechz.gsc
