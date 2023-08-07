@@ -1,0 +1,28 @@
+><gscusings><
+><gscusingspostusermap><
+><gscheaders><
+><gscprecaching><
+><gscpremain><
+><gscpostmain><
+><gscfuncs><
+><cscusings><
+><cscusingspostusermap><
+><cscheaders><
+><cscprecaching><
+><cscpremain><
+><cscpostmain><
+><cscfuncs><
+><zoneincludes><
+><zoneadditions><
+><luirequires><
+><luiadditions><
+><szcadditions><
+><extrainstructs><
+== RADIANT ==
+
+In Radiant, open Prefab Browser and look for 
+zm_silver_zombie_spawner.map (in /_MidgetBlaster/characters/c_t9_zmb_ndu_zombie/) 
+
+and then drag that anywhere in your map.
+
+Remove your existing spawner if you want to only use this new one.

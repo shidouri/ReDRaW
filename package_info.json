@@ -595,6 +595,15 @@
         "authors" : "ZeRoY / Treyarch"
     },
 
+    "midget_maschine_zombies":
+    {
+        "package_title": "AI: Die Maschine Zombies",
+        "id" : "1HGswHzjSjl72wbU21syICt0jGXsohP5B",
+        "md5hash" : "ec172ef326af039925ca3bafd8531fab",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/midget_masch_zombs.shid",
+        "authors" : "MidgetBlaster / Treyarch"
+    },
+
 
     "koen_landers":
     {
