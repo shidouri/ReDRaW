@@ -531,6 +531,15 @@
         "authors" : "Kingslayer Kyle / Treyarch"
     },
 
+    "kingslayer_ai_botd_zombies":
+    {
+        "package_title": "AI: Blood of the Dead Zombies",
+        "id" : "1iCiVZZsV32-2yrZ5Wa-IHB2kRj_-JPsY",
+        "md5hash" : "af51fc3e525672ef8dd67fa18fe621cb",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_botd_zombs.shid",
+        "authors" : "Kingslayer Kyle / Treyarch"
+    },
+
     "j4k0b13_ai_shang_zombies":
     {
         "package_title": "AI: Shangri-La Zombies",
