@@ -521,7 +521,14 @@
         "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/logical_charred_zombs.shid",
         "authors" : "Logical / Treyarch"
     },
-
+    "owen_sdc_zombies":
+    {
+        "package_title": "AI: SDC Zombies",
+        "id" : "19qESCWglG1bTpr2YplEs-mn2iQ7m6LIt",
+        "md5hash" : "22252f2d79f145fab15db85ef45ea0a1",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/owen_sdc_zombs.shid",
+        "authors" : "OwenC137 / Treyarch"
+    },
     "kingslayer_ai_soe_zombies":
     {
         "package_title": "AI: Shadows of Evil Zombies",
