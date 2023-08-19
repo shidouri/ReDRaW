@@ -351,6 +351,15 @@
         "authors" : "LEAFSPWN88 / Treyarch"
     },
 
+    "kyle_bo2_hud":
+    {
+        "package_title" : "HUD : Black Ops 2",
+        "id" : "1Nl_RuxI-Q9IMrKcxyEdOV8ngFFGqHQ4h",
+        "md5hash": "70371c13720613d8a57c256000f495c7",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_bo2_hud.shid",
+        "authors" : "Kingslayer Kyle / Treyarch"
+    },
+
     "kyle_hud_iw":
     {
         "package_title" : "HUD : Infinite Warfare",
@@ -529,6 +538,7 @@
         "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/owen_sdc_zombs.shid",
         "authors" : "OwenC137 / Treyarch"
     },
+
     "kingslayer_ai_soe_zombies":
     {
         "package_title": "AI: Shadows of Evil Zombies",
