@@ -1,0 +1,925 @@
+{
+    "essentials_l3akmod":
+    {
+        "package_title": "L3AKMOD",
+        "id" : "1Xbrl7xVD0EeeubpXlzbsjJEZkXUPl0bA",
+        "md5hash" : "f49785887cad28b394d41e57b74a5eea",
+        "shidurl" : "NO_SHID_URL",
+        "type" : "ESSENTIALS",
+        "authors" : "The D3V Team / Treyarch",
+        "main_author" : "The D3V Team",
+        "tags" : ["essentials", "basics", "l3akmod", "leakmod", "lui"]
+    },
+
+    "essentials_fx":
+    {
+        "package_title": "FX",
+        "id" : "1BT7nCuWGOezY03guNxN3KTXalyDAJ9oF",
+        "md5hash" : "3a163702e32b615a24732db0db49613b",
+        "shidurl" : "NO_SHID_URL",
+        "type" : "ESSENTIALS",
+        "authors" : "Treyarch / DEVRAW / HarryBO21",
+        "main_author" : "HarryBO21",
+        "tags" : ["essentials", "basics", "fx"]
+    },
+
+    "essentials_ssd":
+    {
+        "package_title": "SURFACE SOUND DEFINITIONS",
+        "id" : "14in2UwdXfdcFRNufvjCF1THcqH1vFRCP",
+        "md5hash" : "9120c804b6755b695fde852aa15fb248",
+        "shidurl" : "NO_SHID_URL",
+        "type" : "ESSENTIALS",
+        "authors" : "Treyarch / DEVRAW / HarryBO21",
+        "main_author" : "HarryBO21",
+        "tags" : ["essentials", "basics", "surface", "sound", "def", "definition", "ssd"]
+    },
+
+    "essentials_beams":
+    {
+        "package_title": "BEAMS",
+        "id" : "19nViKu0B3CzCq1up_GE5no-35AwEHARA",
+        "md5hash" : "11e11e0092616d17ad1644155d4ac87d",
+        "shidurl" : "NO_SHID_URL",
+        "type" : "ESSENTIALS",
+        "authors" : "Treyarch / DEVRAW / HarryBO21",
+        "main_author" : "HarryBO21",
+        "tags" : ["essentials", "basics", "beams", "beam"]
+
+    },
+
+    "essentials_physics":
+    {
+        "package_title": "PHYSICS",
+        "id" : "1pulVnBzhFsTXeIiifwFXoUOHTl4VhJ3h",
+        "md5hash" : "39a825b9d2364356af0ff48875553e18",
+        "shidurl" : "NO_SHID_URL",
+        "type" : "ESSENTIALS",
+        "authors" : "Treyarch / DEVRAW / HarryBO21",
+        "main_author" : "HarryBO21",
+        "tags" : ["essentials", "basics", "physics"]
+    },
+
+    "essentials_rumble":
+    {
+        "package_title": "RUMBLES",
+        "id" : "1qoQa9AhJJNRBGi9wKO5zefwKwvZ_6HVx",
+        "md5hash" : "bca93bc93b1b87251200f62589748ca4",
+        "shidurl" : "NO_SHID_URL",
+        "type" : "ESSENTIALS",
+        "authors" : "Treyarch / DEVRAW / HarryBO21",
+        "main_author" : "HarryBO21",
+        "tags" : ["essentials", "basics", "rumble", "sound"]
+    },
+
+    "essentials_vsd":
+    {
+        "package_title": "VEHICLE SOUND DEFINITIONS",
+        "id" : "1okDYPBy42mitP8Un8SCUpjea9N_7pCVs",
+        "md5hash" : "d40ba45be4ac42161a007b359dfd5a98",
+        "shidurl" : "NO_SHID_URL",
+        "type" : "ESSENTIALS",
+        "authors" : "Treyarch / DEVRAW / HarryBO21",
+        "main_author" : "HarryBO21",
+        "tags" : ["essentials", "basics", "vehicle", "sound", "def", "definition", "vsd"]
+    },
+
+    "essentials_bt":
+    {
+        "package_title": "BT STUFF",
+        "id" : "1sLKNTJkYJaEKMDHAwecBYKKdWThVPMZ-",
+        "md5hash" : "18cb573acccebc8c47db7acd6c4aa55f",
+        "shidurl" : "NO_SHID_URL",
+        "type" : "ESSENTIALS",
+        "authors" : "Treyarch / DEVRAW / HarryBO21",
+        "main_author" : "HarryBO21",
+        "tags" : ["essentials", "basics", "bt", "bt stuff", "behaviour", "behavior", "tree", "asm", "atr", "zombie"]
+    },
+
+    "hb21_boxes":
+    {
+        "package_title": "HB21 / DEVRAW Mystery Box Pack",
+        "id" : "1M0s8HhORsePrRVGgxE5pET6rAbHgEqug",
+        "md5hash" : "cb06b7af661acea9d2811cae76f262bf",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/hb21_boxes.shid",
+        "type" : "MYSTERY BOXES",
+        "authors" : "Treyarch / DEVRAW / HarryBO21",
+        "main_author" : "HarryBO21",
+        "tags" : ["mystery box", "basics", "mystery", "box", "boxs", "boxes", "magic", "weapon", "gun", "random"]
+    },
+
+    "redraw_soe_template":
+    {
+        "package_title": "Shadows of Evil",
+        "id" : "1rVTHRKa35nNZsJrhLmCMXVnJL",
+        "md5hash" : "e8bdeafb25019a22523603a4f3443d27",
+        "shidurl" : "NO_SHID_URL",
+        "type" : "TEMPLATE",
+        "authors" : "REDRAW Team",
+        "main_author" : "REDRAW",
+        "tags" : ["map template", "redraw", "soe", "shadows", "evil", "template"]
+    },
+    
+    "leafspwn_soe_round_sounds":
+    {
+        "package_title": "Shadows of Evil",
+        "id" : "1h6qTAiw1fw4YnqPNqbfx9CbtaPlr7mn-",
+        "md5hash" : "49eb980ecc564702c2726aad79ba45dc",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/soe_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "LEAFSPWN88 / Treyarch",
+        "main_author" : "LEAFSPWN88",
+        "tags" : ["round sounds", "leaf", "sound", "round", "music", "wave", "shadows", "evil", "soe", "zod", "bo3", "black"]
+    },
+
+    "prissy_de_round_sounds":
+    {
+        "package_title" : "Der Eisendrache",
+        "id" : "15WxVIwklPITgRCgNxcGzft7e9gABbYj9",
+        "md5hash": "3afb910dedf3b0a422cb342a77d34f01",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/prissy_de_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "Prissy / Treyarch",
+        "main_author" : "Prissy",
+        "tags" : ["round sounds", "prissy", "pissy", "sound", "round", "music", "wave", "der", "eisendrache", "de", "castle", "bo3", "black"]
+    },
+
+    "leafspwn_zets_round_sounds":
+    {
+        "package_title" : "Zetsubou No Shima",
+        "id" : "1JMgq1UITz43sHnknqBP7r0BuV-Q4i6tH",
+        "md5hash": "728886a1c85cd1e13ce0c3709e3891f3",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/zets_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "LEAFSPWN88 / Treyarch",
+        "main_author" : "LEAFSPWN88",
+        "tags" : ["round sounds", "leaf", "sound", "round", "music", "wave", "zet", "shima", "zetsubou", "zns", "island", "bo3", "black"]
+
+    },
+
+    "prissy_gorod_round_sounds":
+    {
+        "package_title" : "Gorod Krovi",
+        "id" : "1I1AHp18j0ODza1YEQHRPdzOye9MHLxM-",
+        "md5hash": "cf1c966da241eb7db1516b76322eb76e",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/prissy_gorod_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "Prissy / Treyarch",
+        "main_author" : "Prissy",
+        "tags" : ["round sounds", "prissy", "pissy", "sound", "round", "music", "wave", "gk", "gorod", "krovi", "stalin", "bo3", "black"]
+    },
+
+    "leafspwn_rev_sounds":
+    {
+        "package_title" : "Revelations",
+        "id" : "1003BTOnu5TaZlzdQOWV4taHYQneL1dvC",
+        "md5hash": "3d4afeb486747c8c2ecd078d7c6443b0",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/leafspwn_rev_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "LEAFSPWN88 / Treyarch",
+        "main_author" : "LEAFSPWN88",
+        "tags" : ["round sounds", "leaf", "sound", "round", "music", "wave", "rev", "revelation", "genesis", "bo3", "black"]
+    },
+
+    "classic_round_sounds":
+    {
+        "package_title" : "Classic WAW - BO1",
+        "id" : "1Lbt9VRK2_o_527eVWbepWl9iVnbn8G7w",
+        "md5hash": "57a66ad36ef269b42fde44f318ed4350",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/classic_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "Shidouri / Treyarch",
+        "main_author" : "Shidouri",
+        "tags" : ["round sounds", "shid", "sound", "round", "music", "wave", "classic", "waw", "bo1", "original", "old", "bo1", "black"]
+
+    },
+
+    "prissy_kino_round_sounds":
+    {
+        "package_title" : "Kino Der Toten (Chronicles)",
+        "id" : "1aCy1EN-4AJGdTgfue7uVKMfcv6vDsV0R",
+        "md5hash": "f1465f5f0b44cf96df7056b2669ec621",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/prissy_kino_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "Prissy / Treyarch",
+        "main_author" : "Prissy",
+        "tags" : ["round sounds", "prissy", "pissy", "sound", "round", "music", "wave", "kino", "der", "toten", "theater", "theatre", "black", "bo3"]
+    },
+
+    "prissy_ascension_round_sounds":
+    {
+        "package_title" : "Ascension (Chronicles)",
+        "id" : "16oiMCE1duZ6H0HCuGL0hF1N4MWTVCC7G",
+        "md5hash": "7c0bcc8c132aa23948e425ed24949855",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/ascension_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "Prissy / Treyarch",
+        "main_author" : "Prissy",
+        "tags" : ["round sounds", "prissy", "pissy", "sound", "round", "music", "wave", "ascension", "asension", "asen", "asce", "black", "bo3"]
+    },
+    
+    "leafspwn_shang_sounds":
+    {
+        "package_title" : "Shangri La",
+        "id" : "1LB0itpOA0BX_IQEh4Bv-OuuBJ3FDSUIJ",
+        "md5hash": "60d4c34b9e30fd94fe4c92c765b21254",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/leafspwn_shang_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "LEAFSPWN88 / Treyarch",
+        "main_author" : "LEAFSPWN88",
+        "tags" : ["round sounds", "leaf", "sound", "round", "music", "wave", "shang", "shangri", "srl", "bo3", "black"]
+    },
+
+    "el3d3st_moon_round_sounds":
+    {
+        "package_title" : "Moon",
+        "id" : "1maWNp9RJzjYnfIdxMiPutlCLyDZ3KZNp",
+        "md5hash": "ce348e6c95ffa6a21b89415063c643b5",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/moon_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "El3d3st / Treyarch",
+        "main_author" : "EL3D3ST",
+        "tags" : ["round sounds", "el3dest", "sound", "round", "music", "wave", "moon", "area", "bo3", "black"]
+    },
+
+    "prissy_origins_sounds":
+    {
+        "package_title" : "Origins",
+        "id" : "1IhKKPchgacKezVECiG0JpTYA3_T1ucR0",
+        "md5hash": "c4ab04b540f7d8783643668b55cbb0ac",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/origins_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "Prissy / Treyarch",
+        "main_author" : "Prissy",
+        "tags" : ["round sounds", "prissy", "pissy", "sound", "round", "music", "wave", "origins", "black", "bo3"]
+    },
+
+    "spaceland_round_sounds":
+    {
+        "package_title" : "Zombies In Spaceland",
+        "id" : "1ES7XcVD3zmc03jyrw-D3yLdIkAxsJnjC",
+        "md5hash": "9ea9ebc377063979a9ae1d88bdde3fa1",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/spaceland_rounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "LEAFSPWN88 / Infinity Ward",
+        "main_author" : "LEAFSPWN88",
+        "tags" : ["round sounds", "leaf", "sound", "round", "music", "wave", "zombies", "spaceland", "zis", "iw", "infinite", "warfare"]
+        
+    },
+
+    "rave_round_sounds":
+    {
+        "package_title" : "Rave In The Redwoods",
+        "id" : "1MHm8OG8mwhxyxRT3oftOo9BfFpLh31IY",
+        "md5hash": "64826eb2fc8386d59222217b4df8494e",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/redwoods_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "LEAFSPWN88 / Infinity Ward",
+        "main_author" : "LEAFSPWN88",
+        "tags" : ["round sounds", "leaf", "sound", "round", "music", "wave", "zombies", "rave", "redwood", "ritw", "iw", "infinite", "warfare"]
+    },
+
+    "shaolin_round_sounds":
+    {
+        "package_title" : "Shaolin Shuffle",
+        "id" : "1pQjjRmAkV7B8PqRHnLNzWYUrE3zAIfpr",
+        "md5hash": "31300486ea303a69566eba13418fe848",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/shaolin_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "LEAFSPWN88 / Infinity Ward",
+        "main_author" : "LEAFSPWN88",
+        "tags" : ["round sounds", "leaf", "sound", "round", "music", "wave", "zombies", "shao", "shoa", "shuffle", "shaolin shuffle", "infinite", "warfare"]
+    },
+
+    "radioactive_round_sounds":
+    {
+        "package_title" : "Attack of the Radioactive Thing",
+        "id" : "18QvAp_6FCk3vTuQil-JWEkKehKTM6AuC",
+        "md5hash": "6ad43ce38ca4767af15c13b800975476",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/radioactive_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "LEAFSPWN88 / Infinity Ward",
+        "main_author" : "LEAFSPWN88",
+        "tags" : ["round sounds", "leaf", "sound", "round", "music", "wave", "zombies", "aotrt", "attack", "radio", "thing", "iw", "infinite", "warfare"]
+    },
+
+    "beast_beyond_round_sounds":
+    {
+        "package_title" : "Beast From Beyond",
+        "id" : "1jZL3BeTal1pDrmS_l5blEYkNIjp4xHa2",
+        "md5hash": "2348ce3211577fc7d83c94cd0ac49311",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/beast_beyond_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "LEAFSPWN88 / Infinity Ward",
+        "main_author" : "LEAFSPWN88",
+        "tags" : ["round sounds", "leaf", "sound", "round", "music", "wave", "zombies", "beast", "beyond","iw", "infinite", "warfare"]
+    },
+
+    "voyage_round_sounds":
+    {
+        "package_title" : "Voyage of Despair",
+        "id" : "1Pxk47ZoU9jsXtyfpltJt94g42C5cw1Vn",
+        "md5hash": "b3c1968556321eafe1966435337a392a",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/vod_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "Pepergogo / Treyarch",
+        "main_author" : "Pepergogo",
+        "tags" : ["round sounds", "pepe", "pepp", "sound", "round", "music", "wave", "zombies", "voyage", "despair", "iw", "infinite", "warfare"]
+    },
+    
+    "xi_arena_round_sounds":
+    {
+        "package_title" : "IX Arena",
+        "id" : "1UFjuzmh3HGdHq87P8QdbUPYrvmnvKmtR",
+        "md5hash": "5369c62f91f7f7a7f5736dfe740ca8ed",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/xi_arena_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "Pepergogo / Treyarch",
+        "main_author" : "Pepergogo",
+        "tags" : ["round sounds", "pepe", "pepp", "sound", "round", "music", "wave", "zombies", "nine", "ix", "arena", "iw", "black", "bo4"]
+
+    },
+
+    "xi_temple_round_sounds":
+    {
+        "package_title" : "IX Temple",
+        "id" : "1LLTAE_o_gmcqz07GQ_XCEctCpnwLK4mf",
+        "md5hash": "0e8baf344366cd2d6429bd9fb985c0ce",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/xi_temple_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "Pepergogo / Treyarch",
+        "main_author" : "Pepergogo",
+        "tags" : ["round sounds", "pepe", "pepp", "sound", "round", "music", "wave", "zombies", "nine", "ix", "temple", "black", "bo4"]
+    },
+
+    "botd_round_sounds":
+    {
+        "package_title" : "Blood of the Dead",
+        "id" : "1GDobBtSujimvLF007ZO56RrI9XcH4cgs",
+        "md5hash": "dfdae0c48bd406e67295a271dce4baf8",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/botd_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "Booris / Treyarch",
+        "main_author" : "Booris",
+        "tags" : ["round sounds", "boo", "boris", "sound", "round", "music", "wave", "zombies", "botd", "blood", "dead", "black", "bo4"]
+    },
+
+    "classified_round_sounds":
+    {
+        "package_title" : "Classified",
+        "id" : "1I7ePbKf8IwS3ig0x-0nymI8NnpMFcECr",
+        "md5hash": "ff689ace8afafd282b1d7b5c2f9c01a7",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/classified_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "Booris / Treyarch",
+        "main_author" : "Booris",
+        "tags" : ["round sounds", "boo", "boris", "sound", "round", "music", "wave", "zombies", "five", "classified", "black", "bo4"]
+    },
+    
+    "dotn_round_sounds":
+    {
+        "package_title" : "Dead of the Night",
+        "id" : "14VePgT-HV1a2A8yCwpsvAwn1Kp6fKKfV",
+        "md5hash": "3f0cb4781286e8658e8ed4ed6e69b051",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/dotn_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "Pepergogo / Treyarch",
+        "main_author" : "Pepergogo",
+        "tags" : ["round sounds", "pepe", "pepp", "sound", "round", "music", "wave", "dotn", "dead", "night", "black", "bo4"]
+    },
+
+    "ae_round_sounds":
+    {
+        "package_title" : "Ancient Evil",
+        "id" : "1SVmZ4l7zTVTHbW72wLW4d2LqlPXE967O",
+        "md5hash": "70171a20ef76fa6ce49f35645142b272",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/ae_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "Pepergogo / Treyarch",
+        "main_author" : "Pepergogo",
+        "tags" : ["round sounds", "pepe", "pepp", "sound", "round", "music", "wave", "ae", "ancient", "evil", "black", "bo4"]
+    },
+
+    "ao_round_sounds":
+    {
+        "package_title" : "Alpha Omega",
+        "id" : "1Ddht9TbqKm7JiO1k0cQfqc8o9ysG88Q9",
+        "md5hash": "ca93eee8d4e1fbfb5e0fa5e08a9a2147",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/alpha_omega.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "Booris / Treyarch",
+        "main_author" : "Booris",
+        "tags" : ["round sounds", "pepe", "pepp", "sound", "round", "music", "wave", "ao", "alpha", "omega", "nuketown", "black", "bo4"]
+        
+    },
+
+    "tag_round_sounds":
+    {
+        "package_title" : "Tag Der Toten",
+        "id" : "1o0rNp5HuuDowk2H806E7K8w7u89_-NuV",
+        "md5hash": "587b8bbb9d97b010aa4d79dcf808344e",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/tag_round_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "Booris / Treyarch",
+        "main_author" : "Booris",
+        "tags" : ["round sounds", "boo", "boris", "sound", "round", "music", "wave", "tag", "toten", "black", "bo4"]
+
+    },
+
+    "die_maschine_round_sounds":
+    {
+        "package_title" : "Die Maschine",
+        "id" : "1mGn1cscLo_nl9BJhFdiqFj5j3amgO5Nb",
+        "md5hash": "63630851ede548b1746c5a6c56c7dfd4",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/garrett_diemaschine_sounds.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "Garrett / Treyarch",
+        "main_author" : "Garrett",
+        "tags" : ["round sounds", "garret", "garrett", "sound", "round", "music", "wave", "zombies", "die", "machine", "black", "bocw", "cold", "war"]
+    },
+
+    "xmas_round_sounds":
+    {
+        "package_title" : "Jingle Hells",
+        "id" : "1nM21NOtfugGn8nQxjSB9vTaIXjCnwTXt",
+        "md5hash": "b4f976f0a04a4cf5489ec0e09694f61f",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/garrett_jingle_hells.shid",
+        "type" : "ROUND SOUNDS",
+        "authors" : "Garrett / Treyarch",
+        "main_author" : "Garrett",
+        "tags" : ["round sounds", "garret", "garrett", "sound", "round", "music", "wave", "zombies", "jingle", "hells", "xmas", "bocw", "cold", "war"]
+
+    },
+
+    "giant_vox_sounds":
+    {
+        "package_title" : "The Giant Character Voicelines",
+        "id" : "1VGOQzUCZK1SAz-4c4Bi8ENgY9uNl3qqG",
+        "md5hash": "62b5e58aee58d67c862e6e487d9cfcc2",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/giant_char_vox_sounds.shid",
+        "type" : "VOX",
+        "authors" : "LEAFSPWN88 / Treyarch",
+        "main_author" : "LEAFSPWN88",
+        "tags" : ["vox", "voice", "leaf", "player", "bo3", "black", "giant", "riese"]
+    },
+
+    "kino_vox_sounds":
+    {
+        "package_title" : "Kino Der Toten Character Voicelines",
+        "id" : "12O6VFlUgGBJv6_FqI44GoCi04J81y8zT",
+        "md5hash": "42eca82f902ae5f2a0402d0ed5cc2d04",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kino_char_vox_sounds.shid",
+        "type" : "VOX",
+        "authors" : "LEAFSPWN88 / Treyarch",
+        "main_author" : "LEAFSPWN88",
+        "tags" : ["vox", "voice", "leaf", "player", "bo3", "black", "kino", "der", "toten"]
+    },
+
+    "kyle_bo2_hud":
+    {
+        "package_title" : "Black Ops 2",
+        "id" : "1Nl_RuxI-Q9IMrKcxyEdOV8ngFFGqHQ4h",
+        "md5hash": "70371c13720613d8a57c256000f495c7",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_bo2_hud.shid",
+        "type" : "HUD",
+        "authors" : "Kingslayer Kyle / Treyarch",
+        "main_author" : "Kingslayer Kyle",
+        "tags" : ["hud", "kingslayer", "kyle", "skin", "bo2", "black"]
+    },
+
+    "kyle_hud_iw":
+    {
+        "package_title" : "Infinite Warfare",
+        "id" : "1iajyO-g7SNdvCJDgWpPAUYD0uqgOWSyB",
+        "md5hash": "094b9a93070097637ccab151b6ba1075",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_iw_hud.shid",
+        "type" : "HUD",
+        "authors" : "Kingslayer Kyle / Infinity Ward",
+        "main_author" : "Kingslayer Kyle",
+        "tags" : ["hud", "kingslayer", "kyle", "skin", "iw", "infinite", "warfare"]
+    },
+
+    "kyle_hud_ww2":
+    {
+        "package_title" : "World War II",
+        "id" : "1qCU8Xeeycr7gEJWiR8CFfajJz-jnan9g",
+        "md5hash": "b6ef4a273f227283a31e352f893c1f68",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_ww2_hud.shid",
+        "type" : "HUD",
+        "authors" : "Kingslayer Kyle / Sledgehammer Games",
+        "main_author" : "Kingslayer Kyle",
+        "tags" : ["hud", "kingslayer", "kyle", "skin", "ww2", "wwii", "world", "war"]
+    },
+
+    "kyle_hud_bo4":
+    {
+        "package_title" : "Black Ops 4",
+        "id" : "1SZX1WJK7QYNptSU2JdEJy_mkVq1uXrQu",
+        "md5hash": "9aa4ebfd00a4040acedf83de21d2c69c",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_bo4_hud.shid",
+        "type" : "HUD",
+        "authors" : "Kingslayer Kyle / Treyarch",
+        "main_author" : "Kingslayer Kyle",
+        "tags" : ["hud", "kingslayer", "kyle", "skin", "bo4", "black"]
+    },
+    
+    "kyle_csgo_hud":
+    {
+        "package_title" : "Counter Strike : Global Offensive [CS:GO]",
+        "id" : "1IDR78YuYI_BT4FbS6mj5Y9M7fX5-FcXz",
+        "md5hash": "b2d305e5b7a83021a28d1eb9d2a47eaa",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_csgo_hud.shid",
+        "type" : "HUD",
+        "authors" : "Kingslayer Kyle / Valve",
+        "main_author" : "Kingslayer Kyle",
+        "tags" : ["hud", "kingslayer", "kyle", "skin", "counter", "strike", "global", "offensive", "csgo", "cs:go"]
+    },
+    
+    "mg_hud":
+    {
+        "package_title" : "Madgaz V2",
+        "id" : "1Eq9b8W5PnksRMNM51n9xt-I_s-fI1W68",
+        "md5hash": "7053ba24d3530882b12d607e97637a5b",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/mg_hud.shid",
+        "type" : "HUD",
+        "authors" : "Madgaz",
+        "main_author" : "Madgaz",
+        "tags" : ["hud", "gaz", "mg", "madgaz v2"]
+    },
+
+    "aether_announcer":
+    {
+        "package_title" : "Aether Storyline",
+        "id" : "1TtVJm9Ls7ouvxSwkZSrjJ7oO5X5DmRyZ",
+        "md5hash": "89596bb3bf52a6be4d24c2f7fc58ae0b",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/pg_aether_announcer.shid",
+        "type" : "ANNOUNCER",
+        "authors" : "Pepergogo / Treyarch",
+        "main_author" : "Pepergogo",
+        "tags" : ["announcer", "pepe", "pepp", "aether", "storyline", "ann", "sound"]
+    },
+
+    "avogadro_announcer":
+    {
+        "package_title" : "Avogadro",
+        "id" : "1IYPIrdZYYzQvIid9g_Dv5Co9Nx35YqLK",
+        "md5hash": "da7d44f430cc3de7f3e49a9bc37ab966",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/garrett_avogadro_ancr.shid",
+        "type" : "ANNOUNCER",
+        "authors" : "Garrett / Treyarch",
+        "main_author" : "Pepergogo",
+        "tags" : ["announcer", "garrett", "garret", "avogadro", "storyline", "ann", "sound"]
+    },
+
+    "cw_announcer":
+    {
+        "package_title" : "Black Ops Cold War",
+        "id" : "1oxRJQhMoRXJ-4NZHAy--fEnNenaxy66w",
+        "md5hash": "92616fc1f94f81fab243e919004f4e63",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/j_ancr_cw.shid",
+        "type" : "ANNOUNCER",
+        "authors" : "JG / Treyarch",
+        "main_author" : "JG",
+        "tags" : ["announcer", "jg", "bocw", "black", "cold", "war", "ann", "sound"]
+
+    },
+
+    "chaos_announcer":
+    {
+        "package_title" : "Chaos Storyline",
+        "id" : "1eLMmYU3i-TWghmy1CNaBAedaTvos5zaa",
+        "md5hash": "2c946f77b40acfe9224398cf8392cb6d",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/pg_chaos_announcer.shid",
+        "type" : "ANNOUNCER",
+        "authors" : "Pepergogo / Treyarch",
+        "main_author" : "Pepergogo",
+        "tags" : ["announcer", "pepe", "pepp", "chaos", "storyline", "ann", "sound"]
+    },
+
+    "der_anfang_announcer":
+    {
+        "package_title" : "Der Anfang",
+        "id" : "1OHQiQAP4XwWLU_hVf_aYwk-3UqTiWxUE",
+        "md5hash": "eb6383ae3333668a95d4e4bf2903f871",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/j_der_anfang_ancr.shid",
+        "type" : "ANNOUNCER",
+        "authors" : "JG / Treyarch / Sledgehammer Games",
+        "main_author" : "JG",
+        "tags" : ["announcer", "jg", "der", "anfang", "ann", "sound"]
+    },
+    
+    "monty_announcer":
+    {
+        "package_title" : "Dr. Monty",
+        "id" : "1V4VsPHPRSVVDXW7kgkAv60A_DkUyaVa_",
+        "md5hash": "6806f9cba0080a8f9524ffe4cab8760a",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/booris_ancr_monty.shid",
+        "type" : "ANNOUNCER",
+        "authors" : "Booris / Treyarch",
+        "main_author" : "Booris",
+        "tags" : ["announcer", "boris", "boo", "doctor", "dr", "monty", "ann", "sound"]
+    },
+
+    "richtofen_announcer":
+    {
+        "package_title" : "Richtofen",
+        "id" : "1BjLsq4tT_k94Evj4lrTWWM-iBRgCCuVf",
+        "md5hash": "83b86f56b9c7ad4c6650874346980fc9",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/voj_richtofen_ancr.shid",
+        "type" : "ANNOUNCER",
+        "authors" : "VOICEOFJARAED / Treyarch",
+        "main_author" : "VoiceOfJaraed",
+        "tags" : ["announcer", "ann", "richtofen", "sound"]
+    },
+
+    "rush_announcer":
+    {
+        "package_title" : "Rush Storyline",
+        "id" : "1-5JkGTl_FzNnloOtQIsJ0BUmQDWOSBBo",
+        "md5hash": "45cd7c90ff1611a51222936bcf5c0745",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/pg_rush_announcer.shid",
+        "type" : "ANNOUNCER",
+        "authors" : "Pepergogo / Treyarch",
+        "main_author" : "Pepergogo",
+        "tags" : ["announcer", "pepe", "pepp", "rush", "ann", "sound"]
+    },
+
+    "samantha_announcer":
+    {
+        "package_title" : "Samantha [Origins]",
+        "id" : "1w6LAfEOgTFLImBCVC6UDZdr9g9I4Nsh4",
+        "md5hash": "e5b2c7697776a40023ef3408214f21b2",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/ancr_samantha.shid",
+        "type" : "ANNOUNCER",
+        "authors" : "JG / Treyarch",
+        "main_author" : "JG",
+        "tags" : ["announcer", "jg", "samantha", "maxis", "ann", "sound"]
+    },
+
+    "shadowman_announcer":
+    {
+        "package_title" : "Shadow Man",
+        "id" : "1Sy_b0xh7M6DN8HnxcAYDAxaEJiTfprRm",
+        "md5hash": "02500b05e5006b5ccceff0a2c70870b9",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/booris_shadowman_ancr.shid",
+        "type" : "ANNOUNCER",
+        "authors" : "Booris / Treyarch",
+        "main_author" : "Booris",
+        "tags" : ["announcer", "boris", "boo", "shadow", "ann", "sound"]
+    },
+
+    "willard_wyler_announcer":
+    {
+        "package_title" : "Willard Wyler",
+        "id" : "1C8_6Bwr2ttUy-Fuk6PE1DvecklkhUD2c",
+        "md5hash": "f03d7c1c98583085515c4e0de92f2ecb",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/satan_ww_announcer.shid",
+        "type" : "ANNOUNCER",
+        "authors" : "SATAN / Infinity Ward",
+        "main_author" : "SATAN",
+        "tags" : ["announcer", "satan", "willard", "wyler", "ww", "iw", "ann", "sound"]
+    },
+
+    "owen_stranded":
+    {
+        "package_title": "Stranded Deep",
+        "id" : "1rbN1OOcs9qY7EsuGpZdkdhpxAcas0aOX",
+        "md5hash" : "19905a512e17ba54c93d3cf260dd79f2",
+        "shidurl" : "NO_SHID_URL",
+        "type" : "MODELS",
+        "authors" : "Owen / Beam Team Games",
+        "main_author" : "OwenC137",
+        "tags" : ["model", "owen", "stranded", "deep"]
+    },
+
+    "spx_micro":
+    {
+        "package_title": "MODEL PACK : Micro",
+        "id" : "1Oc0PgAXVj9tNBNtS0ATyiDgOOV66tF82",
+        "md5hash" : "4bf97f01b47fbe20b5b36ecd1c9f9109",
+        "shidurl" : "NO_SHID_URL",
+        "type" : "MODELS",
+        "authors" : "Sphynx / Treyarch",
+        "main_author" : "Sphynx",
+        "tags" : ["model", "sphynx", "micro"]
+    },
+
+    "logical_ai_charred_zombies":
+    {
+        "package_title": "Charred Zombies",
+        "id" : "1dBaDY3PEr1xMbZjvSdUImBEIoXnhgiZB",
+        "md5hash" : "181c15a50a91b34c9efa4535b2201612",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/logical_charred_zombs.shid",
+        "type" : "AI",
+        "authors" : "Logical / Treyarch",
+        "main_author" : "Logical",
+        "tags" : ["ai", "zombies", "logical", "charred"]
+    },
+
+    "owen_sdc_zombies":
+    {
+        "package_title": "SDC Zombies",
+        "id" : "19qESCWglG1bTpr2YplEs-mn2iQ7m6LIt",
+        "md5hash" : "22252f2d79f145fab15db85ef45ea0a1",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/owen_sdc_zombs.shid",
+        "type" : "AI",
+        "authors" : "OwenC137 / Treyarch",
+        "main_author" : "OwenC137",
+        "tags" : ["ai", "zombies", "owen", "sdc"]
+    },
+
+    "kingslayer_ai_soe_zombies":
+    {
+        "package_title": "Shadows of Evil Zombies",
+        "id" : "1L4n2xgOdf89xgRiIsD4O3Z-2g-CgmS6Y",
+        "md5hash" : "5820adcd9d84fbca4b94489cd91eb60c",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_soe_zombs.shid",
+        "type" : "AI",
+        "authors" : "Kingslayer Kyle / Treyarch",
+        "main_author" : "Kingslayer Kyle",
+        "tags" : ["ai", "zombies", "kingslayer", "kyle", "soe", "shadows", "evil"]
+    },
+
+    "kingslayer_ai_botd_zombies":
+    {
+        "package_title": "Blood of the Dead Zombies",
+        "id" : "1iCiVZZsV32-2yrZ5Wa-IHB2kRj_-JPsY",
+        "md5hash" : "af51fc3e525672ef8dd67fa18fe621cb",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_botd_zombs.shid",
+        "type" : "AI",
+        "authors" : "Kingslayer Kyle / Treyarch",
+        "main_author" : "Kingslayer Kyle",
+        "tags" : ["ai", "zombies", "kingslayer", "kyle", "blood", "dead", "botd"]
+    },
+
+    "kingslayer_ai_classified_zombies":
+    {
+        "package_title": "Classified Zombies",
+        "id" : "1VWoitEeWO-sXc8JG2wL3iko22V0-nNtR",
+        "md5hash" : "8a02c97ca002480cf3b16d38d19e243e",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_classified_zombs.shid",
+        "type" : "AI",
+        "authors" : "Kingslayer Kyle / Treyarch",
+        "main_author" : "Kingslayer Kyle",
+        "tags" : ["ai", "zombies", "kingslayer", "kyle", "classified", "five"]
+    },
+
+    "kingslayer_ai_vg_zombies":
+    {
+        "package_title": "Vanguard Zombies",
+        "id" : "1XyfNElF4KyT3-BH6FvQEy2lirSfh93wv",
+        "md5hash" : "10600cedec0d0e5c8be6d190576dc1c5",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_vg_zombs.shid",
+        "type" : "AI",
+        "authors" : "Kingslayer Kyle / Treyarch",
+        "main_author" : "Kingslayer Kyle",
+        "tags" : ["ai", "zombies", "kingslayer", "kyle", "vanguard"]
+    },
+
+    "j4k0b13_ai_shang_zombies":
+    {
+        "package_title": "Shangri-La Zombies",
+        "id" : "1cfwOFahpOwCCk9s_Xgl1Rm7xcIh_73VG",
+        "md5hash" : "868073dcf844c18441bf37471f1dcfdb",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/j4k0b_shang_zombs.shid",
+        "type" : "AI",
+        "authors" : "J4k0b13 / Treyarch",
+        "main_author" : "j4k0b13",
+        "tags" : ["ai", "zombies", "j4k0b13", "j4k", "shang", "shangri-la", "shangri"]
+    },
+
+    
+    "ninja_gk_zombies":
+    {
+        "package_title": "Gorod Krovi Zombies",
+        "id" : "1FmKhRXSe4BdWmkZcvste2-SaO1NZKMz2",
+        "md5hash" : "85f0404ed3a7a0d0761b9c2fb6650735",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/ninja_gk_zombies.shid",
+        "type" : "AI",
+        "authors" : "Ninjaman / Treyarch",
+        "main_author" : "Ninjaman829",
+        "tags" : ["ai", "zombies", "ninja", "ninjaman", "gorod", "krovi", "gk"]
+    },
+
+    "zeroy_nrc_zombies":
+    {
+        "package_title": "NRC Zombies",
+        "id" : "19BaoKFMfjh8YWqu4WfFM5soV-hJzJ6O4",
+        "md5hash" : "bbcf32787bee4db4ef2727d6d397f7dc",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/zeroy_nrc_zombs.shid",
+        "type" : "AI",
+        "authors" : "ZeRoY / Treyarch",
+        "main_author" : "ZeRoY",
+        "tags" : ["ai", "zombies", "zeroy", "nrc"]
+    },
+
+    "zeroy_54i_zombies":
+    {
+        "package_title": "54 Immortals Zombies",
+        "id" : "1iG1m32fYDc01pcgHjv34kAIXih5B_bML",
+        "md5hash" : "f096837d0c9f57257c6e476b3974e90b",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/zeroy_54i_zombs.shid",
+        "type" : "AI",
+        "authors" : "ZeRoY / Treyarch",
+        "main_author" : "ZeRoY",
+        "tags" : ["ai", "zombies", "zeroy", "54i", "fifty four", "54", "immortal"]
+    },
+
+    "midget_maschine_zombies":
+    {
+        "package_title": "Die Maschine Zombies",
+        "id" : "1HGswHzjSjl72wbU21syICt0jGXsohP5B",
+        "md5hash" : "ec172ef326af039925ca3bafd8531fab",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/midget_masch_zombs.shid",
+        "type" : "AI",
+        "authors" : "MidgetBlaster / Treyarch",
+        "main_author" : "MidgetBlaster",
+        "tags" : ["ai", "zombies", "midget", "midgetblaster", "die", "machine", "maschine"]
+    },
+
+
+    "koen_landers":
+    {
+        "package_title": "Lunar Landers",
+        "id" : "1gAqKB7nNmrpxzrYUgYiUNhsbhXlRptER",
+        "md5hash" : "48dbf26eb63e44a3c8658a431126a4c4",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/koen_landers.shid",
+        "type" : "SCRIPTS",
+        "authors" : "Koentje / Harry BO21 / Treyarch",
+        "main_author" : "Koentje",
+        "tags" : ["scripts", "koen", "lunar", "lander", "script", "ascension"]
+    },
+
+    "wegg_deathmachine":
+    {
+        "package_title": "Cold War Death Machine",
+        "id" : "1JhhZ60JT0u0r943YNuvcTGcJjDnmHt60",
+        "md5hash" : "2a9ca28cd6cff9bc7f538bc8453324b9",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/wegg_cw_minigun.shid",
+        "type" : "SCRIPTS",
+        "authors" : "WetEgg / Treyarch",
+        "main_author" : "WetEgg",
+        "tags" : ["scripts", "wet", "wetegg", "egg", "sausage", "death", "machine", "minigun", "powerup", "script"]
+    },
+
+    "logical_legostud":
+    {
+        "package_title": "Lego Stud Points",
+        "id" : "1LPro1okCYoOpjh83zbeCTkF8H9Q7XoP3",
+        "md5hash" : "9056e484b14d6ba2a4ad938863fb88dd",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/logical_legostud.shid",
+        "type" : "SCRIPTS",
+        "authors" : "Logical",
+        "main_author" : "Logical",
+        "tags" : ["scripts", "logical", "lego", "stud", "script"]
+    },
+
+    "alfathesus_floaties":
+    {
+        "package_title": "Zombie Floaties",
+        "id" : "1sePzSq5mKFuTvJ88chJWMdqQf6Sw-bPd",
+        "md5hash" : "e3525fefc22f252f0a0fb0ede0b143fc",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/alfa_floaties.shid",
+        "type" : "SCRIPTS",
+        "authors" : "Alfathesus / Treyarch",
+        "main_author" : "Alfathesus",
+        "tags" : ["scripts", "alfa", "float", "zombie", "script"]
+    },
+
+    "shid_milestones":
+    {
+        "package_title": "Perk Milestones",
+        "id" : "1cBVk_swtzTR7wvZiuL_81Y-OI_lNe4GB",
+        "md5hash" : "2fd57877ba5a4d68c876d2ecb13a6f1f",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/shid_milestones.shid",
+        "type" : "SCRIPTS",
+        "authors" : "Shidouri",
+        "main_author" : "Shidouri",
+        "tags" : ["scripts", "shid", "perk", "milestone", "script"]
+    },
+
+    "koen_hacker":
+    {
+        "package_title": "Hacker",
+        "id" : "1yXQnaPf3921n-Do_tISWjj9GVWjrYOae",
+        "md5hash" : "f08443b7c1036804f4807b1daa73319c",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/koen_hackers.shid",
+        "type" : "SCRIPTS",
+        "authors" : "Koentje / Treyarch",
+        "main_author" : "Koentje",
+        "tags" : ["scripts", "koen", "hacker", "moon", "script"]
+    },
+
+    "hb21_bows":
+    {
+        "package_title": "Elemental Bows",
+        "id" : "1YTbLQb5mdp1leYdmGQyA8rue149BmJ9-",
+        "md5hash" : "fe750137f010c482992d3f0d56ce7f97",
+        "shidurl" : "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/hb21_bows.shid",
+        "type" : "WEAPONS",
+        "authors" : "Treyarch / DEVRAW / HarryBO21",
+        "main_author" : "HarryBO21",
+        "tags" : ["weapons", "harry", "hb21", "harrybo21", "weapon", "bows", "de", "der", "eisendrache"]
+    }
+       
+}
