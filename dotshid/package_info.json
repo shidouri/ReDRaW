@@ -1,6 +1,6 @@
 {
     "essentials_l3akmod": {
-        "PackageTitle: "L3AKMOD",
+        "PackageTitle": "L3AKMOD",
         "GoogleDriveID": "1Xbrl7xVD0EeeubpXlzbsjJEZkXUPl0bA",
         "PackageHash": "f49785887cad28b394d41e57b74a5eea",
         "PackageShidUrl": "NO_SHID_URL",
@@ -18,7 +18,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/essentials_l3akmod.zip"
     },
     "essentials_fx": {
-        "PackageTitle: "FX",
+        "PackageTitle": "FX",
         "GoogleDriveID": "1BT7nCuWGOezY03guNxN3KTXalyDAJ9oF",
         "PackageHash": "3a163702e32b615a24732db0db49613b",
         "PackageShidUrl": "NO_SHID_URL",
@@ -34,7 +34,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/essentials_fx.zip"
     },
     "essentials_ssd": {
-        "PackageTitle: "SURFACE SOUND DEFINITIONS",
+        "PackageTitle": "SURFACE SOUND DEFINITIONS",
         "GoogleDriveID": "14in2UwdXfdcFRNufvjCF1THcqH1vFRCP",
         "PackageHash": "9120c804b6755b695fde852aa15fb248",
         "PackageShidUrl": "NO_SHID_URL",
@@ -54,7 +54,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/essentials_surfacesounddefs.zip"
     },
     "essentials_beams": {
-        "PackageTitle: "BEAMS",
+        "PackageTitle": "BEAMS",
         "GoogleDriveID": "19nViKu0B3CzCq1up_GE5no-35AwEHARA",
         "PackageHash": "11e11e0092616d17ad1644155d4ac87d",
         "PackageShidUrl": "NO_SHID_URL",
@@ -71,7 +71,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/essentials_beamassets.zip"
     },
     "essentials_physics": {
-        "PackageTitle: "PHYSICS",
+        "PackageTitle": "PHYSICS",
         "GoogleDriveID": "1pulVnBzhFsTXeIiifwFXoUOHTl4VhJ3h",
         "PackageHash": "39a825b9d2364356af0ff48875553e18",
         "PackageShidUrl": "NO_SHID_URL",
@@ -87,7 +87,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/essentials_physics.zip"
     },
     "essentials_rumble": {
-        "PackageTitle: "RUMBLES",
+        "PackageTitle": "RUMBLES",
         "GoogleDriveID": "1qoQa9AhJJNRBGi9wKO5zefwKwvZ_6HVx",
         "PackageHash": "bca93bc93b1b87251200f62589748ca4",
         "PackageShidUrl": "NO_SHID_URL",
@@ -104,7 +104,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/essentials_rumble.zip"
     },
     "essentials_vsd": {
-        "PackageTitle: "VEHICLE SOUND DEFINITIONS",
+        "PackageTitle": "VEHICLE SOUND DEFINITIONS",
         "GoogleDriveID": "1okDYPBy42mitP8Un8SCUpjea9N_7pCVs",
         "PackageHash": "d40ba45be4ac42161a007b359dfd5a98",
         "PackageShidUrl": "NO_SHID_URL",
@@ -124,7 +124,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/essentials_vsd.zip"
     },
     "essentials_bt": {
-        "PackageTitle: "BT STUFF",
+        "PackageTitle": "BT STUFF",
         "GoogleDriveID": "1sLKNTJkYJaEKMDHAwecBYKKdWThVPMZ-",
         "PackageHash": "18cb573acccebc8c47db7acd6c4aa55f",
         "PackageShidUrl": "NO_SHID_URL",
@@ -147,7 +147,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/essentials_bt_stuff.zip"
     },
     "hb21_boxes": {
-        "PackageTitle: "HB21 / DEVRAW Mystery Box Pack",
+        "PackageTitle": "HB21 / DEVRAW Mystery Box Pack",
         "GoogleDriveID": "1M0s8HhORsePrRVGgxE5pET6rAbHgEqug",
         "PackageHash": "cb06b7af661acea9d2811cae76f262bf",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/hb21_boxes.shid",
@@ -170,7 +170,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/essentials_hb21_boxes.zip"
     },
     "redraw_soe_template": {
-        "PackageTitle: "Shadows of Evil",
+        "PackageTitle": "Shadows of Evil",
         "GoogleDriveID": "1rVTHRKa35nNZsJrhLmCMXVnJL",
         "PackageHash": "e8bdeafb25019a22523603a4f3443d27",
         "PackageShidUrl": "NO_SHID_URL",
@@ -189,7 +189,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/templates_redraw_soe.zip"
     },
     "leafspwn_soe_round_sounds": {
-        "PackageTitle: "Shadows of Evil",
+        "PackageTitle": "Shadows of Evil",
         "GoogleDriveID": "1h6qTAiw1fw4YnqPNqbfx9CbtaPlr7mn-",
         "PackageHash": "49eb980ecc564702c2726aad79ba45dc",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/soe_round_sounds.shid",
@@ -214,7 +214,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_soe_round.zip"
     },
     "prissy_de_round_sounds": {
-        "PackageTitle: "Der Eisendrache",
+        "PackageTitle": "Der Eisendrache",
         "GoogleDriveID": "15WxVIwklPITgRCgNxcGzft7e9gABbYj9",
         "PackageHash": "3afb910dedf3b0a422cb342a77d34f01",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/prissy_de_round_sounds.shid",
@@ -240,7 +240,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_de_round.zip"
     },
     "leafspwn_zets_round_sounds": {
-        "PackageTitle: "Zetsubou No Shima",
+        "PackageTitle": "Zetsubou No Shima",
         "GoogleDriveID": "1JMgq1UITz43sHnknqBP7r0BuV-Q4i6tH",
         "PackageHash": "728886a1c85cd1e13ce0c3709e3891f3",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/zets_round_sounds.shid",
@@ -266,7 +266,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_zets_round.zip"
     },
     "prissy_gorod_round_sounds": {
-        "PackageTitle: "Gorod Krovi",
+        "PackageTitle": "Gorod Krovi",
         "GoogleDriveID": "1I1AHp18j0ODza1YEQHRPdzOye9MHLxM-",
         "PackageHash": "d4ca53fb9f354aa68dd5d4edd7428faf",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/prissy_gorod_round_sounds.shid",
@@ -292,7 +292,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_gorod_round.zip"
     },
     "leafspwn_rev_sounds": {
-        "PackageTitle: "Revelations",
+        "PackageTitle": "Revelations",
         "GoogleDriveID": "1003BTOnu5TaZlzdQOWV4taHYQneL1dvC",
         "PackageHash": "3d4afeb486747c8c2ecd078d7c6443b0",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/leafspwn_rev_round_sounds.shid",
@@ -316,7 +316,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_rev_round.zip"
     },
     "classic_round_sounds": {
-        "PackageTitle: "Classic WAW - BO1",
+        "PackageTitle": "Classic WAW - BO1",
         "GoogleDriveID": "1Lbt9VRK2_o_527eVWbepWl9iVnbn8G7w",
         "PackageHash": "57a66ad36ef269b42fde44f318ed4350",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/classic_round_sounds.shid",
@@ -342,7 +342,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_classic_round.zip"
     },
     "prissy_kino_round_sounds": {
-        "PackageTitle: "Kino Der Toten (Chronicles)",
+        "PackageTitle": "Kino Der Toten (Chronicles)",
         "GoogleDriveID": "1aCy1EN-4AJGdTgfue7uVKMfcv6vDsV0R",
         "PackageHash": "f1465f5f0b44cf96df7056b2669ec621",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/prissy_kino_round_sounds.shid",
@@ -369,7 +369,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_kino_vox.zip"
     },
     "prissy_ascension_round_sounds": {
-        "PackageTitle: "Ascension (Chronicles)",
+        "PackageTitle": "Ascension (Chronicles)",
         "GoogleDriveID": "16oiMCE1duZ6H0HCuGL0hF1N4MWTVCC7G",
         "PackageHash": "7c0bcc8c132aa23948e425ed24949855",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/ascension_round_sounds.shid",
@@ -395,7 +395,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_ascension_round.zip"
     },
     "leafspwn_shang_sounds": {
-        "PackageTitle: "Shangri La",
+        "PackageTitle": "Shangri La",
         "GoogleDriveID": "1LB0itpOA0BX_IQEh4Bv-OuuBJ3FDSUIJ",
         "PackageHash": "60d4c34b9e30fd94fe4c92c765b21254",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/leafspwn_shang_round_sounds.shid",
@@ -419,7 +419,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_shang_round.zip"
     },
     "el3d3st_moon_round_sounds": {
-        "PackageTitle: "Moon",
+        "PackageTitle": "Moon",
         "GoogleDriveID": "1maWNp9RJzjYnfIdxMiPutlCLyDZ3KZNp",
         "PackageHash": "ce348e6c95ffa6a21b89415063c643b5",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/moon_round_sounds.shid",
@@ -442,7 +442,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_moon_round.zip"
     },
     "prissy_origins_sounds": {
-        "PackageTitle: "Origins",
+        "PackageTitle": "Origins",
         "GoogleDriveID": "1IhKKPchgacKezVECiG0JpTYA3_T1ucR0",
         "PackageHash": "c4ab04b540f7d8783643668b55cbb0ac",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/origins_round_sounds.shid",
@@ -465,7 +465,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_origins_round.zip"
     },
     "spaceland_round_sounds": {
-        "PackageTitle: "Zombies In Spaceland",
+        "PackageTitle": "Zombies In Spaceland",
         "GoogleDriveID": "1ES7XcVD3zmc03jyrw-D3yLdIkAxsJnjC",
         "PackageHash": "9ea9ebc377063979a9ae1d88bdde3fa1",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/spaceland_rounds.shid",
@@ -490,7 +490,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_spaceland_round.zip"
     },
     "rave_round_sounds": {
-        "PackageTitle: "Rave In The Redwoods",
+        "PackageTitle": "Rave In The Redwoods",
         "GoogleDriveID": "1MHm8OG8mwhxyxRT3oftOo9BfFpLh31IY",
         "PackageHash": "64826eb2fc8386d59222217b4df8494e",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/redwoods_round_sounds.shid",
@@ -516,7 +516,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_rave_round.zip"
     },
     "shaolin_round_sounds": {
-        "PackageTitle: "Shaolin Shuffle",
+        "PackageTitle": "Shaolin Shuffle",
         "GoogleDriveID": "1pQjjRmAkV7B8PqRHnLNzWYUrE3zAIfpr",
         "PackageHash": "31300486ea303a69566eba13418fe848",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/shaolin_round_sounds.shid",
@@ -542,7 +542,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_shaolin_round.zip"
     },
     "radioactive_round_sounds": {
-        "PackageTitle: "Attack of the Radioactive Thing",
+        "PackageTitle": "Attack of the Radioactive Thing",
         "GoogleDriveID": "18QvAp_6FCk3vTuQil-JWEkKehKTM6AuC",
         "PackageHash": "6ad43ce38ca4767af15c13b800975476",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/radioactive_round_sounds.shid",
@@ -569,7 +569,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_radioactive_round.zip"
     },
     "beast_beyond_round_sounds": {
-        "PackageTitle: "Beast From Beyond",
+        "PackageTitle": "Beast From Beyond",
         "GoogleDriveID": "1jZL3BeTal1pDrmS_l5blEYkNIjp4xHa2",
         "PackageHash": "2348ce3211577fc7d83c94cd0ac49311",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/beast_beyond_round_sounds.shid",
@@ -594,7 +594,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_beast_round.zip"
     },
     "voyage_round_sounds": {
-        "PackageTitle: "Voyage of Despair",
+        "PackageTitle": "Voyage of Despair",
         "GoogleDriveID": "1Pxk47ZoU9jsXtyfpltJt94g42C5cw1Vn",
         "PackageHash": "b3c1968556321eafe1966435337a392a",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/vod_round_sounds.shid",
@@ -620,7 +620,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_voyage_round.zip"
     },
     "xi_arena_round_sounds": {
-        "PackageTitle: "IX Arena",
+        "PackageTitle": "IX Arena",
         "GoogleDriveID": "1UFjuzmh3HGdHq87P8QdbUPYrvmnvKmtR",
         "PackageHash": "5369c62f91f7f7a7f5736dfe740ca8ed",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/xi_arena_round_sounds.shid",
@@ -647,7 +647,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_xi_arena_round.zip"
     },
     "xi_temple_round_sounds": {
-        "PackageTitle: "IX Temple",
+        "PackageTitle": "IX Temple",
         "GoogleDriveID": "1LLTAE_o_gmcqz07GQ_XCEctCpnwLK4mf",
         "PackageHash": "0e8baf344366cd2d6429bd9fb985c0ce",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/xi_temple_round_sounds.shid",
@@ -673,7 +673,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_xi_temple_round.zip"
     },
     "botd_round_sounds": {
-        "PackageTitle: "Blood of the Dead",
+        "PackageTitle": "Blood of the Dead",
         "GoogleDriveID": "1GDobBtSujimvLF007ZO56RrI9XcH4cgs",
         "PackageHash": "dfdae0c48bd406e67295a271dce4baf8",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/botd_round_sounds.shid",
@@ -699,7 +699,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_botd_round.zip"
     },
     "classified_round_sounds": {
-        "PackageTitle: "Classified",
+        "PackageTitle": "Classified",
         "GoogleDriveID": "1I7ePbKf8IwS3ig0x-0nymI8NnpMFcECr",
         "PackageHash": "ff689ace8afafd282b1d7b5c2f9c01a7",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/classified_round_sounds.shid",
@@ -724,7 +724,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_classified_round.zip"
     },
     "dotn_round_sounds": {
-        "PackageTitle: "Dead of the Night",
+        "PackageTitle": "Dead of the Night",
         "GoogleDriveID": "14VePgT-HV1a2A8yCwpsvAwn1Kp6fKKfV",
         "PackageHash": "3f0cb4781286e8658e8ed4ed6e69b051",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/dotn_round_sounds.shid",
@@ -749,7 +749,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_dotn_round.zip"
     },
     "ae_round_sounds": {
-        "PackageTitle: "Ancient Evil",
+        "PackageTitle": "Ancient Evil",
         "GoogleDriveID": "1SVmZ4l7zTVTHbW72wLW4d2LqlPXE967O",
         "PackageHash": "70171a20ef76fa6ce49f35645142b272",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/ae_round_sounds.shid",
@@ -774,7 +774,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_ae_round.zip"
     },
     "ao_round_sounds": {
-        "PackageTitle: "Alpha Omega",
+        "PackageTitle": "Alpha Omega",
         "GoogleDriveID": "1Ddht9TbqKm7JiO1k0cQfqc8o9ysG88Q9",
         "PackageHash": "ca93eee8d4e1fbfb5e0fa5e08a9a2147",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/alpha_omega.shid",
@@ -800,7 +800,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_alpha_omega_round.zip"
     },
     "tag_round_sounds": {
-        "PackageTitle: "Tag Der Toten",
+        "PackageTitle": "Tag Der Toten",
         "GoogleDriveID": "1o0rNp5HuuDowk2H806E7K8w7u89_-NuV",
         "PackageHash": "587b8bbb9d97b010aa4d79dcf808344e",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/tag_round_sounds.shid",
@@ -824,7 +824,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_stag_round.zip"
     },
     "die_maschine_round_sounds": {
-        "PackageTitle: "Die Maschine",
+        "PackageTitle": "Die Maschine",
         "GoogleDriveID": "1mGn1cscLo_nl9BJhFdiqFj5j3amgO5Nb",
         "PackageHash": "63630851ede548b1746c5a6c56c7dfd4",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/garrett_diemaschine_sounds.shid",
@@ -851,7 +851,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_die_maschine_round.zip"
     },
     "xmas_round_sounds": {
-        "PackageTitle: "Jingle Hells",
+        "PackageTitle": "Jingle Hells",
         "GoogleDriveID": "1nM21NOtfugGn8nQxjSB9vTaIXjCnwTXt",
         "PackageHash": "b4f976f0a04a4cf5489ec0e09694f61f",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/garrett_jingle_hells.shid",
@@ -878,7 +878,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_jingle_hells.zip"
     },
     "giant_vox_sounds": {
-        "PackageTitle: "The Giant Character Voicelines",
+        "PackageTitle": "The Giant Character Voicelines",
         "GoogleDriveID": "1VGOQzUCZK1SAz-4c4Bi8ENgY9uNl3qqG",
         "PackageHash": "62b5e58aee58d67c862e6e487d9cfcc2",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/giant_char_vox_sounds.shid",
@@ -899,7 +899,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_factory_vox_ze.zip"
     },
     "kino_vox_sounds": {
-        "PackageTitle: "Kino Der Toten Character Voicelines",
+        "PackageTitle": "Kino Der Toten Character Voicelines",
         "GoogleDriveID": "12O6VFlUgGBJv6_FqI44GoCi04J81y8zT",
         "PackageHash": "42eca82f902ae5f2a0402d0ed5cc2d04",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kino_char_vox_sounds.shid",
@@ -922,7 +922,7 @@
         
     },
     "kyle_bo2_hud": {
-        "PackageTitle: "Black Ops 2",
+        "PackageTitle": "Black Ops 2",
         "GoogleDriveID": "1Nl_RuxI-Q9IMrKcxyEdOV8ngFFGqHQ4h",
         "PackageHash": "70371c13720613d8a57c256000f495c7",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_bo2_hud.shid",
@@ -941,7 +941,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/huds_kyle_bo2.zip"
     },
     "kyle_hud_iw": {
-        "PackageTitle: "Infinite Warfare",
+        "PackageTitle": "Infinite Warfare",
         "GoogleDriveID": "1iajyO-g7SNdvCJDgWpPAUYD0uqgOWSyB",
         "PackageHash": "094b9a93070097637ccab151b6ba1075",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_iw_hud.shid",
@@ -961,7 +961,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/huds_iw.zip"
     },
     "kyle_hud_ww2": {
-        "PackageTitle: "World War II",
+        "PackageTitle": "World War II",
         "GoogleDriveID": "1qCU8Xeeycr7gEJWiR8CFfajJz-jnan9g",
         "PackageHash": "b6ef4a273f227283a31e352f893c1f68",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_ww2_hud.shid",
@@ -982,7 +982,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/huds_ww2.zip"
     },
     "kyle_hud_bo4": {
-        "PackageTitle: "Black Ops 4",
+        "PackageTitle": "Black Ops 4",
         "GoogleDriveID": "1SZX1WJK7QYNptSU2JdEJy_mkVq1uXrQu",
         "PackageHash": "9aa4ebfd00a4040acedf83de21d2c69c",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_bo4_hud.shid",
@@ -1001,7 +1001,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/huds_bo4.zip"
     },
     "kyle_csgo_hud": {
-        "PackageTitle: "Counter Strike : Global Offensive [CS:GO]",
+        "PackageTitle": "Counter Strike : Global Offensive [CS:GO]",
         "GoogleDriveID": "1IDR78YuYI_BT4FbS6mj5Y9M7fX5-FcXz",
         "PackageHash": "b2d305e5b7a83021a28d1eb9d2a47eaa",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_csgo_hud.shid",
@@ -1024,7 +1024,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/huds_csgo.zip"
     },
     "mg_hud": {
-        "PackageTitle: "Madgaz V2",
+        "PackageTitle": "Madgaz V2",
         "GoogleDriveID": "1Eq9b8W5PnksRMNM51n9xt-I_s-fI1W68",
         "PackageHash": "7053ba24d3530882b12d607e97637a5b",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/mg_hud.shid",
@@ -1041,7 +1041,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/huds_mg.zip"
     },
     "aether_announcer": {
-        "PackageTitle: "Aether Storyline",
+        "PackageTitle": "Aether Storyline",
         "GoogleDriveID": "1TtVJm9Ls7ouvxSwkZSrjJ7oO5X5DmRyZ",
         "PackageHash": "89596bb3bf52a6be4d24c2f7fc58ae0b",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/pg_aether_announcer.shid",
@@ -1061,7 +1061,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_aether_announcer.zip"
     },
     "avogadro_announcer": {
-        "PackageTitle: "Avogadro",
+        "PackageTitle": "Avogadro",
         "GoogleDriveID": "1IYPIrdZYYzQvIid9g_Dv5Co9Nx35YqLK",
         "PackageHash": "da7d44f430cc3de7f3e49a9bc37ab966",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/garrett_avogadro_ancr.shid",
@@ -1081,7 +1081,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_avogadro_ancr.zip"
     },
     "cw_announcer": {
-        "PackageTitle: "Black Ops Cold War",
+        "PackageTitle": "Black Ops Cold War",
         "GoogleDriveID": "1oxRJQhMoRXJ-4NZHAy--fEnNenaxy66w",
         "PackageHash": "92616fc1f94f81fab243e919004f4e63",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/j_ancr_cw.shid",
@@ -1102,7 +1102,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_cold_war_ancr.zip"
     },
     "chaos_announcer": {
-        "PackageTitle: "Chaos Storyline",
+        "PackageTitle": "Chaos Storyline",
         "GoogleDriveID": "1eLMmYU3i-TWghmy1CNaBAedaTvos5zaa",
         "PackageHash": "2c946f77b40acfe9224398cf8392cb6d",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/pg_chaos_announcer.shid",
@@ -1122,7 +1122,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_chaos_announcer.zip"
     },
     "der_anfang_announcer": {
-        "PackageTitle: "Der Anfang",
+        "PackageTitle": "Der Anfang",
         "GoogleDriveID": "1OHQiQAP4XwWLU_hVf_aYwk-3UqTiWxUE",
         "PackageHash": "eb6383ae3333668a95d4e4bf2903f871",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/j_der_anfang_ancr.shid",
@@ -1141,7 +1141,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_der_anfang_ancr.zip"
     },
     "monty_announcer": {
-        "PackageTitle: "Dr. Monty",
+        "PackageTitle": "Dr. Monty",
         "GoogleDriveID": "1V4VsPHPRSVVDXW7kgkAv60A_DkUyaVa_",
         "PackageHash": "6806f9cba0080a8f9524ffe4cab8760a",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/booris_ancr_monty.shid",
@@ -1162,7 +1162,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_ancr_monty.zip"
     },
     "richtofen_announcer": {
-        "PackageTitle: "Richtofen",
+        "PackageTitle": "Richtofen",
         "GoogleDriveID": "1BjLsq4tT_k94Evj4lrTWWM-iBRgCCuVf",
         "PackageHash": "83b86f56b9c7ad4c6650874346980fc9",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/voj_richtofen_ancr.shid",
@@ -1179,7 +1179,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_richtofen_announcer.zip"
     },
     "rush_announcer": {
-        "PackageTitle: "Rush Storyline",
+        "PackageTitle": "Rush Storyline",
         "GoogleDriveID": "1-5JkGTl_FzNnloOtQIsJ0BUmQDWOSBBo",
         "PackageHash": "45cd7c90ff1611a51222936bcf5c0745",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/pg_rush_announcer.shid",
@@ -1198,7 +1198,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_rush_announcer.zip"
     },
     "samantha_announcer": {
-        "PackageTitle: "Samantha [Origins]",
+        "PackageTitle": "Samantha [Origins]",
         "GoogleDriveID": "1w6LAfEOgTFLImBCVC6UDZdr9g9I4Nsh4",
         "PackageHash": "e5b2c7697776a40023ef3408214f21b2",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/ancr_samantha.shid",
@@ -1217,7 +1217,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_samantha_ancr.zip"
     },
     "shadowman_announcer": {
-        "PackageTitle: "Shadow Man",
+        "PackageTitle": "Shadow Man",
         "GoogleDriveID": "1Sy_b0xh7M6DN8HnxcAYDAxaEJiTfprRm",
         "PackageHash": "02500b05e5006b5ccceff0a2c70870b9",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/booris_shadowman_ancr.shid",
@@ -1236,7 +1236,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_shadowman_ancr.zip"
     },
     "willard_wyler_announcer": {
-        "PackageTitle: "Willard Wyler",
+        "PackageTitle": "Willard Wyler",
         "GoogleDriveID": "1C8_6Bwr2ttUy-Fuk6PE1DvecklkhUD2c",
         "PackageHash": "f03d7c1c98583085515c4e0de92f2ecb",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/satan_ww_announcer.shid",
@@ -1257,7 +1257,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/sounds_willard_wyler_announcer.zip"
     },
     "owen_stranded": {
-        "PackageTitle: "Stranded Deep",
+        "PackageTitle": "Stranded Deep",
         "GoogleDriveID": "1rbN1OOcs9qY7EsuGpZdkdhpxAcas0aOX",
         "PackageHash": "19905a512e17ba54c93d3cf260dd79f2",
         "PackageShidUrl": "NO_SHID_URL",
@@ -1274,7 +1274,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/models_owen_stranded_deep.zip"
     },
     "spx_micro": {
-        "PackageTitle: "MODEL PACK : Micro",
+        "PackageTitle": "MODEL PACK : Micro",
         "GoogleDriveID": "1Oc0PgAXVj9tNBNtS0ATyiDgOOV66tF82",
         "PackageHash": "4bf97f01b47fbe20b5b36ecd1c9f9109",
         "PackageShidUrl": "NO_SHID_URL",
@@ -1290,7 +1290,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/models_spx_t7_mp_miniature.zip"
     },
     "logical_ai_charred_zombies": {
-        "PackageTitle: "Charred Zombies",
+        "PackageTitle": "Charred Zombies",
         "GoogleDriveID": "1dBaDY3PEr1xMbZjvSdUImBEIoXnhgiZB",
         "PackageHash": "181c15a50a91b34c9efa4535b2201612",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/logical_charred_zombs.shid",
@@ -1307,7 +1307,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/ai_logical_charred_zombies.zip"
     },
     "owen_sdc_zombies": {
-        "PackageTitle: "SDC Zombies",
+        "PackageTitle": "SDC Zombies",
         "GoogleDriveID": "19qESCWglG1bTpr2YplEs-mn2iQ7m6LIt",
         "PackageHash": "22252f2d79f145fab15db85ef45ea0a1",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/owen_sdc_zombs.shid",
@@ -1324,7 +1324,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/ai_owen_sdc_zombies.zip"
     },
     "kingslayer_ai_soe_zombies": {
-        "PackageTitle: "Shadows of Evil Zombies",
+        "PackageTitle": "Shadows of Evil Zombies",
         "GoogleDriveID": "1L4n2xgOdf89xgRiIsD4O3Z-2g-CgmS6Y",
         "PackageHash": "5820adcd9d84fbca4b94489cd91eb60c",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_soe_zombs.shid",
@@ -1344,7 +1344,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/ai_kyle_soe_zombies.zip"
     },
     "kingslayer_ai_botd_zombies": {
-        "PackageTitle: "Blood of the Dead Zombies",
+        "PackageTitle": "Blood of the Dead Zombies",
         "GoogleDriveID": "1iCiVZZsV32-2yrZ5Wa-IHB2kRj_-JPsY",
         "PackageHash": "af51fc3e525672ef8dd67fa18fe621cb",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_botd_zombs.shid",
@@ -1364,7 +1364,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/ai_kyle_botd_zombies.zip"
     },
     "kingslayer_ai_classified_zombies": {
-        "PackageTitle: "Classified Zombies",
+        "PackageTitle": "Classified Zombies",
         "GoogleDriveID": "1VWoitEeWO-sXc8JG2wL3iko22V0-nNtR",
         "PackageHash": "8a02c97ca002480cf3b16d38d19e243e",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_classified_zombs.shid",
@@ -1383,7 +1383,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/ai_kyle_classified_zombies.zip"
     },
     "kingslayer_ai_vg_zombies": {
-        "PackageTitle: "Vanguard Zombies",
+        "PackageTitle": "Vanguard Zombies",
         "GoogleDriveID": "1XyfNElF4KyT3-BH6FvQEy2lirSfh93wv",
         "PackageHash": "10600cedec0d0e5c8be6d190576dc1c5",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_vg_zombs.shid",
@@ -1401,7 +1401,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/ai_kyle_vg_zombies.zip"
     },
     "j4k0b13_ai_shang_zombies": {
-        "PackageTitle: "Shangri-La Zombies",
+        "PackageTitle": "Shangri-La Zombies",
         "GoogleDriveID": "1cfwOFahpOwCCk9s_Xgl1Rm7xcIh_73VG",
         "PackageHash": "868073dcf844c18441bf37471f1dcfdb",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/j4k0b_shang_zombs.shid",
@@ -1421,7 +1421,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/ai_j4k0b13_shang_zombies.zip"
     },
     "ninja_gk_zombies": {
-        "PackageTitle: "Gorod Krovi Zombies",
+        "PackageTitle": "Gorod Krovi Zombies",
         "GoogleDriveID": "1FmKhRXSe4BdWmkZcvste2-SaO1NZKMz2",
         "PackageHash": "85f0404ed3a7a0d0761b9c2fb6650735",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/ninja_gk_zombies.shid",
@@ -1441,7 +1441,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/ai_ninja_gk_zombies.zip"
     },
     "zeroy_nrc_zombies": {
-        "PackageTitle: "NRC Zombies",
+        "PackageTitle": "NRC Zombies",
         "GoogleDriveID": "19BaoKFMfjh8YWqu4WfFM5soV-hJzJ6O4",
         "PackageHash": "bbcf32787bee4db4ef2727d6d397f7dc",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/zeroy_nrc_zombs.shid",
@@ -1458,7 +1458,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/ai_zeroy_nrc_zombies.zip"
     },
     "zeroy_54i_zombies": {
-        "PackageTitle: "54 Immortals Zombies",
+        "PackageTitle": "54 Immortals Zombies",
         "GoogleDriveID": "1iG1m32fYDc01pcgHjv34kAIXih5B_bML",
         "PackageHash": "f096837d0c9f57257c6e476b3974e90b",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/zeroy_54i_zombs.shid",
@@ -1478,7 +1478,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/ai_zeroy_ffi_zombies.zip"
     },
     "midget_maschine_zombies": {
-        "PackageTitle: "Die Maschine Zombies",
+        "PackageTitle": "Die Maschine Zombies",
         "GoogleDriveID": "1HGswHzjSjl72wbU21syICt0jGXsohP5B",
         "PackageHash": "ec172ef326af039925ca3bafd8531fab",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/midget_masch_zombs.shid",
@@ -1498,7 +1498,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/ai_midget_maschine_zombies.zip"
     },
     "koen_landers": {
-        "PackageTitle: "Lunar Landers",
+        "PackageTitle": "Lunar Landers",
         "GoogleDriveID": "1gAqKB7nNmrpxzrYUgYiUNhsbhXlRptER",
         "PackageHash": "48dbf26eb63e44a3c8658a431126a4c4",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/koen_landers.shid",
@@ -1517,7 +1517,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/scripts_koen_landers.zip"
     },
     "wegg_deathmachine": {
-        "PackageTitle: "Cold War Death Machine",
+        "PackageTitle": "Cold War Death Machine",
         "GoogleDriveID": "1JhhZ60JT0u0r943YNuvcTGcJjDnmHt60",
         "PackageHash": "2a9ca28cd6cff9bc7f538bc8453324b9",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/wegg_cw_minigun.shid",
@@ -1540,7 +1540,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/scripts_wegg_minigun.zip"
     },
     "logical_legostud": {
-        "PackageTitle: "Lego Stud Points",
+        "PackageTitle": "Lego Stud Points",
         "GoogleDriveID": "1LPro1okCYoOpjh83zbeCTkF8H9Q7XoP3",
         "PackageHash": "9056e484b14d6ba2a4ad938863fb88dd",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/logical_legostud.shid",
@@ -1558,7 +1558,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/scripts_logical_legostud.zip"
     },
     "alfathesus_floaties": {
-        "PackageTitle: "Zombie Floaties",
+        "PackageTitle": "Zombie Floaties",
         "GoogleDriveID": "1sePzSq5mKFuTvJ88chJWMdqQf6Sw-bPd",
         "PackageHash": "e3525fefc22f252f0a0fb0ede0b143fc",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/alfa_floaties.shid",
@@ -1576,7 +1576,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/scripts_alf_floaties.zip"
     },
     "shid_milestones": {
-        "PackageTitle: "Perk Milestones",
+        "PackageTitle": "Perk Milestones",
         "GoogleDriveID": "1cBVk_swtzTR7wvZiuL_81Y-OI_lNe4GB",
         "PackageHash": "2fd57877ba5a4d68c876d2ecb13a6f1f",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/shid_milestones.shid",
@@ -1594,7 +1594,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/scripts_shid_milestones.zip"
     },
     "koen_hacker": {
-        "PackageTitle: "Hacker",
+        "PackageTitle": "Hacker",
         "GoogleDriveID": "1yXQnaPf3921n-Do_tISWjj9GVWjrYOae",
         "PackageHash": "f08443b7c1036804f4807b1daa73319c",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/koen_hackers.shid",
@@ -1612,7 +1612,7 @@
         "RedrawPackageDL": "https://red-raw.net/redraw/scripts_koen_hacker.zip"
     },
     "hb21_bows": {
-        "PackageTitle: "Elemental Bows",
+        "PackageTitle": "Elemental Bows",
         "GoogleDriveID": "1YTbLQb5mdp1leYdmGQyA8rue149BmJ9-",
         "PackageHash": "fe750137f010c482992d3f0d56ce7f97",
         "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/hb21_bows.shid",
