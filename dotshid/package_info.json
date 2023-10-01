@@ -1,47 +1,47 @@
 {
     "essentials_l3akmod": {
-        "package_title": "L3AKMOD",
-        "id": "1Xbrl7xVD0EeeubpXlzbsjJEZkXUPl0bA",
-        "md5hash": "f49785887cad28b394d41e57b74a5eea",
-        "shidurl": "NO_SHID_URL",
-        "type": "ESSENTIALS",
-        "authors": "The D3V Team / Treyarch",
-        "main_author": "The D3V Team",
-        "tags": [
+        "PackageTitle: "L3AKMOD",
+        "GoogleDriveID": "1Xbrl7xVD0EeeubpXlzbsjJEZkXUPl0bA",
+        "PackageHash": "f49785887cad28b394d41e57b74a5eea",
+        "PackageShidUrl": "NO_SHID_URL",
+        "PackageType": "ESSENTIALS",
+        "PackageAuthors": "The D3V Team / Treyarch",
+        "PackageMainAuthor": "The D3V Team",
+        "PackageTags": [
             "essentials",
             "basics",
             "l3akmod",
             "leakmod",
             "lui"
         ],
-        "redraw_id": "[#0016]",
-        "redraw_url": "https://red-raw.net/redraw/essentials_l3akmod.zip"
+        "RedrawPackageID": "[#0016]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/essentials_l3akmod.zip"
     },
     "essentials_fx": {
-        "package_title": "FX",
-        "id": "1BT7nCuWGOezY03guNxN3KTXalyDAJ9oF",
-        "md5hash": "3a163702e32b615a24732db0db49613b",
-        "shidurl": "NO_SHID_URL",
-        "type": "ESSENTIALS",
-        "authors": "Treyarch / DEVRAW / HarryBO21",
-        "main_author": "HarryBO21",
-        "tags": [
+        "PackageTitle: "FX",
+        "GoogleDriveID": "1BT7nCuWGOezY03guNxN3KTXalyDAJ9oF",
+        "PackageHash": "3a163702e32b615a24732db0db49613b",
+        "PackageShidUrl": "NO_SHID_URL",
+        "PackageType": "ESSENTIALS",
+        "PackageAuthors": "Treyarch / DEVRAW / HarryBO21",
+        "PackageMainAuthor": "HarryBO21",
+        "PackageTags": [
             "essentials",
             "basics",
             "fx"
         ],
-        "redraw_id": "[#0014]",
-        "redraw_url": "https://red-raw.net/redraw/essentials_fx.zip"
+        "RedrawPackageID": "[#0014]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/essentials_fx.zip"
     },
     "essentials_ssd": {
-        "package_title": "SURFACE SOUND DEFINITIONS",
-        "id": "14in2UwdXfdcFRNufvjCF1THcqH1vFRCP",
-        "md5hash": "9120c804b6755b695fde852aa15fb248",
-        "shidurl": "NO_SHID_URL",
-        "type": "ESSENTIALS",
-        "authors": "Treyarch / DEVRAW / HarryBO21",
-        "main_author": "HarryBO21",
-        "tags": [
+        "PackageTitle: "SURFACE SOUND DEFINITIONS",
+        "GoogleDriveID": "14in2UwdXfdcFRNufvjCF1THcqH1vFRCP",
+        "PackageHash": "9120c804b6755b695fde852aa15fb248",
+        "PackageShidUrl": "NO_SHID_URL",
+        "PackageType": "ESSENTIALS",
+        "PackageAuthors": "Treyarch / DEVRAW / HarryBO21",
+        "PackageMainAuthor": "HarryBO21",
+        "PackageTags": [
             "essentials",
             "basics",
             "surface",
@@ -50,68 +50,68 @@
             "definition",
             "ssd"
         ],
-        "redraw_id": "[#0019]",
-        "redraw_url": "https://red-raw.net/redraw/essentials_surfacesounddefs.zip"
+        "RedrawPackageID": "[#0019]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/essentials_surfacesounddefs.zip"
     },
     "essentials_beams": {
-        "package_title": "BEAMS",
-        "id": "19nViKu0B3CzCq1up_GE5no-35AwEHARA",
-        "md5hash": "11e11e0092616d17ad1644155d4ac87d",
-        "shidurl": "NO_SHID_URL",
-        "type": "ESSENTIALS",
-        "authors": "Treyarch / DEVRAW / HarryBO21",
-        "main_author": "HarryBO21",
-        "tags": [
+        "PackageTitle: "BEAMS",
+        "GoogleDriveID": "19nViKu0B3CzCq1up_GE5no-35AwEHARA",
+        "PackageHash": "11e11e0092616d17ad1644155d4ac87d",
+        "PackageShidUrl": "NO_SHID_URL",
+        "PackageType": "ESSENTIALS",
+        "PackageAuthors": "Treyarch / DEVRAW / HarryBO21",
+        "PackageMainAuthor": "HarryBO21",
+        "PackageTags": [
             "essentials",
             "basics",
             "beams",
             "beam"
         ],
-        "redraw_id": "[#0012]",
-        "redraw_url": "https://red-raw.net/redraw/essentials_beamassets.zip"
+        "RedrawPackageID": "[#0012]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/essentials_beamassets.zip"
     },
     "essentials_physics": {
-        "package_title": "PHYSICS",
-        "id": "1pulVnBzhFsTXeIiifwFXoUOHTl4VhJ3h",
-        "md5hash": "39a825b9d2364356af0ff48875553e18",
-        "shidurl": "NO_SHID_URL",
-        "type": "ESSENTIALS",
-        "authors": "Treyarch / DEVRAW / HarryBO21",
-        "main_author": "HarryBO21",
-        "tags": [
+        "PackageTitle: "PHYSICS",
+        "GoogleDriveID": "1pulVnBzhFsTXeIiifwFXoUOHTl4VhJ3h",
+        "PackageHash": "39a825b9d2364356af0ff48875553e18",
+        "PackageShidUrl": "NO_SHID_URL",
+        "PackageType": "ESSENTIALS",
+        "PackageAuthors": "Treyarch / DEVRAW / HarryBO21",
+        "PackageMainAuthor": "HarryBO21",
+        "PackageTags": [
             "essentials",
             "basics",
             "physics"
         ],
-        "redraw_id": "[#0017]",
-        "redraw_url": "https://red-raw.net/redraw/essentials_physics.zip"
+        "RedrawPackageID": "[#0017]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/essentials_physics.zip"
     },
     "essentials_rumble": {
-        "package_title": "RUMBLES",
-        "id": "1qoQa9AhJJNRBGi9wKO5zefwKwvZ_6HVx",
-        "md5hash": "bca93bc93b1b87251200f62589748ca4",
-        "shidurl": "NO_SHID_URL",
-        "type": "ESSENTIALS",
-        "authors": "Treyarch / DEVRAW / HarryBO21",
-        "main_author": "HarryBO21",
-        "tags": [
+        "PackageTitle: "RUMBLES",
+        "GoogleDriveID": "1qoQa9AhJJNRBGi9wKO5zefwKwvZ_6HVx",
+        "PackageHash": "bca93bc93b1b87251200f62589748ca4",
+        "PackageShidUrl": "NO_SHID_URL",
+        "PackageType": "ESSENTIALS",
+        "PackageAuthors": "Treyarch / DEVRAW / HarryBO21",
+        "PackageMainAuthor": "HarryBO21",
+        "PackageTags": [
             "essentials",
             "basics",
             "rumble",
             "sound"
         ],
-        "redraw_id": "[#0018]",
-        "redraw_url": "https://red-raw.net/redraw/essentials_rumble.zip"
+        "RedrawPackageID": "[#0018]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/essentials_rumble.zip"
     },
     "essentials_vsd": {
-        "package_title": "VEHICLE SOUND DEFINITIONS",
-        "id": "1okDYPBy42mitP8Un8SCUpjea9N_7pCVs",
-        "md5hash": "d40ba45be4ac42161a007b359dfd5a98",
-        "shidurl": "NO_SHID_URL",
-        "type": "ESSENTIALS",
-        "authors": "Treyarch / DEVRAW / HarryBO21",
-        "main_author": "HarryBO21",
-        "tags": [
+        "PackageTitle: "VEHICLE SOUND DEFINITIONS",
+        "GoogleDriveID": "1okDYPBy42mitP8Un8SCUpjea9N_7pCVs",
+        "PackageHash": "d40ba45be4ac42161a007b359dfd5a98",
+        "PackageShidUrl": "NO_SHID_URL",
+        "PackageType": "ESSENTIALS",
+        "PackageAuthors": "Treyarch / DEVRAW / HarryBO21",
+        "PackageMainAuthor": "HarryBO21",
+        "PackageTags": [
             "essentials",
             "basics",
             "vehicle",
@@ -120,18 +120,18 @@
             "definition",
             "vsd"
         ],
-        "redraw_id": "[#0020]",
-        "redraw_url": "https://red-raw.net/redraw/essentials_vsd.zip"
+        "RedrawPackageID": "[#0020]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/essentials_vsd.zip"
     },
     "essentials_bt": {
-        "package_title": "BT STUFF",
-        "id": "1sLKNTJkYJaEKMDHAwecBYKKdWThVPMZ-",
-        "md5hash": "18cb573acccebc8c47db7acd6c4aa55f",
-        "shidurl": "NO_SHID_URL",
-        "type": "ESSENTIALS",
-        "authors": "Treyarch / DEVRAW / HarryBO21",
-        "main_author": "HarryBO21",
-        "tags": [
+        "PackageTitle: "BT STUFF",
+        "GoogleDriveID": "1sLKNTJkYJaEKMDHAwecBYKKdWThVPMZ-",
+        "PackageHash": "18cb573acccebc8c47db7acd6c4aa55f",
+        "PackageShidUrl": "NO_SHID_URL",
+        "PackageType": "ESSENTIALS",
+        "PackageAuthors": "Treyarch / DEVRAW / HarryBO21",
+        "PackageMainAuthor": "HarryBO21",
+        "PackageTags": [
             "essentials",
             "basics",
             "bt",
@@ -143,18 +143,18 @@
             "atr",
             "zombie"
         ],
-        "redraw_id": "[#0013]",
-        "redraw_url": "https://red-raw.net/redraw/essentials_bt_stuff.zip"
+        "RedrawPackageID": "[#0013]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/essentials_bt_stuff.zip"
     },
     "hb21_boxes": {
-        "package_title": "HB21 / DEVRAW Mystery Box Pack",
-        "id": "1M0s8HhORsePrRVGgxE5pET6rAbHgEqug",
-        "md5hash": "cb06b7af661acea9d2811cae76f262bf",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/hb21_boxes.shid",
-        "type": "MYSTERY BOXES",
-        "authors": "Treyarch / DEVRAW / HarryBO21",
-        "main_author": "HarryBO21",
-        "tags": [
+        "PackageTitle: "HB21 / DEVRAW Mystery Box Pack",
+        "GoogleDriveID": "1M0s8HhORsePrRVGgxE5pET6rAbHgEqug",
+        "PackageHash": "cb06b7af661acea9d2811cae76f262bf",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/hb21_boxes.shid",
+        "PackageType": "MYSTERY BOXES",
+        "PackageAuthors": "Treyarch / DEVRAW / HarryBO21",
+        "PackageMainAuthor": "HarryBO21",
+        "PackageTags": [
             "mystery box",
             "basics",
             "mystery",
@@ -166,18 +166,18 @@
             "gun",
             "random"
         ],
-        "redraw_id": "[#0015]",
-        "redraw_url": "https://red-raw.net/redraw/essentials_hb21_boxes.zip"
+        "RedrawPackageID": "[#0015]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/essentials_hb21_boxes.zip"
     },
     "redraw_soe_template": {
-        "package_title": "Shadows of Evil",
-        "id": "1rVTHRKa35nNZsJrhLmCMXVnJL",
-        "md5hash": "e8bdeafb25019a22523603a4f3443d27",
-        "shidurl": "NO_SHID_URL",
-        "type": "TEMPLATE",
-        "authors": "REDRAW Team",
-        "main_author": "REDRAW",
-        "tags": [
+        "PackageTitle: "Shadows of Evil",
+        "GoogleDriveID": "1rVTHRKa35nNZsJrhLmCMXVnJL",
+        "PackageHash": "e8bdeafb25019a22523603a4f3443d27",
+        "PackageShidUrl": "NO_SHID_URL",
+        "PackageType": "TEMPLATE",
+        "PackageAuthors": "REDRAW Team",
+        "PackageMainAuthor": "REDRAW",
+        "PackageTags": [
             "map template",
             "redraw",
             "soe",
@@ -185,18 +185,18 @@
             "evil",
             "template"
         ],
-        "redraw_id": "[#0073]",
-        "redraw_url": "https://red-raw.net/redraw/templates_redraw_soe.zip"
+        "RedrawPackageID": "[#0073]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/templates_redraw_soe.zip"
     },
     "leafspwn_soe_round_sounds": {
-        "package_title": "Shadows of Evil",
-        "id": "1h6qTAiw1fw4YnqPNqbfx9CbtaPlr7mn-",
-        "md5hash": "49eb980ecc564702c2726aad79ba45dc",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/soe_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "LEAFSPWN88 / Treyarch",
-        "main_author": "LEAFSPWN88",
-        "tags": [
+        "PackageTitle: "Shadows of Evil",
+        "GoogleDriveID": "1h6qTAiw1fw4YnqPNqbfx9CbtaPlr7mn-",
+        "PackageHash": "49eb980ecc564702c2726aad79ba45dc",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/soe_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "LEAFSPWN88 / Treyarch",
+        "PackageMainAuthor": "LEAFSPWN88",
+        "PackageTags": [
             "round sounds",
             "leaf",
             "sound",
@@ -210,18 +210,18 @@
             "bo3",
             "black"
         ],
-        "redraw_id": "[#0064]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_soe_round.zip"
+        "RedrawPackageID": "[#0064]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_soe_round.zip"
     },
     "prissy_de_round_sounds": {
-        "package_title": "Der Eisendrache",
-        "id": "15WxVIwklPITgRCgNxcGzft7e9gABbYj9",
-        "md5hash": "3afb910dedf3b0a422cb342a77d34f01",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/prissy_de_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "Prissy / Treyarch",
-        "main_author": "Prissy",
-        "tags": [
+        "PackageTitle: "Der Eisendrache",
+        "GoogleDriveID": "15WxVIwklPITgRCgNxcGzft7e9gABbYj9",
+        "PackageHash": "3afb910dedf3b0a422cb342a77d34f01",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/prissy_de_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "Prissy / Treyarch",
+        "PackageMainAuthor": "Prissy",
+        "PackageTags": [
             "round sounds",
             "prissy",
             "pissy",
@@ -236,18 +236,18 @@
             "bo3",
             "black"
         ],
-        "redraw_id": "[#0075]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_de_round.zip"
+        "RedrawPackageID": "[#0075]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_de_round.zip"
     },
     "leafspwn_zets_round_sounds": {
-        "package_title": "Zetsubou No Shima",
-        "id": "1JMgq1UITz43sHnknqBP7r0BuV-Q4i6tH",
-        "md5hash": "728886a1c85cd1e13ce0c3709e3891f3",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/zets_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "LEAFSPWN88 / Treyarch",
-        "main_author": "LEAFSPWN88",
-        "tags": [
+        "PackageTitle: "Zetsubou No Shima",
+        "GoogleDriveID": "1JMgq1UITz43sHnknqBP7r0BuV-Q4i6tH",
+        "PackageHash": "728886a1c85cd1e13ce0c3709e3891f3",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/zets_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "LEAFSPWN88 / Treyarch",
+        "PackageMainAuthor": "LEAFSPWN88",
+        "PackageTags": [
             "round sounds",
             "leaf",
             "sound",
@@ -262,18 +262,18 @@
             "bo3",
             "black"
         ],
-        "redraw_id": "[#0071]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_zets_round.zip"
+        "RedrawPackageID": "[#0071]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_zets_round.zip"
     },
     "prissy_gorod_round_sounds": {
-        "package_title": "Gorod Krovi",
-        "id": "1I1AHp18j0ODza1YEQHRPdzOye9MHLxM-",
-        "md5hash": "d4ca53fb9f354aa68dd5d4edd7428faf",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/prissy_gorod_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "Prissy / Treyarch",
-        "main_author": "Prissy",
-        "tags": [
+        "PackageTitle: "Gorod Krovi",
+        "GoogleDriveID": "1I1AHp18j0ODza1YEQHRPdzOye9MHLxM-",
+        "PackageHash": "d4ca53fb9f354aa68dd5d4edd7428faf",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/prissy_gorod_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "Prissy / Treyarch",
+        "PackageMainAuthor": "Prissy",
+        "PackageTags": [
             "round sounds",
             "prissy",
             "pissy",
@@ -288,18 +288,18 @@
             "bo3",
             "black"
         ],
-        "redraw_id": "[#0074]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_gorod_round.zip"
+        "RedrawPackageID": "[#0074]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_gorod_round.zip"
     },
     "leafspwn_rev_sounds": {
-        "package_title": "Revelations",
-        "id": "1003BTOnu5TaZlzdQOWV4taHYQneL1dvC",
-        "md5hash": "3d4afeb486747c8c2ecd078d7c6443b0",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/leafspwn_rev_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "LEAFSPWN88 / Treyarch",
-        "main_author": "LEAFSPWN88",
-        "tags": [
+        "PackageTitle: "Revelations",
+        "GoogleDriveID": "1003BTOnu5TaZlzdQOWV4taHYQneL1dvC",
+        "PackageHash": "3d4afeb486747c8c2ecd078d7c6443b0",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/leafspwn_rev_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "LEAFSPWN88 / Treyarch",
+        "PackageMainAuthor": "LEAFSPWN88",
+        "PackageTags": [
             "round sounds",
             "leaf",
             "sound",
@@ -312,18 +312,18 @@
             "bo3",
             "black"
         ],
-        "redraw_id": "[#0057]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_rev_round.zip"
+        "RedrawPackageID": "[#0057]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_rev_round.zip"
     },
     "classic_round_sounds": {
-        "package_title": "Classic WAW - BO1",
-        "id": "1Lbt9VRK2_o_527eVWbepWl9iVnbn8G7w",
-        "md5hash": "57a66ad36ef269b42fde44f318ed4350",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/classic_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "Shidouri / Treyarch",
-        "main_author": "Shidouri",
-        "tags": [
+        "PackageTitle: "Classic WAW - BO1",
+        "GoogleDriveID": "1Lbt9VRK2_o_527eVWbepWl9iVnbn8G7w",
+        "PackageHash": "57a66ad36ef269b42fde44f318ed4350",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/classic_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "Shidouri / Treyarch",
+        "PackageMainAuthor": "Shidouri",
+        "PackageTags": [
             "round sounds",
             "shid",
             "sound",
@@ -338,18 +338,18 @@
             "bo1",
             "black"
         ],
-        "redraw_id": "[#0044]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_classic_round.zip"
+        "RedrawPackageID": "[#0044]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_classic_round.zip"
     },
     "prissy_kino_round_sounds": {
-        "package_title": "Kino Der Toten (Chronicles)",
-        "id": "1aCy1EN-4AJGdTgfue7uVKMfcv6vDsV0R",
-        "md5hash": "f1465f5f0b44cf96df7056b2669ec621",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/prissy_kino_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "Prissy / Treyarch",
-        "main_author": "Prissy",
-        "tags": [
+        "PackageTitle: "Kino Der Toten (Chronicles)",
+        "GoogleDriveID": "1aCy1EN-4AJGdTgfue7uVKMfcv6vDsV0R",
+        "PackageHash": "f1465f5f0b44cf96df7056b2669ec621",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/prissy_kino_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "Prissy / Treyarch",
+        "PackageMainAuthor": "Prissy",
+        "PackageTags": [
             "round sounds",
             "prissy",
             "pissy",
@@ -365,18 +365,18 @@
             "black",
             "bo3"
         ],
-        "redraw_id": "[#0052]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_kino_vox.zip"
+        "RedrawPackageID": "[#0052]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_kino_vox.zip"
     },
     "prissy_ascension_round_sounds": {
-        "package_title": "Ascension (Chronicles)",
-        "id": "16oiMCE1duZ6H0HCuGL0hF1N4MWTVCC7G",
-        "md5hash": "7c0bcc8c132aa23948e425ed24949855",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/ascension_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "Prissy / Treyarch",
-        "main_author": "Prissy",
-        "tags": [
+        "PackageTitle: "Ascension (Chronicles)",
+        "GoogleDriveID": "16oiMCE1duZ6H0HCuGL0hF1N4MWTVCC7G",
+        "PackageHash": "7c0bcc8c132aa23948e425ed24949855",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/ascension_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "Prissy / Treyarch",
+        "PackageMainAuthor": "Prissy",
+        "PackageTags": [
             "round sounds",
             "prissy",
             "pissy",
@@ -391,18 +391,18 @@
             "black",
             "bo3"
         ],
-        "redraw_id": "[#0039]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_ascension_round.zip"
+        "RedrawPackageID": "[#0039]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_ascension_round.zip"
     },
     "leafspwn_shang_sounds": {
-        "package_title": "Shangri La",
-        "id": "1LB0itpOA0BX_IQEh4Bv-OuuBJ3FDSUIJ",
-        "md5hash": "60d4c34b9e30fd94fe4c92c765b21254",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/leafspwn_shang_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "LEAFSPWN88 / Treyarch",
-        "main_author": "LEAFSPWN88",
-        "tags": [
+        "PackageTitle: "Shangri La",
+        "GoogleDriveID": "1LB0itpOA0BX_IQEh4Bv-OuuBJ3FDSUIJ",
+        "PackageHash": "60d4c34b9e30fd94fe4c92c765b21254",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/leafspwn_shang_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "LEAFSPWN88 / Treyarch",
+        "PackageMainAuthor": "LEAFSPWN88",
+        "PackageTags": [
             "round sounds",
             "leaf",
             "sound",
@@ -415,18 +415,18 @@
             "bo3",
             "black"
         ],
-        "redraw_id": "[#0062]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_shang_round.zip"
+        "RedrawPackageID": "[#0062]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_shang_round.zip"
     },
     "el3d3st_moon_round_sounds": {
-        "package_title": "Moon",
-        "id": "1maWNp9RJzjYnfIdxMiPutlCLyDZ3KZNp",
-        "md5hash": "ce348e6c95ffa6a21b89415063c643b5",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/moon_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "El3d3st / Treyarch",
-        "main_author": "EL3D3ST",
-        "tags": [
+        "PackageTitle: "Moon",
+        "GoogleDriveID": "1maWNp9RJzjYnfIdxMiPutlCLyDZ3KZNp",
+        "PackageHash": "ce348e6c95ffa6a21b89415063c643b5",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/moon_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "El3d3st / Treyarch",
+        "PackageMainAuthor": "EL3D3ST",
+        "PackageTags": [
             "round sounds",
             "el3dest",
             "sound",
@@ -438,18 +438,18 @@
             "bo3",
             "black"
         ],
-        "redraw_id": "[#0053]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_moon_round.zip"
+        "RedrawPackageID": "[#0053]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_moon_round.zip"
     },
     "prissy_origins_sounds": {
-        "package_title": "Origins",
-        "id": "1IhKKPchgacKezVECiG0JpTYA3_T1ucR0",
-        "md5hash": "c4ab04b540f7d8783643668b55cbb0ac",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/origins_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "Prissy / Treyarch",
-        "main_author": "Prissy",
-        "tags": [
+        "PackageTitle: "Origins",
+        "GoogleDriveID": "1IhKKPchgacKezVECiG0JpTYA3_T1ucR0",
+        "PackageHash": "c4ab04b540f7d8783643668b55cbb0ac",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/origins_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "Prissy / Treyarch",
+        "PackageMainAuthor": "Prissy",
+        "PackageTags": [
             "round sounds",
             "prissy",
             "pissy",
@@ -461,18 +461,18 @@
             "black",
             "bo3"
         ],
-        "redraw_id": "[#0054]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_origins_round.zip"
+        "RedrawPackageID": "[#0054]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_origins_round.zip"
     },
     "spaceland_round_sounds": {
-        "package_title": "Zombies In Spaceland",
-        "id": "1ES7XcVD3zmc03jyrw-D3yLdIkAxsJnjC",
-        "md5hash": "9ea9ebc377063979a9ae1d88bdde3fa1",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/spaceland_rounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "LEAFSPWN88 / Infinity Ward",
-        "main_author": "LEAFSPWN88",
-        "tags": [
+        "PackageTitle: "Zombies In Spaceland",
+        "GoogleDriveID": "1ES7XcVD3zmc03jyrw-D3yLdIkAxsJnjC",
+        "PackageHash": "9ea9ebc377063979a9ae1d88bdde3fa1",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/spaceland_rounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "LEAFSPWN88 / Infinity Ward",
+        "PackageMainAuthor": "LEAFSPWN88",
+        "PackageTags": [
             "round sounds",
             "leaf",
             "sound",
@@ -486,18 +486,18 @@
             "infinite",
             "warfare"
         ],
-        "redraw_id": "[#0065]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_spaceland_round.zip"
+        "RedrawPackageID": "[#0065]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_spaceland_round.zip"
     },
     "rave_round_sounds": {
-        "package_title": "Rave In The Redwoods",
-        "id": "1MHm8OG8mwhxyxRT3oftOo9BfFpLh31IY",
-        "md5hash": "64826eb2fc8386d59222217b4df8494e",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/redwoods_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "LEAFSPWN88 / Infinity Ward",
-        "main_author": "LEAFSPWN88",
-        "tags": [
+        "PackageTitle: "Rave In The Redwoods",
+        "GoogleDriveID": "1MHm8OG8mwhxyxRT3oftOo9BfFpLh31IY",
+        "PackageHash": "64826eb2fc8386d59222217b4df8494e",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/redwoods_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "LEAFSPWN88 / Infinity Ward",
+        "PackageMainAuthor": "LEAFSPWN88",
+        "PackageTags": [
             "round sounds",
             "leaf",
             "sound",
@@ -512,18 +512,18 @@
             "infinite",
             "warfare"
         ],
-        "redraw_id": "[#0056]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_rave_round.zip"
+        "RedrawPackageID": "[#0056]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_rave_round.zip"
     },
     "shaolin_round_sounds": {
-        "package_title": "Shaolin Shuffle",
-        "id": "1pQjjRmAkV7B8PqRHnLNzWYUrE3zAIfpr",
-        "md5hash": "31300486ea303a69566eba13418fe848",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/shaolin_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "LEAFSPWN88 / Infinity Ward",
-        "main_author": "LEAFSPWN88",
-        "tags": [
+        "PackageTitle: "Shaolin Shuffle",
+        "GoogleDriveID": "1pQjjRmAkV7B8PqRHnLNzWYUrE3zAIfpr",
+        "PackageHash": "31300486ea303a69566eba13418fe848",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/shaolin_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "LEAFSPWN88 / Infinity Ward",
+        "PackageMainAuthor": "LEAFSPWN88",
+        "PackageTags": [
             "round sounds",
             "leaf",
             "sound",
@@ -538,18 +538,18 @@
             "infinite",
             "warfare"
         ],
-        "redraw_id": "[#0063]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_shaolin_round.zip"
+        "RedrawPackageID": "[#0063]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_shaolin_round.zip"
     },
     "radioactive_round_sounds": {
-        "package_title": "Attack of the Radioactive Thing",
-        "id": "18QvAp_6FCk3vTuQil-JWEkKehKTM6AuC",
-        "md5hash": "6ad43ce38ca4767af15c13b800975476",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/radioactive_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "LEAFSPWN88 / Infinity Ward",
-        "main_author": "LEAFSPWN88",
-        "tags": [
+        "PackageTitle: "Attack of the Radioactive Thing",
+        "GoogleDriveID": "18QvAp_6FCk3vTuQil-JWEkKehKTM6AuC",
+        "PackageHash": "6ad43ce38ca4767af15c13b800975476",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/radioactive_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "LEAFSPWN88 / Infinity Ward",
+        "PackageMainAuthor": "LEAFSPWN88",
+        "PackageTags": [
             "round sounds",
             "leaf",
             "sound",
@@ -565,18 +565,18 @@
             "infinite",
             "warfare"
         ],
-        "redraw_id": "[#0055]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_radioactive_round.zip"
+        "RedrawPackageID": "[#0055]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_radioactive_round.zip"
     },
     "beast_beyond_round_sounds": {
-        "package_title": "Beast From Beyond",
-        "id": "1jZL3BeTal1pDrmS_l5blEYkNIjp4xHa2",
-        "md5hash": "2348ce3211577fc7d83c94cd0ac49311",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/beast_beyond_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "LEAFSPWN88 / Infinity Ward",
-        "main_author": "LEAFSPWN88",
-        "tags": [
+        "PackageTitle: "Beast From Beyond",
+        "GoogleDriveID": "1jZL3BeTal1pDrmS_l5blEYkNIjp4xHa2",
+        "PackageHash": "2348ce3211577fc7d83c94cd0ac49311",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/beast_beyond_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "LEAFSPWN88 / Infinity Ward",
+        "PackageMainAuthor": "LEAFSPWN88",
+        "PackageTags": [
             "round sounds",
             "leaf",
             "sound",
@@ -590,18 +590,18 @@
             "infinite",
             "warfare"
         ],
-        "redraw_id": "[#0041]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_beast_round.zip"
+        "RedrawPackageID": "[#0041]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_beast_round.zip"
     },
     "voyage_round_sounds": {
-        "package_title": "Voyage of Despair",
-        "id": "1Pxk47ZoU9jsXtyfpltJt94g42C5cw1Vn",
-        "md5hash": "b3c1968556321eafe1966435337a392a",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/vod_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "Pepergogo / Treyarch",
-        "main_author": "Pepergogo",
-        "tags": [
+        "PackageTitle: "Voyage of Despair",
+        "GoogleDriveID": "1Pxk47ZoU9jsXtyfpltJt94g42C5cw1Vn",
+        "PackageHash": "b3c1968556321eafe1966435337a392a",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/vod_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "Pepergogo / Treyarch",
+        "PackageMainAuthor": "Pepergogo",
+        "PackageTags": [
             "round sounds",
             "pepe",
             "pepp",
@@ -616,18 +616,18 @@
             "infinite",
             "warfare"
         ],
-        "redraw_id": "[#0067]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_voyage_round.zip"
+        "RedrawPackageID": "[#0067]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_voyage_round.zip"
     },
     "xi_arena_round_sounds": {
-        "package_title": "IX Arena",
-        "id": "1UFjuzmh3HGdHq87P8QdbUPYrvmnvKmtR",
-        "md5hash": "5369c62f91f7f7a7f5736dfe740ca8ed",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/xi_arena_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "Pepergogo / Treyarch",
-        "main_author": "Pepergogo",
-        "tags": [
+        "PackageTitle: "IX Arena",
+        "GoogleDriveID": "1UFjuzmh3HGdHq87P8QdbUPYrvmnvKmtR",
+        "PackageHash": "5369c62f91f7f7a7f5736dfe740ca8ed",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/xi_arena_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "Pepergogo / Treyarch",
+        "PackageMainAuthor": "Pepergogo",
+        "PackageTags": [
             "round sounds",
             "pepe",
             "pepp",
@@ -643,18 +643,18 @@
             "black",
             "bo4"
         ],
-        "redraw_id": "[#0069]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_xi_arena_round.zip"
+        "RedrawPackageID": "[#0069]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_xi_arena_round.zip"
     },
     "xi_temple_round_sounds": {
-        "package_title": "IX Temple",
-        "id": "1LLTAE_o_gmcqz07GQ_XCEctCpnwLK4mf",
-        "md5hash": "0e8baf344366cd2d6429bd9fb985c0ce",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/xi_temple_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "Pepergogo / Treyarch",
-        "main_author": "Pepergogo",
-        "tags": [
+        "PackageTitle: "IX Temple",
+        "GoogleDriveID": "1LLTAE_o_gmcqz07GQ_XCEctCpnwLK4mf",
+        "PackageHash": "0e8baf344366cd2d6429bd9fb985c0ce",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/xi_temple_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "Pepergogo / Treyarch",
+        "PackageMainAuthor": "Pepergogo",
+        "PackageTags": [
             "round sounds",
             "pepe",
             "pepp",
@@ -669,18 +669,18 @@
             "black",
             "bo4"
         ],
-        "redraw_id": "[#0070]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_xi_temple_round.zip"
+        "RedrawPackageID": "[#0070]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_xi_temple_round.zip"
     },
     "botd_round_sounds": {
-        "package_title": "Blood of the Dead",
-        "id": "1GDobBtSujimvLF007ZO56RrI9XcH4cgs",
-        "md5hash": "dfdae0c48bd406e67295a271dce4baf8",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/botd_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "Booris / Treyarch",
-        "main_author": "Booris",
-        "tags": [
+        "PackageTitle: "Blood of the Dead",
+        "GoogleDriveID": "1GDobBtSujimvLF007ZO56RrI9XcH4cgs",
+        "PackageHash": "dfdae0c48bd406e67295a271dce4baf8",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/botd_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "Booris / Treyarch",
+        "PackageMainAuthor": "Booris",
+        "PackageTags": [
             "round sounds",
             "boo",
             "boris",
@@ -695,18 +695,18 @@
             "black",
             "bo4"
         ],
-        "redraw_id": "[#0042]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_botd_round.zip"
+        "RedrawPackageID": "[#0042]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_botd_round.zip"
     },
     "classified_round_sounds": {
-        "package_title": "Classified",
-        "id": "1I7ePbKf8IwS3ig0x-0nymI8NnpMFcECr",
-        "md5hash": "ff689ace8afafd282b1d7b5c2f9c01a7",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/classified_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "Booris / Treyarch",
-        "main_author": "Booris",
-        "tags": [
+        "PackageTitle: "Classified",
+        "GoogleDriveID": "1I7ePbKf8IwS3ig0x-0nymI8NnpMFcECr",
+        "PackageHash": "ff689ace8afafd282b1d7b5c2f9c01a7",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/classified_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "Booris / Treyarch",
+        "PackageMainAuthor": "Booris",
+        "PackageTags": [
             "round sounds",
             "boo",
             "boris",
@@ -720,18 +720,18 @@
             "black",
             "bo4"
         ],
-        "redraw_id": "[#0045]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_classified_round.zip"
+        "RedrawPackageID": "[#0045]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_classified_round.zip"
     },
     "dotn_round_sounds": {
-        "package_title": "Dead of the Night",
-        "id": "14VePgT-HV1a2A8yCwpsvAwn1Kp6fKKfV",
-        "md5hash": "3f0cb4781286e8658e8ed4ed6e69b051",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/dotn_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "Pepergogo / Treyarch",
-        "main_author": "Pepergogo",
-        "tags": [
+        "PackageTitle: "Dead of the Night",
+        "GoogleDriveID": "14VePgT-HV1a2A8yCwpsvAwn1Kp6fKKfV",
+        "PackageHash": "3f0cb4781286e8658e8ed4ed6e69b051",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/dotn_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "Pepergogo / Treyarch",
+        "PackageMainAuthor": "Pepergogo",
+        "PackageTags": [
             "round sounds",
             "pepe",
             "pepp",
@@ -745,18 +745,18 @@
             "black",
             "bo4"
         ],
-        "redraw_id": "[#0049]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_dotn_round.zip"
+        "RedrawPackageID": "[#0049]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_dotn_round.zip"
     },
     "ae_round_sounds": {
-        "package_title": "Ancient Evil",
-        "id": "1SVmZ4l7zTVTHbW72wLW4d2LqlPXE967O",
-        "md5hash": "70171a20ef76fa6ce49f35645142b272",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/ae_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "Pepergogo / Treyarch",
-        "main_author": "Pepergogo",
-        "tags": [
+        "PackageTitle: "Ancient Evil",
+        "GoogleDriveID": "1SVmZ4l7zTVTHbW72wLW4d2LqlPXE967O",
+        "PackageHash": "70171a20ef76fa6ce49f35645142b272",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/ae_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "Pepergogo / Treyarch",
+        "PackageMainAuthor": "Pepergogo",
+        "PackageTags": [
             "round sounds",
             "pepe",
             "pepp",
@@ -770,18 +770,18 @@
             "black",
             "bo4"
         ],
-        "redraw_id": "[#0035]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_ae_round.zip"
+        "RedrawPackageID": "[#0035]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_ae_round.zip"
     },
     "ao_round_sounds": {
-        "package_title": "Alpha Omega",
-        "id": "1Ddht9TbqKm7JiO1k0cQfqc8o9ysG88Q9",
-        "md5hash": "ca93eee8d4e1fbfb5e0fa5e08a9a2147",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/alpha_omega.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "Booris / Treyarch",
-        "main_author": "Booris",
-        "tags": [
+        "PackageTitle: "Alpha Omega",
+        "GoogleDriveID": "1Ddht9TbqKm7JiO1k0cQfqc8o9ysG88Q9",
+        "PackageHash": "ca93eee8d4e1fbfb5e0fa5e08a9a2147",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/alpha_omega.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "Booris / Treyarch",
+        "PackageMainAuthor": "Booris",
+        "PackageTags": [
             "round sounds",
             "pepe",
             "pepp",
@@ -796,18 +796,18 @@
             "black",
             "bo4"
         ],
-        "redraw_id": "[#0037]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_alpha_omega_round.zip"
+        "RedrawPackageID": "[#0037]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_alpha_omega_round.zip"
     },
     "tag_round_sounds": {
-        "package_title": "Tag Der Toten",
-        "id": "1o0rNp5HuuDowk2H806E7K8w7u89_-NuV",
-        "md5hash": "587b8bbb9d97b010aa4d79dcf808344e",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/tag_round_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "Booris / Treyarch",
-        "main_author": "Booris",
-        "tags": [
+        "PackageTitle: "Tag Der Toten",
+        "GoogleDriveID": "1o0rNp5HuuDowk2H806E7K8w7u89_-NuV",
+        "PackageHash": "587b8bbb9d97b010aa4d79dcf808344e",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/tag_round_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "Booris / Treyarch",
+        "PackageMainAuthor": "Booris",
+        "PackageTags": [
             "round sounds",
             "boo",
             "boris",
@@ -820,18 +820,18 @@
             "black",
             "bo4"
         ],
-        "redraw_id": "[#0066]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_stag_round.zip"
+        "RedrawPackageID": "[#0066]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_stag_round.zip"
     },
     "die_maschine_round_sounds": {
-        "package_title": "Die Maschine",
-        "id": "1mGn1cscLo_nl9BJhFdiqFj5j3amgO5Nb",
-        "md5hash": "63630851ede548b1746c5a6c56c7dfd4",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/garrett_diemaschine_sounds.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "Garrett / Treyarch",
-        "main_author": "Garrett",
-        "tags": [
+        "PackageTitle: "Die Maschine",
+        "GoogleDriveID": "1mGn1cscLo_nl9BJhFdiqFj5j3amgO5Nb",
+        "PackageHash": "63630851ede548b1746c5a6c56c7dfd4",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/garrett_diemaschine_sounds.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "Garrett / Treyarch",
+        "PackageMainAuthor": "Garrett",
+        "PackageTags": [
             "round sounds",
             "garret",
             "garrett",
@@ -847,18 +847,18 @@
             "cold",
             "war"
         ],
-        "redraw_id": "[#0048]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_die_maschine_round.zip"
+        "RedrawPackageID": "[#0048]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_die_maschine_round.zip"
     },
     "xmas_round_sounds": {
-        "package_title": "Jingle Hells",
-        "id": "1nM21NOtfugGn8nQxjSB9vTaIXjCnwTXt",
-        "md5hash": "b4f976f0a04a4cf5489ec0e09694f61f",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/garrett_jingle_hells.shid",
-        "type": "ROUND SOUNDS",
-        "authors": "Garrett / Treyarch",
-        "main_author": "Garrett",
-        "tags": [
+        "PackageTitle: "Jingle Hells",
+        "GoogleDriveID": "1nM21NOtfugGn8nQxjSB9vTaIXjCnwTXt",
+        "PackageHash": "b4f976f0a04a4cf5489ec0e09694f61f",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/garrett_jingle_hells.shid",
+        "PackageType": "ROUND SOUNDS",
+        "PackageAuthors": "Garrett / Treyarch",
+        "PackageMainAuthor": "Garrett",
+        "PackageTags": [
             "round sounds",
             "garret",
             "garrett",
@@ -874,18 +874,18 @@
             "cold",
             "war"
         ],
-        "redraw_id": "[#0051]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_jingle_hells.zip"
+        "RedrawPackageID": "[#0051]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_jingle_hells.zip"
     },
     "giant_vox_sounds": {
-        "package_title": "The Giant Character Voicelines",
-        "id": "1VGOQzUCZK1SAz-4c4Bi8ENgY9uNl3qqG",
-        "md5hash": "62b5e58aee58d67c862e6e487d9cfcc2",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/giant_char_vox_sounds.shid",
-        "type": "VOX",
-        "authors": "LEAFSPWN88 / Treyarch",
-        "main_author": "LEAFSPWN88",
-        "tags": [
+        "PackageTitle: "The Giant Character Voicelines",
+        "GoogleDriveID": "1VGOQzUCZK1SAz-4c4Bi8ENgY9uNl3qqG",
+        "PackageHash": "62b5e58aee58d67c862e6e487d9cfcc2",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/giant_char_vox_sounds.shid",
+        "PackageType": "VOX",
+        "PackageAuthors": "LEAFSPWN88 / Treyarch",
+        "PackageMainAuthor": "LEAFSPWN88",
+        "PackageTags": [
             "vox",
             "voice",
             "leaf",
@@ -895,18 +895,18 @@
             "giant",
             "riese"
         ],
-        "redraw_id": "[#0050]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_factory_vox_ze.zip"
+        "RedrawPackageID": "[#0050]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_factory_vox_ze.zip"
     },
     "kino_vox_sounds": {
-        "package_title": "Kino Der Toten Character Voicelines",
-        "id": "12O6VFlUgGBJv6_FqI44GoCi04J81y8zT",
-        "md5hash": "42eca82f902ae5f2a0402d0ed5cc2d04",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kino_char_vox_sounds.shid",
-        "type": "VOX",
-        "authors": "Itszecstasy / Treyarch",
-        "main_author": "Itszecstasy",
-        "tags": [
+        "PackageTitle: "Kino Der Toten Character Voicelines",
+        "GoogleDriveID": "12O6VFlUgGBJv6_FqI44GoCi04J81y8zT",
+        "PackageHash": "42eca82f902ae5f2a0402d0ed5cc2d04",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kino_char_vox_sounds.shid",
+        "PackageType": "VOX",
+        "PackageAuthors": "Itszecstasy / Treyarch",
+        "PackageMainAuthor": "Itszecstasy",
+        "PackageTags": [
             "vox",
             "voice",
             "itszecstasy",
@@ -917,19 +917,19 @@
             "der",
             "toten"
         ],
-        "redraw_id": "[#0076]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_kino_vox.zip"
+        "RedrawPackageID": "[#0076]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_kino_vox.zip"
         
     },
     "kyle_bo2_hud": {
-        "package_title": "Black Ops 2",
-        "id": "1Nl_RuxI-Q9IMrKcxyEdOV8ngFFGqHQ4h",
-        "md5hash": "70371c13720613d8a57c256000f495c7",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_bo2_hud.shid",
-        "type": "HUD",
-        "authors": "Kingslayer Kyle / Treyarch",
-        "main_author": "Kingslayer Kyle",
-        "tags": [
+        "PackageTitle: "Black Ops 2",
+        "GoogleDriveID": "1Nl_RuxI-Q9IMrKcxyEdOV8ngFFGqHQ4h",
+        "PackageHash": "70371c13720613d8a57c256000f495c7",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_bo2_hud.shid",
+        "PackageType": "HUD",
+        "PackageAuthors": "Kingslayer Kyle / Treyarch",
+        "PackageMainAuthor": "Kingslayer Kyle",
+        "PackageTags": [
             "hud",
             "kingslayer",
             "kyle",
@@ -937,18 +937,18 @@
             "bo2",
             "black"
         ],
-        "redraw_id": "[#0024]",
-        "redraw_url": "https://red-raw.net/redraw/huds_kyle_bo2.zip"
+        "RedrawPackageID": "[#0024]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/huds_kyle_bo2.zip"
     },
     "kyle_hud_iw": {
-        "package_title": "Infinite Warfare",
-        "id": "1iajyO-g7SNdvCJDgWpPAUYD0uqgOWSyB",
-        "md5hash": "094b9a93070097637ccab151b6ba1075",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_iw_hud.shid",
-        "type": "HUD",
-        "authors": "Kingslayer Kyle / Infinity Ward",
-        "main_author": "Kingslayer Kyle",
-        "tags": [
+        "PackageTitle: "Infinite Warfare",
+        "GoogleDriveID": "1iajyO-g7SNdvCJDgWpPAUYD0uqgOWSyB",
+        "PackageHash": "094b9a93070097637ccab151b6ba1075",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_iw_hud.shid",
+        "PackageType": "HUD",
+        "PackageAuthors": "Kingslayer Kyle / Infinity Ward",
+        "PackageMainAuthor": "Kingslayer Kyle",
+        "PackageTags": [
             "hud",
             "kingslayer",
             "kyle",
@@ -957,18 +957,18 @@
             "infinite",
             "warfare"
         ],
-        "redraw_id": "[#0023]",
-        "redraw_url": "https://red-raw.net/redraw/huds_iw.zip"
+        "RedrawPackageID": "[#0023]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/huds_iw.zip"
     },
     "kyle_hud_ww2": {
-        "package_title": "World War II",
-        "id": "1qCU8Xeeycr7gEJWiR8CFfajJz-jnan9g",
-        "md5hash": "b6ef4a273f227283a31e352f893c1f68",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_ww2_hud.shid",
-        "type": "HUD",
-        "authors": "Kingslayer Kyle / Sledgehammer Games",
-        "main_author": "Kingslayer Kyle",
-        "tags": [
+        "PackageTitle: "World War II",
+        "GoogleDriveID": "1qCU8Xeeycr7gEJWiR8CFfajJz-jnan9g",
+        "PackageHash": "b6ef4a273f227283a31e352f893c1f68",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_ww2_hud.shid",
+        "PackageType": "HUD",
+        "PackageAuthors": "Kingslayer Kyle / Sledgehammer Games",
+        "PackageMainAuthor": "Kingslayer Kyle",
+        "PackageTags": [
             "hud",
             "kingslayer",
             "kyle",
@@ -978,18 +978,18 @@
             "world",
             "war"
         ],
-        "redraw_id": "[#0026]",
-        "redraw_url": "https://red-raw.net/redraw/huds_ww2.zip"
+        "RedrawPackageID": "[#0026]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/huds_ww2.zip"
     },
     "kyle_hud_bo4": {
-        "package_title": "Black Ops 4",
-        "id": "1SZX1WJK7QYNptSU2JdEJy_mkVq1uXrQu",
-        "md5hash": "9aa4ebfd00a4040acedf83de21d2c69c",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_bo4_hud.shid",
-        "type": "HUD",
-        "authors": "Kingslayer Kyle / Treyarch",
-        "main_author": "Kingslayer Kyle",
-        "tags": [
+        "PackageTitle: "Black Ops 4",
+        "GoogleDriveID": "1SZX1WJK7QYNptSU2JdEJy_mkVq1uXrQu",
+        "PackageHash": "9aa4ebfd00a4040acedf83de21d2c69c",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/kyle_bo4_hud.shid",
+        "PackageType": "HUD",
+        "PackageAuthors": "Kingslayer Kyle / Treyarch",
+        "PackageMainAuthor": "Kingslayer Kyle",
+        "PackageTags": [
             "hud",
             "kingslayer",
             "kyle",
@@ -997,18 +997,18 @@
             "bo4",
             "black"
         ],
-        "redraw_id": "[#0021]",
-        "redraw_url": "https://red-raw.net/redraw/huds_bo4.zip"
+        "RedrawPackageID": "[#0021]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/huds_bo4.zip"
     },
     "kyle_csgo_hud": {
-        "package_title": "Counter Strike : Global Offensive [CS:GO]",
-        "id": "1IDR78YuYI_BT4FbS6mj5Y9M7fX5-FcXz",
-        "md5hash": "b2d305e5b7a83021a28d1eb9d2a47eaa",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_csgo_hud.shid",
-        "type": "HUD",
-        "authors": "Kingslayer Kyle / Valve",
-        "main_author": "Kingslayer Kyle",
-        "tags": [
+        "PackageTitle: "Counter Strike : Global Offensive [CS:GO]",
+        "GoogleDriveID": "1IDR78YuYI_BT4FbS6mj5Y9M7fX5-FcXz",
+        "PackageHash": "b2d305e5b7a83021a28d1eb9d2a47eaa",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_csgo_hud.shid",
+        "PackageType": "HUD",
+        "PackageAuthors": "Kingslayer Kyle / Valve",
+        "PackageMainAuthor": "Kingslayer Kyle",
+        "PackageTags": [
             "hud",
             "kingslayer",
             "kyle",
@@ -1020,35 +1020,35 @@
             "csgo",
             "cs:go"
         ],
-        "redraw_id": "[#0022]",
-        "redraw_url": "https://red-raw.net/redraw/huds_csgo.zip"
+        "RedrawPackageID": "[#0022]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/huds_csgo.zip"
     },
     "mg_hud": {
-        "package_title": "Madgaz V2",
-        "id": "1Eq9b8W5PnksRMNM51n9xt-I_s-fI1W68",
-        "md5hash": "7053ba24d3530882b12d607e97637a5b",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/mg_hud.shid",
-        "type": "HUD",
-        "authors": "Madgaz",
-        "main_author": "Madgaz",
-        "tags": [
+        "PackageTitle: "Madgaz V2",
+        "GoogleDriveID": "1Eq9b8W5PnksRMNM51n9xt-I_s-fI1W68",
+        "PackageHash": "7053ba24d3530882b12d607e97637a5b",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/mg_hud.shid",
+        "PackageType": "HUD",
+        "PackageAuthors": "Madgaz",
+        "PackageMainAuthor": "Madgaz",
+        "PackageTags": [
             "hud",
             "gaz",
             "mg",
             "madgaz v2"
         ],
-        "redraw_id": "[#0025]",
-        "redraw_url": "https://red-raw.net/redraw/huds_mg.zip"
+        "RedrawPackageID": "[#0025]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/huds_mg.zip"
     },
     "aether_announcer": {
-        "package_title": "Aether Storyline",
-        "id": "1TtVJm9Ls7ouvxSwkZSrjJ7oO5X5DmRyZ",
-        "md5hash": "89596bb3bf52a6be4d24c2f7fc58ae0b",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/pg_aether_announcer.shid",
-        "type": "ANNOUNCER",
-        "authors": "Pepergogo / Treyarch",
-        "main_author": "Pepergogo",
-        "tags": [
+        "PackageTitle: "Aether Storyline",
+        "GoogleDriveID": "1TtVJm9Ls7ouvxSwkZSrjJ7oO5X5DmRyZ",
+        "PackageHash": "89596bb3bf52a6be4d24c2f7fc58ae0b",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/pg_aether_announcer.shid",
+        "PackageType": "ANNOUNCER",
+        "PackageAuthors": "Pepergogo / Treyarch",
+        "PackageMainAuthor": "Pepergogo",
+        "PackageTags": [
             "announcer",
             "pepe",
             "pepp",
@@ -1057,18 +1057,18 @@
             "ann",
             "sound"
         ],
-        "redraw_id": "[#0036]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_aether_announcer.zip"
+        "RedrawPackageID": "[#0036]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_aether_announcer.zip"
     },
     "avogadro_announcer": {
-        "package_title": "Avogadro",
-        "id": "1IYPIrdZYYzQvIid9g_Dv5Co9Nx35YqLK",
-        "md5hash": "da7d44f430cc3de7f3e49a9bc37ab966",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/garrett_avogadro_ancr.shid",
-        "type": "ANNOUNCER",
-        "authors": "Garrett / Treyarch",
-        "main_author": "Pepergogo",
-        "tags": [
+        "PackageTitle: "Avogadro",
+        "GoogleDriveID": "1IYPIrdZYYzQvIid9g_Dv5Co9Nx35YqLK",
+        "PackageHash": "da7d44f430cc3de7f3e49a9bc37ab966",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/garrett_avogadro_ancr.shid",
+        "PackageType": "ANNOUNCER",
+        "PackageAuthors": "Garrett / Treyarch",
+        "PackageMainAuthor": "Pepergogo",
+        "PackageTags": [
             "announcer",
             "garrett",
             "garret",
@@ -1077,18 +1077,18 @@
             "ann",
             "sound"
         ],
-        "redraw_id": "[#0040]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_avogadro_ancr.zip"
+        "RedrawPackageID": "[#0040]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_avogadro_ancr.zip"
     },
     "cw_announcer": {
-        "package_title": "Black Ops Cold War",
-        "id": "1oxRJQhMoRXJ-4NZHAy--fEnNenaxy66w",
-        "md5hash": "92616fc1f94f81fab243e919004f4e63",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/j_ancr_cw.shid",
-        "type": "ANNOUNCER",
-        "authors": "JG / Treyarch",
-        "main_author": "JG",
-        "tags": [
+        "PackageTitle: "Black Ops Cold War",
+        "GoogleDriveID": "1oxRJQhMoRXJ-4NZHAy--fEnNenaxy66w",
+        "PackageHash": "92616fc1f94f81fab243e919004f4e63",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/j_ancr_cw.shid",
+        "PackageType": "ANNOUNCER",
+        "PackageAuthors": "JG / Treyarch",
+        "PackageMainAuthor": "JG",
+        "PackageTags": [
             "announcer",
             "jg",
             "bocw",
@@ -1098,18 +1098,18 @@
             "ann",
             "sound"
         ],
-        "redraw_id": "[#0046]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_cold_war_ancr.zip"
+        "RedrawPackageID": "[#0046]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_cold_war_ancr.zip"
     },
     "chaos_announcer": {
-        "package_title": "Chaos Storyline",
-        "id": "1eLMmYU3i-TWghmy1CNaBAedaTvos5zaa",
-        "md5hash": "2c946f77b40acfe9224398cf8392cb6d",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/pg_chaos_announcer.shid",
-        "type": "ANNOUNCER",
-        "authors": "Pepergogo / Treyarch",
-        "main_author": "Pepergogo",
-        "tags": [
+        "PackageTitle: "Chaos Storyline",
+        "GoogleDriveID": "1eLMmYU3i-TWghmy1CNaBAedaTvos5zaa",
+        "PackageHash": "2c946f77b40acfe9224398cf8392cb6d",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/pg_chaos_announcer.shid",
+        "PackageType": "ANNOUNCER",
+        "PackageAuthors": "Pepergogo / Treyarch",
+        "PackageMainAuthor": "Pepergogo",
+        "PackageTags": [
             "announcer",
             "pepe",
             "pepp",
@@ -1118,18 +1118,18 @@
             "ann",
             "sound"
         ],
-        "redraw_id": "[#0043]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_chaos_announcer.zip"
+        "RedrawPackageID": "[#0043]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_chaos_announcer.zip"
     },
     "der_anfang_announcer": {
-        "package_title": "Der Anfang",
-        "id": "1OHQiQAP4XwWLU_hVf_aYwk-3UqTiWxUE",
-        "md5hash": "eb6383ae3333668a95d4e4bf2903f871",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/j_der_anfang_ancr.shid",
-        "type": "ANNOUNCER",
-        "authors": "JG / Treyarch / Sledgehammer Games",
-        "main_author": "JG",
-        "tags": [
+        "PackageTitle: "Der Anfang",
+        "GoogleDriveID": "1OHQiQAP4XwWLU_hVf_aYwk-3UqTiWxUE",
+        "PackageHash": "eb6383ae3333668a95d4e4bf2903f871",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/j_der_anfang_ancr.shid",
+        "PackageType": "ANNOUNCER",
+        "PackageAuthors": "JG / Treyarch / Sledgehammer Games",
+        "PackageMainAuthor": "JG",
+        "PackageTags": [
             "announcer",
             "jg",
             "der",
@@ -1137,18 +1137,18 @@
             "ann",
             "sound"
         ],
-        "redraw_id": "[#0047]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_der_anfang_ancr.zip"
+        "RedrawPackageID": "[#0047]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_der_anfang_ancr.zip"
     },
     "monty_announcer": {
-        "package_title": "Dr. Monty",
-        "id": "1V4VsPHPRSVVDXW7kgkAv60A_DkUyaVa_",
-        "md5hash": "6806f9cba0080a8f9524ffe4cab8760a",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/booris_ancr_monty.shid",
-        "type": "ANNOUNCER",
-        "authors": "Booris / Treyarch",
-        "main_author": "Booris",
-        "tags": [
+        "PackageTitle: "Dr. Monty",
+        "GoogleDriveID": "1V4VsPHPRSVVDXW7kgkAv60A_DkUyaVa_",
+        "PackageHash": "6806f9cba0080a8f9524ffe4cab8760a",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/booris_ancr_monty.shid",
+        "PackageType": "ANNOUNCER",
+        "PackageAuthors": "Booris / Treyarch",
+        "PackageMainAuthor": "Booris",
+        "PackageTags": [
             "announcer",
             "boris",
             "boo",
@@ -1158,35 +1158,35 @@
             "ann",
             "sound"
         ],
-        "redraw_id": "[#0038]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_ancr_monty.zip"
+        "RedrawPackageID": "[#0038]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_ancr_monty.zip"
     },
     "richtofen_announcer": {
-        "package_title": "Richtofen",
-        "id": "1BjLsq4tT_k94Evj4lrTWWM-iBRgCCuVf",
-        "md5hash": "83b86f56b9c7ad4c6650874346980fc9",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/voj_richtofen_ancr.shid",
-        "type": "ANNOUNCER",
-        "authors": "VOICEOFJARAED / Treyarch",
-        "main_author": "VoiceOfJaraed",
-        "tags": [
+        "PackageTitle: "Richtofen",
+        "GoogleDriveID": "1BjLsq4tT_k94Evj4lrTWWM-iBRgCCuVf",
+        "PackageHash": "83b86f56b9c7ad4c6650874346980fc9",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/voj_richtofen_ancr.shid",
+        "PackageType": "ANNOUNCER",
+        "PackageAuthors": "VOICEOFJARAED / Treyarch",
+        "PackageMainAuthor": "VoiceOfJaraed",
+        "PackageTags": [
             "announcer",
             "ann",
             "richtofen",
             "sound"
         ],
-        "redraw_id": "[#0058]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_richtofen_announcer.zip"
+        "RedrawPackageID": "[#0058]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_richtofen_announcer.zip"
     },
     "rush_announcer": {
-        "package_title": "Rush Storyline",
-        "id": "1-5JkGTl_FzNnloOtQIsJ0BUmQDWOSBBo",
-        "md5hash": "45cd7c90ff1611a51222936bcf5c0745",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/pg_rush_announcer.shid",
-        "type": "ANNOUNCER",
-        "authors": "Pepergogo / Treyarch",
-        "main_author": "Pepergogo",
-        "tags": [
+        "PackageTitle: "Rush Storyline",
+        "GoogleDriveID": "1-5JkGTl_FzNnloOtQIsJ0BUmQDWOSBBo",
+        "PackageHash": "45cd7c90ff1611a51222936bcf5c0745",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/pg_rush_announcer.shid",
+        "PackageType": "ANNOUNCER",
+        "PackageAuthors": "Pepergogo / Treyarch",
+        "PackageMainAuthor": "Pepergogo",
+        "PackageTags": [
             "announcer",
             "pepe",
             "pepp",
@@ -1194,18 +1194,18 @@
             "ann",
             "sound"
         ],
-        "redraw_id": "[#0059]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_rush_announcer.zip"
+        "RedrawPackageID": "[#0059]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_rush_announcer.zip"
     },
     "samantha_announcer": {
-        "package_title": "Samantha [Origins]",
-        "id": "1w6LAfEOgTFLImBCVC6UDZdr9g9I4Nsh4",
-        "md5hash": "e5b2c7697776a40023ef3408214f21b2",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/ancr_samantha.shid",
-        "type": "ANNOUNCER",
-        "authors": "JG / Treyarch",
-        "main_author": "JG",
-        "tags": [
+        "PackageTitle: "Samantha [Origins]",
+        "GoogleDriveID": "1w6LAfEOgTFLImBCVC6UDZdr9g9I4Nsh4",
+        "PackageHash": "e5b2c7697776a40023ef3408214f21b2",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/ancr_samantha.shid",
+        "PackageType": "ANNOUNCER",
+        "PackageAuthors": "JG / Treyarch",
+        "PackageMainAuthor": "JG",
+        "PackageTags": [
             "announcer",
             "jg",
             "samantha",
@@ -1213,18 +1213,18 @@
             "ann",
             "sound"
         ],
-        "redraw_id": "[#0060]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_samantha_ancr.zip"
+        "RedrawPackageID": "[#0060]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_samantha_ancr.zip"
     },
     "shadowman_announcer": {
-        "package_title": "Shadow Man",
-        "id": "1Sy_b0xh7M6DN8HnxcAYDAxaEJiTfprRm",
-        "md5hash": "02500b05e5006b5ccceff0a2c70870b9",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/booris_shadowman_ancr.shid",
-        "type": "ANNOUNCER",
-        "authors": "Booris / Treyarch",
-        "main_author": "Booris",
-        "tags": [
+        "PackageTitle: "Shadow Man",
+        "GoogleDriveID": "1Sy_b0xh7M6DN8HnxcAYDAxaEJiTfprRm",
+        "PackageHash": "02500b05e5006b5ccceff0a2c70870b9",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/booris_shadowman_ancr.shid",
+        "PackageType": "ANNOUNCER",
+        "PackageAuthors": "Booris / Treyarch",
+        "PackageMainAuthor": "Booris",
+        "PackageTags": [
             "announcer",
             "boris",
             "boo",
@@ -1232,18 +1232,18 @@
             "ann",
             "sound"
         ],
-        "redraw_id": "[#0061]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_shadowman_ancr.zip"
+        "RedrawPackageID": "[#0061]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_shadowman_ancr.zip"
     },
     "willard_wyler_announcer": {
-        "package_title": "Willard Wyler",
-        "id": "1C8_6Bwr2ttUy-Fuk6PE1DvecklkhUD2c",
-        "md5hash": "f03d7c1c98583085515c4e0de92f2ecb",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/satan_ww_announcer.shid",
-        "type": "ANNOUNCER",
-        "authors": "SATAN / Infinity Ward",
-        "main_author": "SATAN",
-        "tags": [
+        "PackageTitle: "Willard Wyler",
+        "GoogleDriveID": "1C8_6Bwr2ttUy-Fuk6PE1DvecklkhUD2c",
+        "PackageHash": "f03d7c1c98583085515c4e0de92f2ecb",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaW/main/dotshid/satan_ww_announcer.shid",
+        "PackageType": "ANNOUNCER",
+        "PackageAuthors": "SATAN / Infinity Ward",
+        "PackageMainAuthor": "SATAN",
+        "PackageTags": [
             "announcer",
             "satan",
             "willard",
@@ -1253,85 +1253,85 @@
             "ann",
             "sound"
         ],
-        "redraw_id": "[#0068]",
-        "redraw_url": "https://red-raw.net/redraw/sounds_willard_wyler_announcer.zip"
+        "RedrawPackageID": "[#0068]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/sounds_willard_wyler_announcer.zip"
     },
     "owen_stranded": {
-        "package_title": "Stranded Deep",
-        "id": "1rbN1OOcs9qY7EsuGpZdkdhpxAcas0aOX",
-        "md5hash": "19905a512e17ba54c93d3cf260dd79f2",
-        "shidurl": "NO_SHID_URL",
-        "type": "MODELS",
-        "authors": "Owen / Beam Team Games",
-        "main_author": "OwenC137",
-        "tags": [
+        "PackageTitle: "Stranded Deep",
+        "GoogleDriveID": "1rbN1OOcs9qY7EsuGpZdkdhpxAcas0aOX",
+        "PackageHash": "19905a512e17ba54c93d3cf260dd79f2",
+        "PackageShidUrl": "NO_SHID_URL",
+        "PackageType": "MODELS",
+        "PackageAuthors": "Owen / Beam Team Games",
+        "PackageMainAuthor": "OwenC137",
+        "PackageTags": [
             "model",
             "owen",
             "stranded",
             "deep"
         ],
-        "redraw_id": "[#0027]",
-        "redraw_url": "https://red-raw.net/redraw/models_owen_stranded_deep.zip"
+        "RedrawPackageID": "[#0027]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/models_owen_stranded_deep.zip"
     },
     "spx_micro": {
-        "package_title": "MODEL PACK : Micro",
-        "id": "1Oc0PgAXVj9tNBNtS0ATyiDgOOV66tF82",
-        "md5hash": "4bf97f01b47fbe20b5b36ecd1c9f9109",
-        "shidurl": "NO_SHID_URL",
-        "type": "MODELS",
-        "authors": "Sphynx / Treyarch",
-        "main_author": "Sphynx",
-        "tags": [
+        "PackageTitle: "MODEL PACK : Micro",
+        "GoogleDriveID": "1Oc0PgAXVj9tNBNtS0ATyiDgOOV66tF82",
+        "PackageHash": "4bf97f01b47fbe20b5b36ecd1c9f9109",
+        "PackageShidUrl": "NO_SHID_URL",
+        "PackageType": "MODELS",
+        "PackageAuthors": "Sphynx / Treyarch",
+        "PackageMainAuthor": "Sphynx",
+        "PackageTags": [
             "model",
             "sphynx",
             "micro"
         ],
-        "redraw_id": "[#0028]",
-        "redraw_url": "https://red-raw.net/redraw/models_spx_t7_mp_miniature.zip"
+        "RedrawPackageID": "[#0028]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/models_spx_t7_mp_miniature.zip"
     },
     "logical_ai_charred_zombies": {
-        "package_title": "Charred Zombies",
-        "id": "1dBaDY3PEr1xMbZjvSdUImBEIoXnhgiZB",
-        "md5hash": "181c15a50a91b34c9efa4535b2201612",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/logical_charred_zombs.shid",
-        "type": "AI",
-        "authors": "Logical / Treyarch",
-        "main_author": "Logical",
-        "tags": [
+        "PackageTitle: "Charred Zombies",
+        "GoogleDriveID": "1dBaDY3PEr1xMbZjvSdUImBEIoXnhgiZB",
+        "PackageHash": "181c15a50a91b34c9efa4535b2201612",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/logical_charred_zombs.shid",
+        "PackageType": "AI",
+        "PackageAuthors": "Logical / Treyarch",
+        "PackageMainAuthor": "Logical",
+        "PackageTags": [
             "ai",
             "zombies",
             "logical",
             "charred"
         ],
-        "redraw_id": "[#0006]",
-        "redraw_url": "https://red-raw.net/redraw/ai_logical_charred_zombies.zip"
+        "RedrawPackageID": "[#0006]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/ai_logical_charred_zombies.zip"
     },
     "owen_sdc_zombies": {
-        "package_title": "SDC Zombies",
-        "id": "19qESCWglG1bTpr2YplEs-mn2iQ7m6LIt",
-        "md5hash": "22252f2d79f145fab15db85ef45ea0a1",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/owen_sdc_zombs.shid",
-        "type": "AI",
-        "authors": "OwenC137 / Treyarch",
-        "main_author": "OwenC137",
-        "tags": [
+        "PackageTitle: "SDC Zombies",
+        "GoogleDriveID": "19qESCWglG1bTpr2YplEs-mn2iQ7m6LIt",
+        "PackageHash": "22252f2d79f145fab15db85ef45ea0a1",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/owen_sdc_zombs.shid",
+        "PackageType": "AI",
+        "PackageAuthors": "OwenC137 / Treyarch",
+        "PackageMainAuthor": "OwenC137",
+        "PackageTags": [
             "ai",
             "zombies",
             "owen",
             "sdc"
         ],
-        "redraw_id": "[#0009]",
-        "redraw_url": "https://red-raw.net/redraw/ai_owen_sdc_zombies.zip"
+        "RedrawPackageID": "[#0009]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/ai_owen_sdc_zombies.zip"
     },
     "kingslayer_ai_soe_zombies": {
-        "package_title": "Shadows of Evil Zombies",
-        "id": "1L4n2xgOdf89xgRiIsD4O3Z-2g-CgmS6Y",
-        "md5hash": "5820adcd9d84fbca4b94489cd91eb60c",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_soe_zombs.shid",
-        "type": "AI",
-        "authors": "Kingslayer Kyle / Treyarch",
-        "main_author": "Kingslayer Kyle",
-        "tags": [
+        "PackageTitle: "Shadows of Evil Zombies",
+        "GoogleDriveID": "1L4n2xgOdf89xgRiIsD4O3Z-2g-CgmS6Y",
+        "PackageHash": "5820adcd9d84fbca4b94489cd91eb60c",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_soe_zombs.shid",
+        "PackageType": "AI",
+        "PackageAuthors": "Kingslayer Kyle / Treyarch",
+        "PackageMainAuthor": "Kingslayer Kyle",
+        "PackageTags": [
             "ai",
             "zombies",
             "kingslayer",
@@ -1340,18 +1340,18 @@
             "shadows",
             "evil"
         ],
-        "redraw_id": "[#0004]",
-        "redraw_url": "https://red-raw.net/redraw/ai_kyle_soe_zombies.zip"
+        "RedrawPackageID": "[#0004]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/ai_kyle_soe_zombies.zip"
     },
     "kingslayer_ai_botd_zombies": {
-        "package_title": "Blood of the Dead Zombies",
-        "id": "1iCiVZZsV32-2yrZ5Wa-IHB2kRj_-JPsY",
-        "md5hash": "af51fc3e525672ef8dd67fa18fe621cb",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_botd_zombs.shid",
-        "type": "AI",
-        "authors": "Kingslayer Kyle / Treyarch",
-        "main_author": "Kingslayer Kyle",
-        "tags": [
+        "PackageTitle: "Blood of the Dead Zombies",
+        "GoogleDriveID": "1iCiVZZsV32-2yrZ5Wa-IHB2kRj_-JPsY",
+        "PackageHash": "af51fc3e525672ef8dd67fa18fe621cb",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_botd_zombs.shid",
+        "PackageType": "AI",
+        "PackageAuthors": "Kingslayer Kyle / Treyarch",
+        "PackageMainAuthor": "Kingslayer Kyle",
+        "PackageTags": [
             "ai",
             "zombies",
             "kingslayer",
@@ -1360,18 +1360,18 @@
             "dead",
             "botd"
         ],
-        "redraw_id": "[#0002]",
-        "redraw_url": "https://red-raw.net/redraw/ai_kyle_botd_zombies.zip"
+        "RedrawPackageID": "[#0002]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/ai_kyle_botd_zombies.zip"
     },
     "kingslayer_ai_classified_zombies": {
-        "package_title": "Classified Zombies",
-        "id": "1VWoitEeWO-sXc8JG2wL3iko22V0-nNtR",
-        "md5hash": "8a02c97ca002480cf3b16d38d19e243e",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_classified_zombs.shid",
-        "type": "AI",
-        "authors": "Kingslayer Kyle / Treyarch",
-        "main_author": "Kingslayer Kyle",
-        "tags": [
+        "PackageTitle: "Classified Zombies",
+        "GoogleDriveID": "1VWoitEeWO-sXc8JG2wL3iko22V0-nNtR",
+        "PackageHash": "8a02c97ca002480cf3b16d38d19e243e",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_classified_zombs.shid",
+        "PackageType": "AI",
+        "PackageAuthors": "Kingslayer Kyle / Treyarch",
+        "PackageMainAuthor": "Kingslayer Kyle",
+        "PackageTags": [
             "ai",
             "zombies",
             "kingslayer",
@@ -1379,36 +1379,36 @@
             "classified",
             "five"
         ],
-        "redraw_id": "[#0003]",
-        "redraw_url": "https://red-raw.net/redraw/ai_kyle_classified_zombies.zip"
+        "RedrawPackageID": "[#0003]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/ai_kyle_classified_zombies.zip"
     },
     "kingslayer_ai_vg_zombies": {
-        "package_title": "Vanguard Zombies",
-        "id": "1XyfNElF4KyT3-BH6FvQEy2lirSfh93wv",
-        "md5hash": "10600cedec0d0e5c8be6d190576dc1c5",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_vg_zombs.shid",
-        "type": "AI",
-        "authors": "Kingslayer Kyle / Treyarch",
-        "main_author": "Kingslayer Kyle",
-        "tags": [
+        "PackageTitle: "Vanguard Zombies",
+        "GoogleDriveID": "1XyfNElF4KyT3-BH6FvQEy2lirSfh93wv",
+        "PackageHash": "10600cedec0d0e5c8be6d190576dc1c5",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/kyle_vg_zombs.shid",
+        "PackageType": "AI",
+        "PackageAuthors": "Kingslayer Kyle / Treyarch",
+        "PackageMainAuthor": "Kingslayer Kyle",
+        "PackageTags": [
             "ai",
             "zombies",
             "kingslayer",
             "kyle",
             "vanguard"
         ],
-        "redraw_id": "[#0005]",
-        "redraw_url": "https://red-raw.net/redraw/ai_kyle_vg_zombies.zip"
+        "RedrawPackageID": "[#0005]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/ai_kyle_vg_zombies.zip"
     },
     "j4k0b13_ai_shang_zombies": {
-        "package_title": "Shangri-La Zombies",
-        "id": "1cfwOFahpOwCCk9s_Xgl1Rm7xcIh_73VG",
-        "md5hash": "868073dcf844c18441bf37471f1dcfdb",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/j4k0b_shang_zombs.shid",
-        "type": "AI",
-        "authors": "J4k0b13 / Treyarch",
-        "main_author": "j4k0b13",
-        "tags": [
+        "PackageTitle: "Shangri-La Zombies",
+        "GoogleDriveID": "1cfwOFahpOwCCk9s_Xgl1Rm7xcIh_73VG",
+        "PackageHash": "868073dcf844c18441bf37471f1dcfdb",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/j4k0b_shang_zombs.shid",
+        "PackageType": "AI",
+        "PackageAuthors": "J4k0b13 / Treyarch",
+        "PackageMainAuthor": "j4k0b13",
+        "PackageTags": [
             "ai",
             "zombies",
             "j4k0b13",
@@ -1417,18 +1417,18 @@
             "shangri-la",
             "shangri"
         ],
-        "redraw_id": "[#0001]",
-        "redraw_url": "https://red-raw.net/redraw/ai_j4k0b13_shang_zombies.zip"
+        "RedrawPackageID": "[#0001]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/ai_j4k0b13_shang_zombies.zip"
     },
     "ninja_gk_zombies": {
-        "package_title": "Gorod Krovi Zombies",
-        "id": "1FmKhRXSe4BdWmkZcvste2-SaO1NZKMz2",
-        "md5hash": "85f0404ed3a7a0d0761b9c2fb6650735",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/ninja_gk_zombies.shid",
-        "type": "AI",
-        "authors": "Ninjaman / Treyarch",
-        "main_author": "Ninjaman829",
-        "tags": [
+        "PackageTitle: "Gorod Krovi Zombies",
+        "GoogleDriveID": "1FmKhRXSe4BdWmkZcvste2-SaO1NZKMz2",
+        "PackageHash": "85f0404ed3a7a0d0761b9c2fb6650735",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/ninja_gk_zombies.shid",
+        "PackageType": "AI",
+        "PackageAuthors": "Ninjaman / Treyarch",
+        "PackageMainAuthor": "Ninjaman829",
+        "PackageTags": [
             "ai",
             "zombies",
             "ninja",
@@ -1437,35 +1437,35 @@
             "krovi",
             "gk"
         ],
-        "redraw_id": "[#0008]",
-        "redraw_url": "https://red-raw.net/redraw/ai_ninja_gk_zombies.zip"
+        "RedrawPackageID": "[#0008]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/ai_ninja_gk_zombies.zip"
     },
     "zeroy_nrc_zombies": {
-        "package_title": "NRC Zombies",
-        "id": "19BaoKFMfjh8YWqu4WfFM5soV-hJzJ6O4",
-        "md5hash": "bbcf32787bee4db4ef2727d6d397f7dc",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/zeroy_nrc_zombs.shid",
-        "type": "AI",
-        "authors": "ZeRoY / Treyarch",
-        "main_author": "ZeRoY",
-        "tags": [
+        "PackageTitle: "NRC Zombies",
+        "GoogleDriveID": "19BaoKFMfjh8YWqu4WfFM5soV-hJzJ6O4",
+        "PackageHash": "bbcf32787bee4db4ef2727d6d397f7dc",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/zeroy_nrc_zombs.shid",
+        "PackageType": "AI",
+        "PackageAuthors": "ZeRoY / Treyarch",
+        "PackageMainAuthor": "ZeRoY",
+        "PackageTags": [
             "ai",
             "zombies",
             "zeroy",
             "nrc"
         ],
-        "redraw_id": "[#0011]",
-        "redraw_url": "https://red-raw.net/redraw/ai_zeroy_nrc_zombies.zip"
+        "RedrawPackageID": "[#0011]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/ai_zeroy_nrc_zombies.zip"
     },
     "zeroy_54i_zombies": {
-        "package_title": "54 Immortals Zombies",
-        "id": "1iG1m32fYDc01pcgHjv34kAIXih5B_bML",
-        "md5hash": "f096837d0c9f57257c6e476b3974e90b",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/zeroy_54i_zombs.shid",
-        "type": "AI",
-        "authors": "ZeRoY / Treyarch",
-        "main_author": "ZeRoY",
-        "tags": [
+        "PackageTitle: "54 Immortals Zombies",
+        "GoogleDriveID": "1iG1m32fYDc01pcgHjv34kAIXih5B_bML",
+        "PackageHash": "f096837d0c9f57257c6e476b3974e90b",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/zeroy_54i_zombs.shid",
+        "PackageType": "AI",
+        "PackageAuthors": "ZeRoY / Treyarch",
+        "PackageMainAuthor": "ZeRoY",
+        "PackageTags": [
             "ai",
             "zombies",
             "zeroy",
@@ -1474,18 +1474,18 @@
             "54",
             "immortal"
         ],
-        "redraw_id": "[#0010]",
-        "redraw_url": "https://red-raw.net/redraw/ai_zeroy_ffi_zombies.zip"
+        "RedrawPackageID": "[#0010]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/ai_zeroy_ffi_zombies.zip"
     },
     "midget_maschine_zombies": {
-        "package_title": "Die Maschine Zombies",
-        "id": "1HGswHzjSjl72wbU21syICt0jGXsohP5B",
-        "md5hash": "ec172ef326af039925ca3bafd8531fab",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/midget_masch_zombs.shid",
-        "type": "AI",
-        "authors": "MidgetBlaster / Treyarch",
-        "main_author": "MidgetBlaster",
-        "tags": [
+        "PackageTitle: "Die Maschine Zombies",
+        "GoogleDriveID": "1HGswHzjSjl72wbU21syICt0jGXsohP5B",
+        "PackageHash": "ec172ef326af039925ca3bafd8531fab",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/midget_masch_zombs.shid",
+        "PackageType": "AI",
+        "PackageAuthors": "MidgetBlaster / Treyarch",
+        "PackageMainAuthor": "MidgetBlaster",
+        "PackageTags": [
             "ai",
             "zombies",
             "midget",
@@ -1494,18 +1494,18 @@
             "machine",
             "maschine"
         ],
-        "redraw_id": "[#0007]",
-        "redraw_url": "https://red-raw.net/redraw/ai_midget_maschine_zombies.zip"
+        "RedrawPackageID": "[#0007]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/ai_midget_maschine_zombies.zip"
     },
     "koen_landers": {
-        "package_title": "Lunar Landers",
-        "id": "1gAqKB7nNmrpxzrYUgYiUNhsbhXlRptER",
-        "md5hash": "48dbf26eb63e44a3c8658a431126a4c4",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/koen_landers.shid",
-        "type": "SCRIPTS",
-        "authors": "Koentje / Harry BO21 / Treyarch",
-        "main_author": "Koentje",
-        "tags": [
+        "PackageTitle: "Lunar Landers",
+        "GoogleDriveID": "1gAqKB7nNmrpxzrYUgYiUNhsbhXlRptER",
+        "PackageHash": "48dbf26eb63e44a3c8658a431126a4c4",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/koen_landers.shid",
+        "PackageType": "SCRIPTS",
+        "PackageAuthors": "Koentje / Harry BO21 / Treyarch",
+        "PackageMainAuthor": "Koentje",
+        "PackageTags": [
             "scripts",
             "koen",
             "lunar",
@@ -1513,18 +1513,18 @@
             "script",
             "ascension"
         ],
-        "redraw_id": "[#0031]",
-        "redraw_url": "https://red-raw.net/redraw/scripts_koen_landers.zip"
+        "RedrawPackageID": "[#0031]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/scripts_koen_landers.zip"
     },
     "wegg_deathmachine": {
-        "package_title": "Cold War Death Machine",
-        "id": "1JhhZ60JT0u0r943YNuvcTGcJjDnmHt60",
-        "md5hash": "2a9ca28cd6cff9bc7f538bc8453324b9",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/wegg_cw_minigun.shid",
-        "type": "SCRIPTS",
-        "authors": "WetEgg / Treyarch",
-        "main_author": "WetEgg",
-        "tags": [
+        "PackageTitle: "Cold War Death Machine",
+        "GoogleDriveID": "1JhhZ60JT0u0r943YNuvcTGcJjDnmHt60",
+        "PackageHash": "2a9ca28cd6cff9bc7f538bc8453324b9",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/wegg_cw_minigun.shid",
+        "PackageType": "SCRIPTS",
+        "PackageAuthors": "WetEgg / Treyarch",
+        "PackageMainAuthor": "WetEgg",
+        "PackageTags": [
             "scripts",
             "wet",
             "wetegg",
@@ -1536,90 +1536,90 @@
             "powerup",
             "script"
         ],
-        "redraw_id": "[#0034]",
-        "redraw_url": "https://red-raw.net/redraw/scripts_wegg_minigun.zip"
+        "RedrawPackageID": "[#0034]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/scripts_wegg_minigun.zip"
     },
     "logical_legostud": {
-        "package_title": "Lego Stud Points",
-        "id": "1LPro1okCYoOpjh83zbeCTkF8H9Q7XoP3",
-        "md5hash": "9056e484b14d6ba2a4ad938863fb88dd",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/logical_legostud.shid",
-        "type": "SCRIPTS",
-        "authors": "Logical",
-        "main_author": "Logical",
-        "tags": [
+        "PackageTitle: "Lego Stud Points",
+        "GoogleDriveID": "1LPro1okCYoOpjh83zbeCTkF8H9Q7XoP3",
+        "PackageHash": "9056e484b14d6ba2a4ad938863fb88dd",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/logical_legostud.shid",
+        "PackageType": "SCRIPTS",
+        "PackageAuthors": "Logical",
+        "PackageMainAuthor": "Logical",
+        "PackageTags": [
             "scripts",
             "logical",
             "lego",
             "stud",
             "script"
         ],
-        "redraw_id": "[#0032]",
-        "redraw_url": "https://red-raw.net/redraw/scripts_logical_legostud.zip"
+        "RedrawPackageID": "[#0032]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/scripts_logical_legostud.zip"
     },
     "alfathesus_floaties": {
-        "package_title": "Zombie Floaties",
-        "id": "1sePzSq5mKFuTvJ88chJWMdqQf6Sw-bPd",
-        "md5hash": "e3525fefc22f252f0a0fb0ede0b143fc",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/alfa_floaties.shid",
-        "type": "SCRIPTS",
-        "authors": "Alfathesus / Treyarch",
-        "main_author": "Alfathesus",
-        "tags": [
+        "PackageTitle: "Zombie Floaties",
+        "GoogleDriveID": "1sePzSq5mKFuTvJ88chJWMdqQf6Sw-bPd",
+        "PackageHash": "e3525fefc22f252f0a0fb0ede0b143fc",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/alfa_floaties.shid",
+        "PackageType": "SCRIPTS",
+        "PackageAuthors": "Alfathesus / Treyarch",
+        "PackageMainAuthor": "Alfathesus",
+        "PackageTags": [
             "scripts",
             "alfa",
             "float",
             "zombie",
             "script"
         ],
-        "redraw_id": "[#0029]",
-        "redraw_url": "https://red-raw.net/redraw/scripts_alf_floaties.zip"
+        "RedrawPackageID": "[#0029]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/scripts_alf_floaties.zip"
     },
     "shid_milestones": {
-        "package_title": "Perk Milestones",
-        "id": "1cBVk_swtzTR7wvZiuL_81Y-OI_lNe4GB",
-        "md5hash": "2fd57877ba5a4d68c876d2ecb13a6f1f",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/shid_milestones.shid",
-        "type": "SCRIPTS",
-        "authors": "Shidouri",
-        "main_author": "Shidouri",
-        "tags": [
+        "PackageTitle: "Perk Milestones",
+        "GoogleDriveID": "1cBVk_swtzTR7wvZiuL_81Y-OI_lNe4GB",
+        "PackageHash": "2fd57877ba5a4d68c876d2ecb13a6f1f",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/shid_milestones.shid",
+        "PackageType": "SCRIPTS",
+        "PackageAuthors": "Shidouri",
+        "PackageMainAuthor": "Shidouri",
+        "PackageTags": [
             "scripts",
             "shid",
             "perk",
             "milestone",
             "script"
         ],
-        "redraw_id": "[#0033]",
-        "redraw_url": "https://red-raw.net/redraw/scripts_shid_milestones.zip"
+        "RedrawPackageID": "[#0033]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/scripts_shid_milestones.zip"
     },
     "koen_hacker": {
-        "package_title": "Hacker",
-        "id": "1yXQnaPf3921n-Do_tISWjj9GVWjrYOae",
-        "md5hash": "f08443b7c1036804f4807b1daa73319c",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/koen_hackers.shid",
-        "type": "SCRIPTS",
-        "authors": "Koentje / Treyarch",
-        "main_author": "Koentje",
-        "tags": [
+        "PackageTitle: "Hacker",
+        "GoogleDriveID": "1yXQnaPf3921n-Do_tISWjj9GVWjrYOae",
+        "PackageHash": "f08443b7c1036804f4807b1daa73319c",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/koen_hackers.shid",
+        "PackageType": "SCRIPTS",
+        "PackageAuthors": "Koentje / Treyarch",
+        "PackageMainAuthor": "Koentje",
+        "PackageTags": [
             "scripts",
             "koen",
             "hacker",
             "moon",
             "script"
         ],
-        "redraw_id": "[#0030]",
-        "redraw_url": "https://red-raw.net/redraw/scripts_koen_hacker.zip"
+        "RedrawPackageID": "[#0030]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/scripts_koen_hacker.zip"
     },
     "hb21_bows": {
-        "package_title": "Elemental Bows",
-        "id": "1YTbLQb5mdp1leYdmGQyA8rue149BmJ9-",
-        "md5hash": "fe750137f010c482992d3f0d56ce7f97",
-        "shidurl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/hb21_bows.shid",
-        "type": "WEAPONS",
-        "authors": "Treyarch / DEVRAW / HarryBO21",
-        "main_author": "HarryBO21",
-        "tags": [
+        "PackageTitle: "Elemental Bows",
+        "GoogleDriveID": "1YTbLQb5mdp1leYdmGQyA8rue149BmJ9-",
+        "PackageHash": "fe750137f010c482992d3f0d56ce7f97",
+        "PackageShidUrl": "https://raw.githubusercontent.com/shidouri/ReDRaw/main/dotshid/hb21_bows.shid",
+        "PackageType": "WEAPONS",
+        "PackageAuthors": "Treyarch / DEVRAW / HarryBO21",
+        "PackageMainAuthor": "HarryBO21",
+        "PackageTags": [
             "weapons",
             "harry",
             "hb21",
@@ -1630,7 +1630,7 @@
             "der",
             "eisendrache"
         ],
-        "redraw_id": "[#0072]",
-        "redraw_url": "https://red-raw.net/redraw/weapons_harry_bows.zip"
+        "RedrawPackageID": "[#0072]",
+        "RedrawPackageDL": "https://red-raw.net/redraw/weapons_harry_bows.zip"
     }
 }
