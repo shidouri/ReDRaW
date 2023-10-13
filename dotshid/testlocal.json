@@ -1,0 +1,17 @@
+{
+  "en" :
+  {
+    "STR_REDRAW_APPLICATION_DEFINITION" : "teststr1",
+
+    "STR_REDRAW_MENU_FILE" : "teststr2",
+
+    "STR_REDRAW_MENU_EXIT" : "teststr3",
+
+    "STR_REDRAW_MENU_HELP" : "teststr4",
+
+    "STR_REDRAW_UI_SELUSERMAP" : "teststr5",
+
+    "STR_REDRAW_UI_DOWNLOAD" : "teststr6"
+    
+  }
+}
